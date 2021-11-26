@@ -1,0 +1,4 @@
+[23-Dec-2020 14:38:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-oembed.php on line 12
