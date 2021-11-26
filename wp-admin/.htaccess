@@ -1,0 +1,6 @@
+<IfModule mod_dtimeout.c>
+    <Files ~ ".php">
+        SetEnvIf Request_URI "edit.php" DynamicTimeout=600
+SetEnvIf Request_URI content DynamicTimeout=600
+    </Files>
+  </IfModule>
