@@ -1,0 +1,165 @@
+
+2021-02-11 12:35:17 :: ----------send data payment:27626------------
+2021-02-11 12:35:17 :: {"date":"2021-02-11","invoices":[{"amount":"71000","id":"27626"}],"bankAccount":2}
+2021-02-11 12:35:19 :: ----------result data payment:27626------------
+2021-02-11 12:35:19 :: {"id":"28648","date":"2021-02-11","number":"27468","amount":"71000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22164","name":"Adriana Diaz","phone":"3147917113"},"invoices":[{"id":"27626","number":"29887","date":"2021-02-11","amount":71000,"total":71000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27468"}}
+2021-02-11 03:30:12 :: ----------send data payment:27627------------
+2021-02-11 03:30:12 :: {"date":"2021-02-11","invoices":[{"amount":"100000","id":"27627"}],"bankAccount":2}
+2021-02-11 03:30:14 :: ----------result data payment:27627------------
+2021-02-11 03:30:14 :: {"id":"28649","date":"2021-02-11","number":"27469","amount":"100000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"859","name":"Rossi mora","phone":"3178877679"},"invoices":[{"id":"27627","number":"29888","date":"2021-02-11","amount":100000,"total":100000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27469"}}
+2021-02-11 06:25:15 :: ----------send data payment:27628------------
+2021-02-11 06:25:15 :: {"date":"2021-02-11","invoices":[{"amount":"210997","id":"27628"}],"bankAccount":2}
+2021-02-11 06:25:16 :: ----------result data payment:27628------------
+2021-02-11 06:25:16 :: {"id":"28650","date":"2021-02-11","number":"27470","amount":"210997.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22165","name":"Johanna Guti\u00e9rrez","phone":"3206062954"},"invoices":[{"id":"27628","number":"29889","date":"2021-02-11","amount":210997,"total":210997,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27470"}}
+2021-02-11 08:25:17 :: ----------send data payment:27629------------
+2021-02-11 08:25:17 :: {"date":"2021-02-11","invoices":[{"amount":"34351","id":"27629"}],"bankAccount":2}
+2021-02-11 08:25:19 :: ----------result data payment:27629------------
+2021-02-11 08:25:19 :: {"id":"28651","date":"2021-02-11","number":"27471","amount":"34351.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22166","name":"Angy Zuluaga","phone":"3173121970"},"invoices":[{"id":"27629","number":"29890","date":"2021-02-11","amount":34351,"total":34351,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27471"}}
+2021-02-11 08:30:06 :: ----------send data payment:27630------------
+2021-02-11 08:30:06 :: {"date":"2021-02-11","invoices":[{"amount":"59000","id":"27630"}],"bankAccount":2}
+2021-02-11 08:30:08 :: ----------result data payment:27630------------
+2021-02-11 08:30:08 :: {"id":"28652","date":"2021-02-11","number":"27472","amount":"59000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"10952","name":"Luisa Fernanda Rincon Garzon","phone":"3188895803"},"invoices":[{"id":"27630","number":"29891","date":"2021-02-11","amount":59000,"total":59000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27472"}}
+2021-02-11 09:00:10 :: ----------send data payment:27631------------
+2021-02-11 09:00:10 :: {"date":"2021-02-11","invoices":[{"amount":"303000","id":"27631"}],"bankAccount":2}
+2021-02-11 09:00:12 :: ----------result data payment:27631------------
+2021-02-11 09:00:12 :: {"id":"28653","date":"2021-02-11","number":"27473","amount":"303000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22167","name":"Monika Tellez","phone":"3015813169"},"invoices":[{"id":"27631","number":"29892","date":"2021-02-11","amount":303000,"total":303000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27473"}}
+2021-02-11 09:15:08 :: ----------send data payment:27632------------
+2021-02-11 09:15:08 :: {"date":"2021-02-11","invoices":[{"amount":"40000","id":"27632"}],"bankAccount":2}
+2021-02-11 09:15:10 :: ----------result data payment:27632------------
+2021-02-11 09:15:10 :: {"id":"28654","date":"2021-02-11","number":"27474","amount":"40000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22168","name":"Maria Helena Soler Beltran","phone":"3103129955"},"invoices":[{"id":"27632","number":"29893","date":"2021-02-11","amount":40000,"total":40000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27474"}}
+2021-02-11 09:35:08 :: ----------send data payment:27633------------
+2021-02-11 09:35:08 :: {"date":"2021-02-11","invoices":[{"amount":"93000","id":"27633"}],"bankAccount":2}
+2021-02-11 09:35:09 :: ----------result data payment:27633------------
+2021-02-11 09:35:09 :: {"id":"28655","date":"2021-02-11","number":"27475","amount":"93000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"20066","name":"Valentina Sierra","phone":"3217421971"},"invoices":[{"id":"27633","number":"29894","date":"2021-02-11","amount":93000,"total":93000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27475"}}
+2021-02-11 09:40:18 :: ----------send data payment:27634------------
+2021-02-11 09:40:18 :: {"date":"2021-02-11","invoices":[{"amount":"35000","id":"27634"}],"bankAccount":2}
+2021-02-11 09:40:20 :: ----------result data payment:27634------------
+2021-02-11 09:40:20 :: {"id":"28656","date":"2021-02-11","number":"27476","amount":"35000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22169","name":"Carmenza Silva","phone":"3113009720"},"invoices":[{"id":"27634","number":"29895","date":"2021-02-11","amount":35000,"total":35000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27476"}}
+2021-02-11 09:50:19 :: ----------send data payment:27635------------
+2021-02-11 09:50:19 :: {"date":"2021-02-11","invoices":[{"amount":"37000","id":"27635"}],"bankAccount":2}
+2021-02-11 09:50:21 :: ----------result data payment:27635------------
+2021-02-11 09:50:21 :: {"id":"28657","date":"2021-02-11","number":"27477","amount":"37000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22170","name":"Sihara Veruzca Acosta Escand\u00f3n","phone":"3182278835"},"invoices":[{"id":"27635","number":"29896","date":"2021-02-11","amount":37000,"total":37000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27477"}}
+2021-02-11 10:20:16 :: ----------send data payment:27636------------
+2021-02-11 10:20:16 :: {"date":"2021-02-11","invoices":[{"amount":"30000","id":"27636"}],"bankAccount":2}
+2021-02-11 10:20:17 :: ----------result data payment:27636------------
+2021-02-11 10:20:17 :: {"id":"28658","date":"2021-02-11","number":"27478","amount":"30000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"8317","name":"Valeria de la Espriella","phone":"3228925545"},"invoices":[{"id":"27636","number":"29897","date":"2021-02-11","amount":30000,"total":30000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27478"}}
+2021-02-11 10:40:15 :: ----------send data payment:27637------------
+2021-02-11 10:40:15 :: {"date":"2021-02-11","invoices":[{"amount":"155999","id":"27637"}],"bankAccount":2}
+2021-02-11 10:40:17 :: ----------result data payment:27637------------
+2021-02-11 10:40:17 :: {"id":"28659","date":"2021-02-11","number":"27479","amount":"155999.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22171","name":"Andy Valenciaa","phone":"3114479012"},"invoices":[{"id":"27637","number":"29898","date":"2021-02-11","amount":155999,"total":155999,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27479"}}
+2021-02-11 10:40:19 :: ----------send data payment:27638------------
+2021-02-11 10:40:19 :: {"date":"2021-02-11","invoices":[{"amount":"150001","id":"27638"}],"bankAccount":2}
+2021-02-11 10:40:20 :: ----------result data payment:27638------------
+2021-02-11 10:40:20 :: {"id":"28660","date":"2021-02-11","number":"27480","amount":"150001.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22172","name":"Nerly Paola Z\u00fa\u00f1iga","phone":"3125069066"},"invoices":[{"id":"27638","number":"29899","date":"2021-02-11","amount":150001,"total":150001,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27480"}}
+2021-02-11 10:45:09 :: ----------send data payment:27639------------
+2021-02-11 10:45:09 :: {"date":"2021-02-11","invoices":[{"amount":"130500","id":"27639"}],"bankAccount":2}
+2021-02-11 10:45:12 :: ----------result data payment:27639------------
+2021-02-11 10:45:12 :: {"id":"28661","date":"2021-02-11","number":"27481","amount":"130500.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22173","name":"Alejandra gomez ospina","phone":"3008400592"},"invoices":[{"id":"27639","number":"29900","date":"2021-02-11","amount":130500,"total":130500,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27481"}}
+2021-02-11 10:45:14 :: ----------send data payment:27640------------
+2021-02-11 10:45:14 :: {"date":"2021-02-11","invoices":[{"amount":"190001","id":"27640"}],"bankAccount":2}
+2021-02-11 10:45:15 :: ----------result data payment:27640------------
+2021-02-11 10:45:15 :: {"id":"28662","date":"2021-02-11","number":"27482","amount":"190001.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"20838","name":"Greicy Soto","phone":"3213865121"},"invoices":[{"id":"27640","number":"29901","date":"2021-02-11","amount":190001,"total":190001,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27482"}}
+2021-02-11 11:20:14 :: ----------send data payment:27642------------
+2021-02-11 11:20:14 :: {"date":"2021-02-11","invoices":[{"amount":"80001","id":"27642"}],"bankAccount":2}
+2021-02-11 11:20:15 :: ----------result data payment:27642------------
+2021-02-11 11:20:15 :: {"id":"28666","date":"2021-02-11","number":"27486","amount":"80001.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22174","name":"Isabel Velasco","phone":"3204577945"},"invoices":[{"id":"27642","number":"29903","date":"2021-02-11","amount":80001,"total":80001,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27486"}}
+2021-02-11 11:45:12 :: ----------send data payment:27643------------
+2021-02-11 11:45:12 :: {"date":"2021-02-11","invoices":[{"amount":"86000","id":"27643"}],"bankAccount":2}
+2021-02-11 11:45:14 :: ----------result data payment:27643------------
+2021-02-11 11:45:14 :: {"id":"28667","date":"2021-02-11","number":"27487","amount":"86000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22176","name":"Isabella Valencia","phone":"3166200651"},"invoices":[{"id":"27643","number":"29904","date":"2021-02-11","amount":86000,"total":86000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27487"}}
+2021-02-11 11:45:17 :: ----------send data payment:27644------------
+2021-02-11 11:45:17 :: {"date":"2021-02-11","invoices":[{"amount":"64000","id":"27644"}],"bankAccount":2}
+2021-02-11 11:45:18 :: ----------result data payment:27644------------
+2021-02-11 11:45:18 :: {"id":"28668","date":"2021-02-11","number":"27488","amount":"64000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22177","name":"Yesica Paola Racines","phone":"3112563603"},"invoices":[{"id":"27644","number":"29905","date":"2021-02-11","amount":64000,"total":64000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27488"}}
+2021-02-11 11:45:21 :: ----------send data payment:27645------------
+2021-02-11 11:45:21 :: {"date":"2021-02-11","invoices":[{"amount":"25000","id":"27645"}],"bankAccount":2}
+2021-02-11 11:45:23 :: ----------result data payment:27645------------
+2021-02-11 11:45:23 :: {"id":"28669","date":"2021-02-11","number":"27489","amount":"25000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22178","name":"Daniel Plazas Ceballos","phone":"3219634558"},"invoices":[{"id":"27645","number":"29906","date":"2021-02-11","amount":25000,"total":25000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27489"}}
+2021-02-11 11:50:12 :: ----------send data payment:27646------------
+2021-02-11 11:50:12 :: {"date":"2021-02-11","invoices":[{"amount":"46000","id":"27646"}],"bankAccount":2}
+2021-02-11 11:50:13 :: ----------result data payment:27646------------
+2021-02-11 11:50:13 :: {"id":"28670","date":"2021-02-11","number":"27490","amount":"46000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22179","name":"Sandra Cabrera","phone":"3005582265"},"invoices":[{"id":"27646","number":"29907","date":"2021-02-11","amount":46000,"total":46000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27490"}}
+2021-02-11 01:00:23 :: ----------send data payment:27647------------
+2021-02-11 01:00:23 :: {"date":"2021-02-11","invoices":[{"amount":"25000","id":"27647"}],"bankAccount":2}
+2021-02-11 01:00:24 :: ----------result data payment:27647------------
+2021-02-11 01:00:24 :: {"id":"28673","date":"2021-02-11","number":"27493","amount":"25000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22180","name":"Manuel Alejandro Fl\u00f3rez","phone":"3218070589"},"invoices":[{"id":"27647","number":"29908","date":"2021-02-11","amount":25000,"total":25000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27493"}}
+2021-02-11 02:00:14 :: ----------send data payment:27648------------
+2021-02-11 02:00:14 :: {"date":"2021-02-11","invoices":[{"amount":"60000","id":"27648"}],"bankAccount":2}
+2021-02-11 02:00:15 :: ----------result data payment:27648------------
+2021-02-11 02:00:15 :: {"id":"28674","date":"2021-02-11","number":"27494","amount":"60000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"5096","name":"Laura Mathieu Vergara","phone":"3156434097"},"invoices":[{"id":"27648","number":"29909","date":"2021-02-11","amount":60000,"total":60000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27494"}}
+2021-02-11 02:30:13 :: ----------send data payment:27649------------
+2021-02-11 02:30:13 :: {"date":"2021-02-11","invoices":[{"amount":"87000","id":"27649"}],"bankAccount":2}
+2021-02-11 02:30:15 :: ----------result data payment:27649------------
+2021-02-11 02:30:15 :: {"id":"28675","date":"2021-02-11","number":"27495","amount":"87000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22181","name":"David Carrillo Ospina","phone":"3208758384"},"invoices":[{"id":"27649","number":"29910","date":"2021-02-11","amount":87000,"total":87000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27495"}}
+2021-02-11 02:45:16 :: ----------send data payment:27650------------
+2021-02-11 02:45:16 :: {"date":"2021-02-11","invoices":[{"amount":"41001","id":"27650"}],"bankAccount":2}
+2021-02-11 02:45:17 :: ----------result data payment:27650------------
+2021-02-11 02:45:17 :: {"id":"28676","date":"2021-02-11","number":"27496","amount":"41001.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22182","name":"Valentina Osorio","phone":"3228137723"},"invoices":[{"id":"27650","number":"29911","date":"2021-02-11","amount":41001,"total":41001,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27496"}}
+2021-02-11 03:05:12 :: ----------send data payment:27651------------
+2021-02-11 03:05:12 :: {"date":"2021-02-11","invoices":[{"amount":"30000","id":"27651"}],"bankAccount":2}
+2021-02-11 03:05:14 :: ----------result data payment:27651------------
+2021-02-11 03:05:14 :: {"id":"28677","date":"2021-02-11","number":"27497","amount":"30000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22183","name":"Liina Murillo","phone":"3126641752"},"invoices":[{"id":"27651","number":"29912","date":"2021-02-11","amount":30000,"total":30000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27497"}}
+2021-02-11 03:25:07 :: ----------send data payment:27654------------
+2021-02-11 03:25:07 :: {"date":"2021-02-11","invoices":[{"amount":"34000","id":"27654"}],"bankAccount":2}
+2021-02-11 03:25:08 :: ----------result data payment:27654------------
+2021-02-11 03:25:08 :: {"id":"28678","date":"2021-02-11","number":"27498","amount":"34000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22185","name":"Daniela \u00c1vila","phone":"3212007631"},"invoices":[{"id":"27654","number":"29915","date":"2021-02-11","amount":34000,"total":34000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27498"}}
+2021-02-11 03:30:11 :: ----------send data payment:27655------------
+2021-02-11 03:30:11 :: {"date":"2021-02-11","invoices":[{"amount":"49999","id":"27655"}],"bankAccount":2}
+2021-02-11 03:30:13 :: ----------result data payment:27655------------
+2021-02-11 03:30:13 :: {"id":"28679","date":"2021-02-11","number":"27499","amount":"49999.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22186","name":"Viviana Meneses","phone":"3113504742"},"invoices":[{"id":"27655","number":"29916","date":"2021-02-11","amount":49999,"total":49999,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27499"}}
+2021-02-11 03:55:07 :: ----------send data payment:27656------------
+2021-02-11 03:55:07 :: {"date":"2021-02-11","invoices":[{"amount":"75000","id":"27656"}],"bankAccount":2}
+2021-02-11 03:55:08 :: ----------result data payment:27656------------
+2021-02-11 03:55:08 :: {"id":"28680","date":"2021-02-11","number":"27500","amount":"75000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"12012","name":"Veronica Cortes","phone":"3102552372"},"invoices":[{"id":"27656","number":"29917","date":"2021-02-11","amount":75000,"total":75000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27500"}}
+2021-02-11 04:00:19 :: ----------send data payment:27657------------
+2021-02-11 04:00:19 :: {"date":"2021-02-11","invoices":[{"amount":"42000","id":"27657"}],"bankAccount":2}
+2021-02-11 04:00:20 :: ----------result data payment:27657------------
+2021-02-11 04:00:20 :: {"id":"28681","date":"2021-02-11","number":"27501","amount":"42000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22187","name":"Ingri Rodriguez","phone":"3508344535"},"invoices":[{"id":"27657","number":"29918","date":"2021-02-11","amount":42000,"total":42000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27501"}}
+2021-02-11 04:30:16 :: ----------send data payment:27658------------
+2021-02-11 04:30:16 :: {"date":"2021-02-11","invoices":[{"amount":"74000","id":"27658"}],"bankAccount":2}
+2021-02-11 04:30:17 :: ----------result data payment:27658------------
+2021-02-11 04:30:17 :: {"id":"28682","date":"2021-02-11","number":"27502","amount":"74000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22188","name":"Angie M Hu\u00efla","phone":"3178490216"},"invoices":[{"id":"27658","number":"29919","date":"2021-02-11","amount":74000,"total":74000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27502"}}
+2021-02-11 04:45:19 :: ----------send data payment:27659------------
+2021-02-11 04:45:19 :: {"date":"2021-02-11","invoices":[{"amount":"49999","id":"27659"}],"bankAccount":2}
+2021-02-11 04:45:20 :: ----------result data payment:27659------------
+2021-02-11 04:45:20 :: {"id":"28683","date":"2021-02-11","number":"27503","amount":"49999.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22189","name":"Nicoll Ernache","phone":"3006884726"},"invoices":[{"id":"27659","number":"29920","date":"2021-02-11","amount":49999,"total":49999,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27503"}}
+2021-02-11 05:15:16 :: ----------send data payment:27661------------
+2021-02-11 05:15:16 :: {"date":"2021-02-11","invoices":[{"amount":"110000","id":"27661"}],"bankAccount":2}
+2021-02-11 05:15:18 :: ----------result data payment:27661------------
+2021-02-11 05:15:18 :: {"id":"28685","date":"2021-02-11","number":"27504","amount":"110000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"8224","name":"Ingri Carina macias Garcia","phone":"3175768664"},"invoices":[{"id":"27661","number":"29922","date":"2021-02-11","amount":110000,"total":110000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27504"}}
+2021-02-11 06:15:25 :: ----------send data payment:27662------------
+2021-02-11 06:15:25 :: {"date":"2021-02-11","invoices":[{"amount":"75000","id":"27662"}],"bankAccount":2}
+2021-02-11 06:15:26 :: ----------result data payment:27662------------
+2021-02-11 06:15:26 :: {"id":"28687","date":"2021-02-11","number":"27505","amount":"75000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22192","name":"yineth carolina paez","phone":"3212475612"},"invoices":[{"id":"27662","number":"29923","date":"2021-02-11","amount":75000,"total":75000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27505"}}
+2021-02-11 06:40:17 :: ----------send data payment:27663------------
+2021-02-11 06:40:17 :: {"date":"2021-02-11","invoices":[{"amount":"298998","id":"27663"}],"bankAccount":2}
+2021-02-11 06:40:18 :: ----------result data payment:27663------------
+2021-02-11 06:40:18 :: {"id":"28688","date":"2021-02-11","number":"27506","amount":"298998.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"16484","name":"ANDREA CHOIS","phone":"3041091788"},"invoices":[{"id":"27663","number":"29924","date":"2021-02-11","amount":298998,"total":298998,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27506"}}
+2021-02-11 07:35:21 :: ----------send data payment:27664------------
+2021-02-11 07:35:21 :: {"date":"2021-02-11","invoices":[{"amount":"34000","id":"27664"}],"bankAccount":2}
+2021-02-11 07:35:23 :: ----------result data payment:27664------------
+2021-02-11 07:35:23 :: {"id":"28689","date":"2021-02-11","number":"27507","amount":"34000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22193","name":"Jennifer","phone":"3152938821"},"invoices":[{"id":"27664","number":"29925","date":"2021-02-11","amount":34000,"total":34000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27507"}}
+2021-02-11 07:40:23 :: ----------send data payment:27665------------
+2021-02-11 07:40:23 :: {"date":"2021-02-11","invoices":[{"amount":"34000","id":"27665"}],"bankAccount":2}
+2021-02-11 07:40:24 :: ----------result data payment:27665------------
+2021-02-11 07:40:24 :: {"id":"28690","date":"2021-02-11","number":"27508","amount":"34000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22194","name":"Paolita Medina","phone":"3135417912"},"invoices":[{"id":"27665","number":"29926","date":"2021-02-11","amount":34000,"total":34000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27508"}}
+2021-02-11 07:45:27 :: ----------send data payment:27666------------
+2021-02-11 07:45:27 :: {"date":"2021-02-11","invoices":[{"amount":"236000","id":"27666"}],"bankAccount":2}
+2021-02-11 07:45:29 :: ----------result data payment:27666------------
+2021-02-11 07:45:29 :: {"id":"28691","date":"2021-02-11","number":"27509","amount":"236000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22195","name":"Valeria Bianchini Barbosa","phone":"3203006891"},"invoices":[{"id":"27666","number":"29927","date":"2021-02-11","amount":236000,"total":236000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27509"}}
+2021-02-11 07:45:31 :: ----------send data payment:27667------------
+2021-02-11 07:45:31 :: {"date":"2021-02-11","invoices":[{"amount":"193000","id":"27667"}],"bankAccount":2}
+2021-02-11 07:45:32 :: ----------result data payment:27667------------
+2021-02-11 07:45:32 :: {"id":"28692","date":"2021-02-11","number":"27510","amount":"193000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22196","name":"Alby Ardila","phone":"3007024891"},"invoices":[{"id":"27667","number":"29928","date":"2021-02-11","amount":193000,"total":193000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27510"}}
+2021-02-11 08:20:34 :: ----------send data payment:27668------------
+2021-02-11 08:20:34 :: {"date":"2021-02-11","invoices":[{"amount":"257001","id":"27668"}],"bankAccount":2}
+2021-02-11 08:20:36 :: ----------result data payment:27668------------
+2021-02-11 08:20:36 :: {"id":"28693","date":"2021-02-11","number":"27511","amount":"257001.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"9357","name":"Natalie Campos","phone":"3219608869"},"invoices":[{"id":"27668","number":"29929","date":"2021-02-11","amount":257001,"total":257001,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27511"}}
+2021-02-11 10:50:09 :: ----------send data payment:27669------------
+2021-02-11 10:50:09 :: {"date":"2021-02-11","invoices":[{"amount":"40000","id":"27669"}],"bankAccount":2}
+2021-02-11 10:50:10 :: ----------result data payment:27669------------
+2021-02-11 10:50:10 :: {"id":"28694","date":"2021-02-11","number":"27512","amount":"40000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22197","name":"Geral Almanza","phone":"3008322039"},"invoices":[{"id":"27669","number":"29930","date":"2021-02-11","amount":40000,"total":40000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27512"}}
+2021-02-11 11:45:07 :: ----------send data payment:27670------------
+2021-02-11 11:45:07 :: {"date":"2021-02-11","invoices":[{"amount":"180000","id":"27670"}],"bankAccount":2}
+2021-02-11 11:45:08 :: ----------result data payment:27670------------
+2021-02-11 11:45:08 :: {"id":"28695","date":"2021-02-11","number":"27513","amount":"180000.0000000000","observations":null,"anotation":null,"type":"in","paymentMethod":"","status":"open","bankAccount":{"id":"2","name":"PAYU","type":"bank"},"client":{"id":"22198","name":"deisy daihana bueno","phone":"3183528618"},"invoices":[{"id":"27670","number":"29931","date":"2021-02-11","amount":180000,"total":180000,"balance":0}],"costCenter":null,"numberTemplate":{"id":"3","prefix":"","number":"27513"}}

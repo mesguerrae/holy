@@ -1,0 +1,281 @@
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+  animation: fadeEffect 1s;
+  /* Fading effect takes 1 second */
+}
+
+/* Go from zero to full opacity */
+@keyframes fadeEffect {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+/* Tables */
+.affiliatesuite__table {
+  border-collapse: collapse;
+  width: 100%;
+  background: #fff;
+  padding: 20px;
+}
+.affiliatesuite__table th, .affiliatesuite__table td {
+  padding: 10px 15px;
+}
+.affiliatesuite__table tr:not(:last-child) {
+  border-bottom: 1px solid #ddd;
+}
+
+/* Buttons */
+.affiliatesuite__btn, .affiliatesuite__btn__primary, .affiliatesuite__form .affiliatesuite__formgroup input[type=submit] {
+  display: inline-block;
+  text-decoration: none;
+  padding: 10px 15px;
+  border-radius: 3px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  background-color: #fff;
+  color: #333;
+  border: 1px solid #808080;
+}
+.affiliatesuite__btn:disabled, .affiliatesuite__btn__primary:disabled, .affiliatesuite__form .affiliatesuite__formgroup input[type=submit]:disabled {
+  background: #888;
+  border: 1px solid #888;
+}
+
+.affiliatesuite__btn__primary, .affiliatesuite__form .affiliatesuite__formgroup input[type=submit] {
+  background-color: #2980b9;
+  color: #fff;
+  border: 1px solid #2980b9;
+}
+
+/* Forms */
+.affiliatesuite__form .affiliatesuite__formgroup {
+  margin-bottom: 10px;
+}
+.affiliatesuite__form .affiliatesuite__formgroup label {
+  cursor: pointer;
+  display: block;
+  margin-bottom: 5px;
+}
+@media (min-width: 768px) {
+  .affiliatesuite__form .affiliatesuite__formgroup label {
+    display: inline-block;
+    width: 120px;
+  }
+}
+/* Card */
+.affiliatesuite__card, .affiliatesuite__card__block {
+  display: inline-block;
+  background: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  border: 1px solid #e5e5e5;
+  margin-bottom: 20px;
+}
+
+.affiliatesuite__card__block {
+  display: block;
+}
+
+/* Global Reports */
+#affilaitesuite__GlobalReportsGrid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: 10px;
+}
+#affilaitesuite__GlobalReportsGrid #affiliatesuite__affiliatesRanking {
+  grid-column-start: 1;
+  grid-column-end: 6;
+}
+#affilaitesuite__GlobalReportsGrid #affiliatesuite__comissionsReport {
+  grid-column-start: 6;
+  grid-column-end: 11;
+}
+#affilaitesuite__GlobalReportsGrid #affiliatesuite__totalComissions {
+  grid-column-start: 11;
+  grid-column-end: 13;
+}
+#affilaitesuite__GlobalReportsGrid #affiliatesuite__totalComissions .affiliatesuite__comissionsTotal {
+  font-size: 24px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+#affilaitesuite__GlobalReportsGrid #affiliatesuite__allReferrals {
+  grid-column-start: 1;
+  grid-column-end: 13;
+}
+#affilaitesuite__GlobalReportsGrid #affiliatesuite__recalculateComissions {
+  grid-column-start: 1;
+  grid-column-end: 7;
+}
+
+/* Single Affilate Reports */
+#singleAffiliateReports_grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: 10px;
+}
+#singleAffiliateReports_grid #affiliatesuite__affiliate_info {
+  grid-column-start: 1;
+  grid-column-end: 13;
+}
+#singleAffiliateReports_grid #affiliatesuite__comissionsReport {
+  grid-column-start: 1;
+  grid-column-end: 13;
+}
+@media (min-width: 768px) {
+  #singleAffiliateReports_grid #affiliatesuite__comissionsReport {
+    grid-column-start: 1;
+    grid-column-end: 5;
+  }
+}
+#singleAffiliateReports_grid #affiliatesuite__comissionsReport.affiliatesuite__comissionsReport__dashboard {
+  grid-column-start: 1;
+  grid-column-end: 13;
+}
+@media (min-width: 768px) {
+  #singleAffiliateReports_grid #affiliatesuite__comissionsReport.affiliatesuite__comissionsReport__dashboard {
+    grid-column-start: 1;
+    grid-column-end: 7;
+  }
+}
+#singleAffiliateReports_grid #affiliatesuite__lastQuarterReferralsCountReport {
+  grid-column-start: 1;
+  grid-column-end: 13;
+}
+@media (min-width: 768px) {
+  #singleAffiliateReports_grid #affiliatesuite__lastQuarterReferralsCountReport {
+    grid-column-start: 5;
+    grid-column-end: 9;
+  }
+}
+#singleAffiliateReports_grid #affiliatesuite__lastQuarterReferralsCountReport.affiliatesuite__lastQuarterReferralsCountReport__dashboard {
+  grid-column-start: 1;
+  grid-column-end: 13;
+}
+@media (min-width: 768px) {
+  #singleAffiliateReports_grid #affiliatesuite__lastQuarterReferralsCountReport.affiliatesuite__lastQuarterReferralsCountReport__dashboard {
+    grid-column-start: 7;
+    grid-column-end: 13;
+  }
+}
+#singleAffiliateReports_grid #affiliatesuite__topProductsReport {
+  grid-column-start: 1;
+  grid-column-end: 13;
+}
+@media (min-width: 768px) {
+  #singleAffiliateReports_grid #affiliatesuite__topProductsReport {
+    grid-column-start: 9;
+    grid-column-end: 13;
+  }
+}
+#singleAffiliateReports_grid #affiliatesuite__affiliateReferrals {
+  grid-column-start: 1;
+  grid-column-end: 13;
+}
+#singleAffiliateReports_grid #affiliateSuite__importReferrals,
+#singleAffiliateReports_grid #affiliateSuite__importReferrals__woocommerce {
+  grid-column-start: 1;
+  grid-column-end: 7;
+}
+
+/* Affiliate info */
+.affiliatesuite__affiliate_info {
+  display: flex;
+  justify-content: space-between;
+}
+.affiliatesuite__affiliate_info .affiliatesuite__affiliateStatus {
+  font-size: inherit;
+}
+.affiliatesuite__affiliate_info .affiliatesuite__affiliateStatus.active {
+  color: #4CAF50;
+}
+.affiliatesuite__affiliate_info .affiliatesuite__affiliateStatus.inactive {
+  color: #ffc107;
+}
+.affiliatesuite__affiliate_info span {
+  font-size: 20px;
+}
+
+.affiliatesuite__reportDateSelect {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.affiliatesuite__filterbyDate {
+  float: right;
+  margin-bottom: 20px;
+}
+.affiliatesuite__filterbyDate span {
+  font-weight: bold;
+  display: block;
+}
+@media (min-width: 768px) {
+  .affiliatesuite__filterbyDate span {
+    display: inline;
+  }
+}
+
+#affiliateSuite__importReferrals__woocommerce button#searchReferrals {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#affiliateSuite__importReferrals__woocommerce button#searchReferrals:hover {
+  background: #eee;
+}
+
+.affiliateSuite_importReferrals_table {
+  border-collapse: collapse;
+}
+.affiliateSuite_importReferrals_table th, .affiliateSuite_importReferrals_table td {
+  padding: 5px;
+}
+.affiliateSuite_importReferrals_table tr {
+  border-bottom: 1px solid #888;
+}
+
+#importWooOrders {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*# sourceMappingURL=admin.css.map */

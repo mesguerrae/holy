@@ -1,0 +1,1290 @@
+.hubwoo-header-template{
+  text-align: center;
+}
+.hubwoo-emails-table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+.list-emails-and-orders{
+  max-height: 350px;
+  overflow-y: auto;
+}
+table.hubwoo-emails-table td, table.hubwoo-emails-table th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 5px;
+}
+table.hubwoo-emails-table tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.hubwoo_select{
+  width: 20px;
+}
+.hubwoo-tab-disabled{
+  color: #fff !important;
+  background: #FDB9A7 none repeat scroll 0% 0% !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.1) !important;
+  cursor:not-allowed;
+}
+a.hubwoo-next-step:hover {
+  color: white;
+}
+.hubwoo-new-tabs a.nav-tab-active{
+  background-color: #F77719;
+  color:#FFF;
+}
+.hubwoo-ocs-tabs .hubwoo-new-tabs{
+  display: inline-block;
+}
+.hubwoo_alert{
+  color: red;
+}
+#hubwoo-order-statuses ~ .select2.select2-container.select2-container--default {
+  padding-right: 15px;
+}
+#hubwoo-selected-user-roles ~ .select2.select2-container.select2-container--default {
+  padding-right: 15px;
+}
+.hubwoo-sync-method {
+  margin-top: 25px;
+}
+.hubwoo-sync-methods {
+  width: 100% !important;
+  margin-top: 10px;
+}
+.hubwoo-abncart-timer input{
+  width: 100% !important;
+}
+.hubwoo-action-field {
+  text-decoration: none;
+  background: #9B5C8F;
+  color: #fff;
+  padding: 5px 12px;
+  font-size: 14px;
+  text-transform: capitalize;
+  margin-right: 10px;
+}
+.hubwoo-action-field:hover{
+  color: #fff;
+}
+.hubwoo-hubspot-icon,.hubwoo-woo-icon{
+  float:left;
+  width: 15%;
+  padding: 10px;
+}
+.hubwoo-header-text{
+  width: 70%;
+  float: left;
+  padding: 10px;
+  font-size: 25px;
+}
+.hubwoo-body-template{
+  padding: 10px;
+}
+.hubwoo-tabs{
+  width: auto;
+  margin: 5px;
+  padding: 5px;
+}
+.hubwoo-nav-tab {
+  border-image: none;
+  margin-left: 0.5em;
+  padding: 5px 10px;
+  font-size: 14px;
+  line-height: 35px;
+  color: #F77719;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  display: block;
+  background-color: #fff;
+}
+.hubwoo-nav-tab:focus, .hubwoo-nav-tab:hover {
+ color: #ffffff;
+ display: block;
+ background-color: #F77719;
+}
+.hubwoo-navigator-template {
+  padding: 10px;
+  margin: 10px 0;
+  width: 20%;
+  display: inline-block;
+  vertical-align: top;
+}
+.hubwoo-content-template {
+  padding: 10px;
+  margin: 10px 0;
+  display: inline-block;
+  width: 78%;
+  background: #ffffff;
+  vertical-align: top;
+  text-align: center;
+}
+.hubwoo-sidebar{
+  float: left;
+  padding: 10px;
+  margin: 10px;
+}
+.hubwoo-overview-header{
+  text-align: center;
+}
+.hubwoo-overview-header h2{
+  font-size: 25px;
+  font-weight: bold;
+}
+.hubwoo-overview-container {
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  box-shadow: 2px 2px 26px #d7d7d7;
+  min-height: 160px;
+  height: 100%;
+  position: relative;
+}
+.hubwoo-connection-container{
+  padding: 10px;
+  width:auto;
+  margin:0 auto;
+}
+.hubwoo-overview-footer{
+  text-align: center;
+  padding: 5px;
+}
+.hubwoo_pop_up_wrap {
+  background-color: rgba(0, 0, 0, 0.55);
+  bottom: 0;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 100%;
+  z-index: 9999;
+}
+.hubwoo_pop_up_wrap p {
+  color: #232323;
+  font-size: 17px;
+  text-align: center;
+}
+.hubwoo_pop_up_wrap .pop_up_sub_wrap {
+  background-color: #fff;
+  border-radius: 3px;
+  box-shadow: 0 6px 5px rgba(0, 0, 0, 0.4);
+  box-sizing: border-box;
+  left: 0;
+  margin: 0 auto;
+  max-width: 450px;
+  min-height: 228px;
+  padding: 16px;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.hubwoo_pop_up_wrap .pop_up_sub_wrap .button_wrap {
+  margin-top: 35px;
+  text-align: center;
+}
+.hubwoo_pop_up_wrap .pop_up_sub_wrap .button_wrap a {
+  border-radius: 3px;
+  box-sizing: border-box;
+  color: #fff;
+  display: block;
+  font-size: 17px;
+  padding: 10px; 
+  text-decoration: none;
+  width: 80%;
+  margin: 0 auto 15px;
+}
+.hubwoo_pop_up_wrap .pop_up_sub_wrap .button_wrap a:nth-child(1) {
+  background-color: #26488f;
+}
+.hubwoo_pop_up_wrap .pop_up_sub_wrap .button_wrap a:nth-child(2) {
+  text-decoration: underline;
+  color: #252525;
+}
+.hubwoo_oauth_span {
+  display: block;
+  margin: 10px 0;
+}
+.hubwoo_rfm_settings input[type=number]{
+  width: 60px;
+}
+span.hubwoo_oauth_span label {
+  background-color: #d9edf7 ;
+  border-left: 3px solid #0073aa ;
+  color: #31708f ;
+  display: inline-block;
+  line-height: 28px;
+  margin: -4px 0 0;
+  padding: 0 30px 0 15px;
+  position: relative;
+}
+span.hubwoo_oauth_span label::after {
+  border-bottom: 8px solid transparent;
+  border-left: 10px solid #0073aa ;
+  border-top: 8px solid transparent;
+  content: "";
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.popupwrap .hubwoo-message-area, .hubwoo-customer-message-area, .hubwoo-subs-message-area{
+  /*max-height: 150px;*/
+  overflow-y: auto;
+}
+.hubwoo-fields-select, .hubwoo-fields-display, .hubwoo-fields-created-list{
+  max-height: 500px;
+  overflow-y: auto;
+}
+.hubwoo_rfm_settings{
+  overflow-y: auto;
+}
+.popupwrap .hubwoo-message-area, .hubwoo-customer-message-area, .hubwoo-subs-message-area {
+  overflow: auto !important;
+  height: 250px !important;
+}
+.popupwrap {
+  background-color: #ffffff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.12);
+  display: block;
+  left: 0;
+  opacity: 1;
+  padding: 30px;
+  position: relative;
+  right: 0;
+  margin: 0 auto;
+  max-width: 600px;
+  width: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+#hubwoo-setup-process, #hubwoo-subs-setup-process, #hubwoo-customer-setup-process{
+  background-color: rgba(0, 0, 0, 0.65);
+  bottom: 0;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+}
+.progress-bar {
+  background-color: #337ab7;
+  border-radius: 8px;
+  box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.15) inset;
+  color: #ffffff;
+  font-size: 12px;
+  height: 100%;
+  line-height: 20px;
+  min-height: 24px;
+  text-align: center;
+  transition: width 0.6s ease 0s;
+  width: 0;
+}
+.popupwrap > p {
+  font-size: 19px;
+  font-weight: 600;
+  position: relative;
+}
+.progress {
+  background: #ccc none repeat scroll 0 0;
+  border-radius: 30px;
+}
+.hubwoo table.form-table tbody tr:nth-child(2n) {
+  background: #e2e2e2 none repeat scroll 0 0;
+}
+.hubwoo table.form-table tbody tr th {
+  padding-left: 10px;
+}
+.hubwoo .hubwoo-nav-tab-wrapper .nav-tab-active{
+  background: #fff;
+}
+#hubwoo_loader.loading-style-bg img {
+  left: 0;
+  margin: 0 auto;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100px;
+}
+#hubwoo_loader.loading-style-bg {
+  background-color: rgba(0, 0, 0, 0.65);
+  bottom: 0;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 100%;
+  z-index: 2147483647;
+}
+.hubwoo_rfm_settings table.wp-list-table td p span {
+  width: 80px;
+  display: inline-block;
+}
+.hubwoo_rfm_settings table.wp-list-table tbody#the-list tr:nth-child(odd) {
+  background-color: #0077ad1a;
+}
+
+#hubwoo-order-statuses ~ .select2.select2-container.select2-container--default{
+  width: 300px !important;
+}
+#hubwoo-selected-user-roles ~ .select2.select2-container.select2-container--default{
+  width: 300px !important;
+}
+/*21-6-2018*/
+
+/*========================================
+=            overview-section            =
+========================================*/
+
+.hubwoo-header-template:after{
+  clear: both;
+  content: "";
+  display: block;
+}
+.hubwoo-header-template {
+  background-color: #ffffff;
+  margin-left: -20px;
+}
+
+.hubwoo-body-template:after{
+  clear: both;
+  content: "";
+  display: block;
+}
+.hubwoo-overview-body {
+  text-align: center;
+}
+.hubwoo-overview-container h4{
+  font-size: 18px;
+  margin-top: 8px;
+  margin-bottom: 12px;
+}
+.hubwoo-overview-container .hubwoo-anchors{
+  color: #9B5C8F;
+  text-decoration: none;
+  text-align: left;
+  display: block;
+  font-size: 16px;
+  position: relative;
+}
+.hubwoo-know-about-app-settings.thickbox {
+  text-decoration: none;
+  background:  #FDB933;
+  color: #ffffff;
+  padding: 10px 21px;
+  display: inline-block;
+  font-size: 15px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-weight: bold;
+}
+.hubwoo-footer-container .hubwoo-overview-get-started, .hubwoo-next-step{
+  text-decoration: none;
+  background: #2D1656;
+  color: #ffffff;
+  padding: 10px 30px;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 6px;
+  box-shadow: 2px 2px 8px #4E4E4E;
+}
+.hubwoo-desc-num {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -10px;
+  background: #D33F49;
+  width: 30px;
+  height: 30px;
+  margin: 0 auto;
+  border-radius: 50%;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 30px;
+}
+.hubwoo-overview-footer-content-2{
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+.hubwoo-overview-footer-content-2 img{
+  vertical-align: middle;
+  margin-right: 10px;
+}
+.hubwoo-tabs .nav-tab-active, 
+.hubwoo-tabs .nav-tab-active:focus,
+.hubwoo-tabs .nav-tab-active:focus:active,
+.hubwoo-tabs .nav-tab-active:hover{
+  background: #F77719;
+  color: #fff !important;
+  display: block;
+}
+.hubwoo-tabs .nav-tab-active{
+  position: relative;
+}
+.hubwoo-tabs .nav-tab-active::after {
+  content: "";
+  position: absolute;
+  height: 2px;
+  width: 12px;
+  background: #fff;
+  transform: rotate(40deg);
+  right: 13px;
+  top: 18px;
+  border-radius: 10px;
+}
+.hubwoo-tabs .nav-tab-active::before {
+  content: "";
+  position: absolute;
+  height: 2px;
+  width: 12px;
+  background: #fff;
+  transform: rotate(-40deg);
+  right: 13px;
+  top: 25px;
+  border-radius: 10px;
+}
+.hubwoo-main-template h2{
+  color: #2D1656;
+  line-height: 33px;
+}
+
+/*=====  End of overview-section  ======*/
+
+/*=======================================
+=            connect-section            =
+=======================================*/
+.hubwoo-connect-form-header h2{
+  font-size: 25px;
+  line-height: 33px;
+}
+.hubwoo-connection {
+  display: inline-block;
+  margin: 30px;
+  padding: 20px 8px;
+  box-shadow: 2px 2px 10px #bababa;
+  max-width: 215px;
+  width: 100%;
+  position: relative;
+  background-color: #efefef;
+  vertical-align: top;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+.hubwoo-connection .hubwoo-connection-label,
+.hubwoo-connection .hubwoo-acc-email-label,
+.hubwoo-connection .hubwoo-token-expiry-label {
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 30px;
+  color: #9B5C8F;
+}
+.hubwoo-connection .hubwoo-connection-status-text{
+  font-size: 11px;
+}
+/*=====  End of connect-section  ======*/
+
+/*====================================
+=            custom-field            =
+====================================*/
+
+.hubwoo-fields-header h2{
+  font-size: 25px;
+}
+.hubwoo-fields-created .hubwoo-fields-created-list table{
+  width: 100%;
+  text-align: left;
+  background-color: #efefef;
+}
+.hubwoo-fields-created p {
+  font-size: 15px;
+  margin-top: 0;
+  margin-bottom: 25px;
+}
+.hubwoo-fields-created .hubwoo-fields-created-list table th{
+  background-color: #9B5C8F;
+  color: #ffffff;
+  padding: 14px;
+}
+.hubwoo-fields-created .hubwoo-fields-created-list table  td {
+  padding: 5px 15px;
+  font-size: 14px;
+}
+.hubwoo-fields-created-list {
+  padding: 15px;
+  margin-bottom: 12px;
+}
+.hubwoo-fields-created .hubwoo-fields-created-list table  td  .hubwoo-create-single-field, .hubwoo-create-single-group, .hubwoo-create-single-list{
+  width: 100%;
+  border: 0 !important;
+  text-align: center;
+  background: #FDB933 !important;
+  color: #fff !important;
+  text-shadow: none !important;
+  box-shadow: none !important;
+}
+.hubwoo-disabled:hover{
+  width: 100%;
+  color: #fff !important;
+  background: #FDB9A7 none repeat scroll 0% 0% !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.1) !important;
+  cursor:not-allowed;
+}
+.hubwoo-disabled{
+  width: 100%;
+  color: #fff !important;
+  background: #FDB9A7 none repeat scroll 0% 0% !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.1) !important;
+  cursor:not-allowed;
+}
+.hubwoo-field-checked {
+  text-align: center;
+}
+/*=====  End of custom-field  ======*/
+
+/*============================================
+=            connect-form-section            =
+============================================*/
+.hubwoo-connect-form-desc {
+  font-size: 15px;
+  line-height: 24px;
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+.hubwoo-connection-container label {
+  font-size: 16px;
+}
+.hubwoo-connection-container input[type="text"]{
+  height: 45px;
+  margin-bottom: 19px;
+  margin-left: 25px;
+}
+.hubwoo_oauth_span {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  /* display: block; */
+}
+
+.hubwoo-content-container .notice.notice-success.is-dismissible{
+  box-shadow: 2px 2px 11px #cecece;
+  color: #46B450;
+  font-weight: bold;
+}
+.hubwoo-content-container .notice.error {
+  box-shadow: 2px 2px 11px #cecece;
+  color: red;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.hubwoo-overview-footer-content-1.hubwoo-footer-container {
+  background: #efefef;
+  padding: 15px;
+  margin: 20px;
+}
+.hubwoo-overview-footer-content-1.hubwoo-footer-container p {
+  color: #2D1665;
+  font-size: 18px;
+  margin-bottom: 0;
+}
+/*=====  End of connect-form-section  ======*/
+
+
+/*============================================
+=            hubspot Custom Fields            =
+============================================*/
+
+.hubwoo_groups table th{
+  background: #efefef;
+  padding: 33px;
+
+}
+.hubwoo_groups table {
+  width: 100%;
+  text-align: left;
+  background-color: #efefef;
+}
+.hubwoo_groups tr {
+  background: #fff;
+}
+.hubwoo_groups table th p{
+  font-size: 20px;
+  color: #9B5C8F;
+}
+.hubwoo-run-fields-setup, .hubwoo-run-fields-decision, .hubwoo-run-groups-setup, .hubwoo-run-lists-setup, .hubwoo-change-group-decision, .hubwoo-change-list-decision{
+  text-decoration: none;
+  display: inline-block;
+  background: #4E5E9E;
+  color: #fff;
+  padding: 8px 25px;
+  font-size: 17px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.hubwoo-run-fields-setup, .hubwoo-run-groups-setup, .hubwoo-run-lists-setup{
+  background: green;
+  margin-right: 20px;
+}
+.hubwoo-run-fields-setup:hover ,.hubwoo-run-change-decision:hover, .hubwoo-run-groups-setup:hover ,.hubwoo-change-group-decision:hover,.hubwoo-change-list-decision:hover ,.hubwoo-run-lists-setup:hover{
+  color: #fff;
+}
+
+/*=====  End of hubspot Custom Fields  ======*/
+
+/*22-june-2018*/
+
+/*===================================
+=            RFM-setting            =
+===================================*/
+
+.hubwoo_rfm_settings table th{
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #9B5C8F;
+  color: #ffffff !important;
+}
+.hubwoo_rfm_settings table th p{
+  font-weight: normal;
+  color: #ffffff;
+}
+.hubwoo-rfm-form-header h2{
+  font-size: 25px;
+}
+
+
+/*=====  End of RFM-setting  ======*/
+
+
+/*==============================================
+=            one-click-sync-section            =
+==============================================*/
+
+.hubwoo-ocs-container h2{
+ font-size: 25px;
+}
+
+.hubwoo-ocs-container table th{
+  font-size: 15px;
+  padding-left: 20px;
+}
+
+.hubwoo-ocs-container table{
+  background-color: #efefef;
+}
+.hubwoo-ocs-container table td{
+  text-align: left;
+}
+
+.hubwoo-ocs-container #hubwoo_selected_role_for_ocs{
+  height: 40px;
+  width: 50%;
+}
+/*=====  End of one-click-sync-section  ======*/
+
+
+/*=======================================
+=            setting-section            =
+=======================================*/
+
+.hubwoo-advanced-settings, .hubwoo-general-settings {
+  display: inline-block;
+  vertical-align: top;
+  margin: 25px;
+  background-color: #efefef;
+  min-height: 220px;
+  height: 100%;
+  padding: 25px;
+  text-align: left;
+  box-shadow: 2px 2px 11px #bababa;
+}
+.hubwoo-settings-header h2{
+  font-size: 25px;
+}
+.hubwoo-advanced-settings, 
+.hubwoo-general-settings label{
+  font-size: 14px;
+}
+.hubwoo-order-status {
+  margin-bottom: 15px;
+}
+.hubwoo-advanced-setting{
+  margin-bottom: 15px;
+}
+.hubwoo_advanced_setting {
+  text-decoration: none;
+  color: #fff;
+  background: #9B5C8F;
+  padding: 6px 20px;
+  display: inline-block;
+  margin-left: 15px;
+
+}
+.hubwoo_advanced_setting:hover{
+  color: #ffffff;
+}
+.hubwoo-general-settings h2, 
+.hubwoo-advanced-settings h2{
+  margin-bottom: 30px;
+}
+.hubwoo-advanced-settings {
+  padding-bottom: 45px;
+}
+
+/*=====  End of setting-section  ======*/
+
+/*=========================================
+=            licencing-section            =
+=========================================*/
+.hubwoo-license-form-header h2{
+  font-size: 25px;
+}
+.hubwoo-license,.hubwoo-license-form-submit p{
+  text-align: center;
+}
+
+.hubwoo-license{
+ padding: 10px;
+ margin: 10px; 
+}
+.hubwoo-license-container {
+  background: #efefef;
+  margin: 25px;
+  padding: 20px;
+}
+.hubwoo-license-form-desc {
+  font-size: 14px;
+  line-height: 27px;
+  color: #9B5C8F;
+}
+#hubwoo_license_key {
+  height: 40px;
+}
+.hubwoo-license-container label {
+  font-size: 16px;
+}
+
+/*=====  End of licencing-section  ======*/
+
+/*=========================================
+=            hubspot-tracking-section            =
+=========================================*/
+
+.hubwoo-tracking-form-header h2{
+  font-size: 25px;
+}
+.hubwoo-tracking .hubwoo-license-form-submit p{
+  text-align: center;
+}
+.hubwoo-tracking{
+ padding: 10px;
+ margin: 10px; 
+}
+.hubwoo-tracking-container {
+  background: #efefef;
+  margin: 25px;
+  padding: 20px;
+}
+.hubwoo-traking-form-desc {
+  font-size: 14px;
+  line-height: 27px;
+  color: #9B5C8F;
+}
+.hubwoo_tracking_code{
+  border: 1px solid #9B5C8F;
+  width: 100% !important;
+}
+
+
+.hubwoo-tracking-container label {
+  font-size: 16px;
+  vertical-align: top;
+  margin-right: 15px;
+  margin-bottom: 20px;
+  display: block;
+}
+
+.hubwoo-tracking{
+  margin-top: 30px;
+  text-align: left;
+
+}
+.hubwoo-main-template * {
+  box-sizing: border-box;
+}
+
+
+/*=====  End of licencing-section  ======*/
+
+
+/*=========================================
+=             coming-soon-page            =
+=========================================*/
+
+.hubwoo-cs-text {
+  font-size: 19px;
+  line-height: 30px;
+  padding: 10px 70px;
+}
+
+.hubwoo-cs-new-changes {
+  display: inline-block;
+  margin: 14px;
+  background: #F77719;
+  padding: 0px 10px;
+  width: 240px;
+}
+.hubwoo-cs-new-changes h2{
+ color: #fff !important; 
+}
+.hubwoo-cs-changes p{
+  font-size: 23px;
+  color: #9B5C8F;
+  font-weight: bold;
+}
+.hubwoo-cs-changes ul{
+  background: #efefef;
+  margin: 35px;
+  padding: 15px;
+}
+.hubwoo-cs-changes ul li{
+  font-size: 15px;
+  margin-bottom: 16px;
+  line-height: 24px;
+}
+.hubwoo-cs-footer-body {
+  background: #9B5C8F;
+  color: #fff;
+  padding: 15px 10px;
+}
+.hubwoo-cs-footer-body p{
+  font-size: 17px;
+  margin: 0;
+}
+
+.hubwoo-cs-footer-body a {
+  font-size: 17px;
+  color: #fff;
+  text-decoration: none;
+  background: #F77719;
+  padding: 10px 15px;
+  display: inline-block;
+  margin-top: 12px;
+  border-radius: 20px;
+}
+
+/*=====  End of  coming-soon-page  ======*/
+
+
+/*======================================
+=            one-click-sync            =
+======================================*/
+#hubwoo-ocs-form table tr th {
+  padding: 20px !important;
+  background: #fff;
+}
+#hubwoo-ocs-form table {
+  width: 65%;
+  margin: 0 auto;
+  background: #efefef;
+  border: 1px solid #bababa;
+}
+
+#hubwoo-ocs-form table tr{
+  border: 1px solid #bababa;
+}
+#hubwoo-ocs-form .submit{
+  text-align: center !important;
+}
+/*=====  End of one-click-sync  ======*/
+
+/*=======================================
+=            advance-setting            =
+=======================================*/
+
+.hubwoo-advanced-settings{
+  display: block;
+}
+#hubwoopro table tr th{
+  padding: 20px !important;
+}
+
+#hubwoopro table tr {
+  border: 1px solid #bababa;
+}
+#hubwoopro table{
+  background: #ffffff;
+}
+#hubwoopro .button-primary{
+  margin-left: 20px;
+}
+
+#hubwoo-enroll table tr th{
+  padding: 20px !important;
+}
+
+#hubwoo-enroll table tr {
+  border: 1px solid #bababa;
+}
+#hubwoo-enroll table{
+  background: #ffffff;
+}
+#hubwoo-enroll .button-primary{
+  margin-left: 20px;
+}
+/*=====  End of advance-setting  ======*/
+
+/*=======================================
+=            connect-section            =
+=======================================*/
+
+.hubwoo-connect-form table tr th{
+  padding: 20px !important;
+  background: #ffffff;
+}
+.hubwoo-connect-form table tr td{
+  text-align: left;
+  padding: 10px;
+}
+.hubwoo-connect-form input{
+  margin-bottom: 0 !important;
+  margin-left: 0 !important
+}
+.hubwoo-connect-form table{
+  background: #efefef;
+  border: 1px solid #bababa;
+}
+.hubwoo-connect-form table tr{
+  border: 1px solid #bababa;
+}
+.hubwoo-connect-form .submit{
+  text-align: center !important;
+}
+
+/*=====  End of connect-section  ======*/
+
+/*=======================================
+=            error-section            =
+=======================================*/
+.hubwoo-extn-status p {
+  background: #F77719;
+  color: #fff;
+  padding: 10px;
+  font-size: 16px;
+}
+.hubwoo-error {
+  display: inline-block;
+  margin: 20px;
+  padding: 10px 8px;
+  box-shadow: 2px 2px 10px #bababa;
+  max-width: 200px;
+  width: 100%;
+  position: relative;
+  background-color: #efefef;
+  vertical-align: top;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+.hubwoo-error .hubwoo-total-calls{
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 30px;
+  color: blue;
+}
+.hubwoo-error .hubwoo-success-calls{
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 30px;
+  color: green;
+}
+.hubwoo-error .hubwoo-failed-calls{
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 30px;
+  color: red;
+}
+.hubwoo-error .hubwoo-error-text{
+  font-size: 20px;
+}
+
+/*=====  End of error-section  ======*/
+
+/*=======================================
+=            tooltip-section            =
+=======================================*/
+.hubwoo_tooltip {
+  background: #000 !important;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  width: 180px;
+  position: absolute;
+  right: 0;
+  top: -35px;
+  display: none;
+}
+.hubwoo_tooltip_checkbox_td {
+  position: relative;
+}
+
+.hubwoo_tooltip_checkbox_td {
+  text-align: center;
+  position: relative;
+}
+.hubwoo_tooltip::after {
+  position: absolute;
+  content: "";
+  width: 0;
+  height: 0;
+  border-left: 12px solid transparent;
+  border-right: 12px solid transparent;
+  border-top: 12px solid #000;
+  bottom: -11px;
+  right: 0;
+  left: 0;
+  margin: 0 auto;
+}
+.hubwoo_tooltip_checkbox:hover ~ .hubwoo_tooltip{
+  display: block;
+}
+/*=====  End of tooltip-section  ======*/
+
+/*===========================================
+=            advance-setting-new            =
+===========================================*/
+
+.hubwoo-old-user-update {
+  padding: 25px;
+  box-shadow: 2px 2px 13px #bababa;
+}
+.hubwoo-old-user-update p {
+  text-align: left;
+}
+
+.hubwoo-old-user-update p {
+  text-align: left;
+  font-size: 16px;
+  color: #2D166B;
+  font-weight: bold;
+}
+
+.hubwoo-update-old-properties span {
+  background: #9B5C8F;
+  display: block;
+  color: #fff;
+  padding: 8px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.hubwoo-old-user-update ul {
+  text-align: left;
+  padding-left: 20px;
+}
+.hubwoo-old-user-update ul li {
+  font-size: 16px;
+  margin-top: 18px;
+  list-style-type: decimal;
+}
+.hubwoo-old-user-update #hubwoo_old_properties_update {
+  background: #2D1656 !important;
+  border: 0;
+  box-shadow: none !important;
+  text-shadow: none;
+  padding: 3px 22px;
+  font-size: 15px;
+  height: 34px;
+}
+
+/*=====  End of advance-setting-new  ======*/
+
+.hubwoo_connect_page_actions {
+  color: #fff;
+  background: #9B5C8F;
+  display: inline-block;
+  text-decoration: none;
+  padding: 6px;
+  margin-left: 10px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+.hubwoo_connect_page_actions:hover{
+  color: #ffffff;
+}
+.ui-datepicker-next.ui-corner-all {
+    position: relative;
+}
+.ui-datepicker-next.ui-corner-all::after {
+    position: absolute;
+    content: "";
+    width: 15px;
+    height: 3px;
+    background: #352e2e;
+    transform: rotate(44deg);
+    top: 8px;
+    border-radius: 10px;
+    right: 6px;
+}
+.ui-datepicker-next.ui-corner-all::before {
+    position: absolute;
+    content: "";
+    width: 15px;
+    height: 3px;
+    background: #352e2e;
+    transform: rotate(-40deg);
+    top: 17px;
+    border-radius: 10px;
+    right: 6px;
+}
+.ui-datepicker-prev.ui-corner-all {
+    position: relative;
+}
+.ui-datepicker-prev.ui-corner-all::after {
+    position: absolute;
+    content: "";
+    width: 15px;
+    height: 3px;
+    background: #352e2e;
+    transform: rotate(-44deg);
+    top: 8px;
+    border-radius: 10px;
+    right: 6px;
+}
+.ui-datepicker-prev.ui-corner-all::before {
+    position: absolute;
+    content: "";
+    width: 15px;
+    height: 3px;
+    background: #352e2e;
+    transform: rotate(40deg);
+    top: 17px;
+    border-radius: 10px;
+    right: 6px;
+}
+
+
+/*===================================
+=            media-query            =
+===================================*/
+
+@media only screen and (max-width: 1122px){
+
+  .hubwoo-navigator-template{
+    width: 100%;
+
+  }
+  .hubwoo-content-template{
+    width: 100%;
+  }
+
+  .hubwoo-tabs {
+    display: inline-block;
+    width: auto;
+    margin: 5px 0;
+    padding: 0;
+
+  }
+  .hubwoo-nav-tab{
+    display: inline-block;
+    padding: 0px 10px;
+    font-size: 11px;
+    background-color: #fff;
+  }
+  .hubwoo-tabs .nav-tab-active::after{
+    content: none;
+  }
+  .hubwoo-tabs .nav-tab-active::before{
+    content: none;
+  }
+  .hubwoo-hubspot-icon, .hubwoo-woo-icon{
+    width: auto;
+    float: none;
+  }
+  .hubwoo-header-text {
+    width: 100%;
+    float: none;   
+  }
+  .hubwoo-header-text  h2{
+   margin: 0;
+   font-size: 20px;
+ }
+ .hubwoo-connection{
+  padding: 10px;
+}
+.hubwoo-advanced-settings, .hubwoo-general-settings{
+  display: block;
+}
+}
+
+@media only screen and (max-width: 400px){
+  .hubwoo-advanced-setting label{
+    margin-bottom: 10px;
+    display: block;
+  }
+  
+  .hubwoo_advanced_setting{
+    margin-left: 0;
+  }
+  .hubwoo-common-header h2{
+    font-size: 22px;
+  }
+  span.hubwoo_oauth_span label {
+    margin-bottom: 20px;
+  }
+}
+
+@media only screen and (max-width: 640px){
+  .hubwoo-connection-container input[type="password"],
+  .hubwoo-connection-container input[type="text"] {
+    max-width: 258px;
+    width: 100%;
+    text-align: left !important;
+  }
+  .hubwoo-connect-form label{
+    display: block;
+    margin-bottom: 10px;
+  }
+  #hubwoo-ocs-form table {
+    width: 100%;
+
+  }
+
+  .hubwoo-advanced-settings, .hubwoo-general-settings{
+    padding: 0;
+    margin: 0;
+  }
+  #hubwoopro table tr td{
+    padding: 10px;
+  }
+  #hubwoopro .button-primary{
+    margin-top: 16px;
+    margin: 0 auto;
+  }
+  .hubwoo-cs-text {
+    padding: 10px;
+  }
+  #hubwoo-order-statuses ~ .select2.select2-container.select2-container--default {
+    width: 100% !important;
+  }
+  #hubwoo-selected-user-roles ~ .select2.select2-container.select2-container--default {
+    width: 100% !important;
+  }
+}
+/*=====  End of media-query  ======*/

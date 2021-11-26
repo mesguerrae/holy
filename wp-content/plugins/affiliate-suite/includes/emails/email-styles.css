@@ -1,0 +1,63 @@
+body {
+    color: #737373;
+    background: #eee;
+    font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 150%;
+    text-align: left;
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+
+.affiliatesuite__emailBox {
+    max-width: 600px;
+    margin: auto;
+    background: #fff;
+}
+
+header {
+    background-color: #111;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 40px;
+}
+
+header h1 {
+    color: #ffffff;
+    font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 150%;
+    margin: 0;
+}
+
+header h3 {
+    color: #ffffff;
+    font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 150%;
+    margin: 0;
+}
+
+.affiliatesuite__emailBody {
+    padding: 40px;
+}
+
+.affiliatesuite__emailReferralTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+tr {
+    border: 1px solid #ddd;
+}
+
+td, th {
+    padding: 5px;
+}
+
+.affiliatesuite__emailFooter {
+    text-align: center;
+    padding: 20px 40px;
+}

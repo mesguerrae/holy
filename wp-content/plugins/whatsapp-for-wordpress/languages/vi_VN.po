@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi_VN\n"
+
+#. Text in echo
+#: views/nta-whatsapp-widget-view.php:12
+msgid "The team typically replies in a few minutes"
+msgstr "Nhóm nghiên cứu thường trả lời trong vài phút"
