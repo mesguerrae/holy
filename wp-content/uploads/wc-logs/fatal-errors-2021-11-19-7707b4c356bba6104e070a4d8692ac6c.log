@@ -1,0 +1,132 @@
+2021-11-19T11:33:04-05:00 CRITICAL Uncaught Error: Call to a member function get_data() on bool in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php:111
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Worker.php(47): admin\events\CreateInvoice->handle()
+#1 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Cron.php(106): WP_Queue\Worker->process()
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): WP_Queue\Cron->cron_worker()
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#5 /home/customer/www/holycosmetics.com.co/public_html/wp-cron.php(138): do_action_ref_array('wp_queue_connec...', Array)
+#6 {main}
+  thrown en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php en la línea 111
+
+2021-11-19T11:39:02-05:00 CRITICAL Uncaught Error: Call to a member function get_data() on bool in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php:111
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Worker.php(47): admin\events\CreateInvoice->handle()
+#1 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Cron.php(106): WP_Queue\Worker->process()
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): WP_Queue\Cron->cron_worker()
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#5 /home/customer/www/holycosmetics.com.co/public_html/wp-cron.php(138): do_action_ref_array('wp_queue_connec...', Array)
+#6 {main}
+  thrown en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php en la línea 111
+
+2021-11-19T11:45:11-05:00 CRITICAL Uncaught Error: Call to a member function get_data() on bool in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php:111
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Worker.php(47): admin\events\CreateInvoice->handle()
+#1 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Cron.php(106): WP_Queue\Worker->process()
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): WP_Queue\Cron->cron_worker()
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#5 /home/customer/www/holycosmetics.com.co/public_html/wp-cron.php(138): do_action_ref_array('wp_queue_connec...', Array)
+#6 {main}
+  thrown en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php en la línea 111
+
+2021-11-19T11:51:07-05:00 CRITICAL Uncaught Error: Call to a member function get_data() on bool in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php:111
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Worker.php(47): admin\events\CreateInvoice->handle()
+#1 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Cron.php(106): WP_Queue\Worker->process()
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): WP_Queue\Cron->cron_worker()
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#5 /home/customer/www/holycosmetics.com.co/public_html/wp-cron.php(138): do_action_ref_array('wp_queue_connec...', Array)
+#6 {main}
+  thrown en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php en la línea 111
+
+2021-11-19T11:57:06-05:00 CRITICAL Uncaught Error: Call to a member function get_data() on bool in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php:111
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Worker.php(47): admin\events\CreateInvoice->handle()
+#1 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Cron.php(106): WP_Queue\Worker->process()
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): WP_Queue\Cron->cron_worker()
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#5 /home/customer/www/holycosmetics.com.co/public_html/wp-cron.php(138): do_action_ref_array('wp_queue_connec...', Array)
+#6 {main}
+  thrown en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php en la línea 111
+
+2021-11-19T12:02:02-05:00 CRITICAL Uncaught Error: Call to a member function get_data() on bool in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php:111
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Worker.php(47): admin\events\CreateInvoice->handle()
+#1 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Cron.php(106): WP_Queue\Worker->process()
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): WP_Queue\Cron->cron_worker()
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#5 /home/customer/www/holycosmetics.com.co/public_html/wp-cron.php(138): do_action_ref_array('wp_queue_connec...', Array)
+#6 {main}
+  thrown en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php en la línea 111
+
+2021-11-19T12:08:02-05:00 CRITICAL Uncaught Error: Call to a member function get_data() on bool in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php:111
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Worker.php(47): admin\events\CreateInvoice->handle()
+#1 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Cron.php(106): WP_Queue\Worker->process()
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): WP_Queue\Cron->cron_worker()
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#5 /home/customer/www/holycosmetics.com.co/public_html/wp-cron.php(138): do_action_ref_array('wp_queue_connec...', Array)
+#6 {main}
+  thrown en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php en la línea 111
+
+2021-11-19T12:14:02-05:00 CRITICAL Uncaught Error: Call to a member function get_data() on bool in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php:111
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Worker.php(47): admin\events\CreateInvoice->handle()
+#1 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Cron.php(106): WP_Queue\Worker->process()
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): WP_Queue\Cron->cron_worker()
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#5 /home/customer/www/holycosmetics.com.co/public_html/wp-cron.php(138): do_action_ref_array('wp_queue_connec...', Array)
+#6 {main}
+  thrown en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php en la línea 111
+
+2021-11-19T12:20:02-05:00 CRITICAL Uncaught Error: Call to a member function get_data() on bool in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php:111
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Worker.php(47): admin\events\CreateInvoice->handle()
+#1 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Cron.php(106): WP_Queue\Worker->process()
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): WP_Queue\Cron->cron_worker()
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#5 /home/customer/www/holycosmetics.com.co/public_html/wp-cron.php(138): do_action_ref_array('wp_queue_connec...', Array)
+#6 {main}
+  thrown en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php en la línea 111
+
+2021-11-19T12:26:09-05:00 CRITICAL Uncaught Error: Call to a member function get_data() on bool in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php:111
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Worker.php(47): admin\events\CreateInvoice->handle()
+#1 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Cron.php(106): WP_Queue\Worker->process()
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): WP_Queue\Cron->cron_worker()
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#5 /home/customer/www/holycosmetics.com.co/public_html/wp-cron.php(138): do_action_ref_array('wp_queue_connec...', Array)
+#6 {main}
+  thrown en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php en la línea 111
+
+2021-11-19T12:31:08-05:00 CRITICAL Uncaught Error: Call to a member function get_data() on bool in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php:111
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Worker.php(47): admin\events\CreateInvoice->handle()
+#1 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Cron.php(106): WP_Queue\Worker->process()
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): WP_Queue\Cron->cron_worker()
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#5 /home/customer/www/holycosmetics.com.co/public_html/wp-cron.php(138): do_action_ref_array('wp_queue_connec...', Array)
+#6 {main}
+  thrown en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php en la línea 111
+
+2021-11-19T12:37:02-05:00 CRITICAL Uncaught Error: Call to a member function get_data() on bool in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php:111
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Worker.php(47): admin\events\CreateInvoice->handle()
+#1 /home/customer/www/holycosmetics.com.co/public_html/vendor/a5hleyrich/wp-queue/src/WP_Queue/Cron.php(106): WP_Queue\Worker->process()
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): WP_Queue\Cron->cron_worker()
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#5 /home/customer/www/holycosmetics.com.co/public_html/wp-cron.php(138): do_action_ref_array('wp_queue_connec...', Array)
+#6 {main}
+  thrown en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/alegra-facturacion/admin/events/create-invoice.php en la línea 111
+

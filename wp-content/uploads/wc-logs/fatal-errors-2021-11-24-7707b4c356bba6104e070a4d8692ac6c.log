@@ -1,0 +1,20 @@
+2021-11-24T23:15:06+00:00 CRITICAL Uncaught Error: Class 'WC_Facebookcommerce_EventsTracker' not found in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/facebook-for-woocommerce/facebook-commerce.php:425
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/facebook-for-woocommerce/class-wc-facebookcommerce.php(903): WC_Facebookcommerce_Integration->__construct()
+#1 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): WC_Facebookcommerce->get_integration('')
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-settings.php(578): do_action('init')
+#5 /home/customer/www/holycosmetics.com.co/public_html/wp-config.php(113): require_once('/home/customer/...')
+#6 /home/customer/www/holycosmetics.com.co/public_html/wp-load en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/facebook-for-woocommerce/facebook-commerce.php en la línea 425
+
+2021-11-24T23:16:26+00:00 CRITICAL Uncaught Error: Class 'Leadin\admin\AdminConstants' not found in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/leadin/src/class-assetsmanager.php:97
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/leadin/src/admin/class-gutenberg.php(50): Leadin\AssetsManager::localize_gutenberg()
+#1 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): Leadin\admin\Gutenberg->register_gutenberg_block('')
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-settings.php(578): do_action('init')
+#5 /home/customer/www/holycosmetics.com.co/public_html/wp-config.php(113): require_once('/home/customer/...')
+#6 /home/customer/www/holycosmetics.com.co/public_html/wp-load.php(50): require_once('/home/ en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/leadin/src/class-assetsmanager.php en la línea 97
+

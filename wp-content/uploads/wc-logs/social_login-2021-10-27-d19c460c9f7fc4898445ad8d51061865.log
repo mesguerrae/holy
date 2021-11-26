@@ -1,0 +1,2 @@
+10-27-2021 @ 09:16:54 - Error: User profile request failed! facebook returned an error: The Authorization Service has return: {"message":"Missing redirect_uri parameter.","type":"OAuthException","code":191,"fbtrace_id":"A3-ZaxBi5LgrY4hrOfHAMjM"}
+10-27-2021 @ 15:58:59 - Error: Authentication failed! facebook returned an error: access_denied

@@ -1,0 +1,16 @@
+2021-10-28T15:33:37+00:00 CRITICAL Uncaught ConnectionException: the url [https://api.payulatam.com/payments-api/4.0/service.cgi] did not respond in /home/customer/www/holycosmetics.com.co/public_html/lib/PayU/PayU/util/HttpClientUtil.php:55
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/lib/PayU/PayU/util/PayUApiServiceUtil.php(60): HttpClientUtil::sendRequest('{"language":"es...', Object(PayUHttpRequestInfo))
+#1 /home/customer/www/holycosmetics.com.co/public_html/lib/PayU/PayU/PayUPayments.php(71): PayUApiServiceUtil::sendRequest(Object(stdClass), Object(PayUHttpRequestInfo))
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/methods/Trasferencia_bancaria.php(124): PayUPayments::getPSEBanks(Array)
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/methods/Trasferencia_bancaria.php(139): WC_PayU_Trasgerencia_Bancaria_Payment_Gateway->getBanks()
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/ en /home/customer/www/holycosmetics.com.co/public_html/lib/PayU/PayU/util/HttpClientUtil.php en la línea 55
+
+2021-10-28T15:33:39+00:00 CRITICAL Uncaught ConnectionException: the url [https://api.payulatam.com/payments-api/4.0/service.cgi] did not respond in /home/customer/www/holycosmetics.com.co/public_html/lib/PayU/PayU/util/HttpClientUtil.php:55
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/lib/PayU/PayU/util/PayUApiServiceUtil.php(60): HttpClientUtil::sendRequest('{"language":"es...', Object(PayUHttpRequestInfo))
+#1 /home/customer/www/holycosmetics.com.co/public_html/lib/PayU/PayU/PayUPayments.php(71): PayUApiServiceUtil::sendRequest(Object(stdClass), Object(PayUHttpRequestInfo))
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/methods/Trasferencia_bancaria.php(124): PayUPayments::getPSEBanks(Array)
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/methods/Trasferencia_bancaria.php(139): WC_PayU_Trasgerencia_Bancaria_Payment_Gateway->getBanks()
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/ en /home/customer/www/holycosmetics.com.co/public_html/lib/PayU/PayU/util/HttpClientUtil.php en la línea 55
+

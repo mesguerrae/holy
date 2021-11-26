@@ -1,0 +1,99 @@
+2021-11-06T13:40:47+00:00 CRITICAL Uncaught Error: Call to a member function get_status() on null in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/frontend/OrderReceived.php:30
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): payu_print_order_status('Gracias. Tu ped...', NULL)
+#1 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters('Gracias. Tu ped...', Array)
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', 'Gracias. Tu ped...', NULL)
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/customer/...')
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#5 /hom en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/frontend/OrderReceived.php en la línea 30
+
+2021-11-06T13:41:48+00:00 CRITICAL Uncaught Error: Call to a member function get_status() on null in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/frontend/OrderReceived.php:30
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): payu_print_order_status('Gracias. Tu ped...', NULL)
+#1 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters('Gracias. Tu ped...', Array)
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', 'Gracias. Tu ped...', NULL)
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/customer/...')
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#5 /hom en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/frontend/OrderReceived.php en la línea 30
+
+2021-11-06T13:42:49+00:00 CRITICAL Uncaught Error: Call to a member function get_status() on null in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/frontend/OrderReceived.php:30
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): payu_print_order_status('Gracias. Tu ped...', NULL)
+#1 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters('Gracias. Tu ped...', Array)
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', 'Gracias. Tu ped...', NULL)
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/customer/...')
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#5 /hom en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/frontend/OrderReceived.php en la línea 30
+
+2021-11-06T13:43:50+00:00 CRITICAL Uncaught Error: Call to a member function get_status() on null in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/frontend/OrderReceived.php:30
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): payu_print_order_status('Gracias. Tu ped...', NULL)
+#1 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters('Gracias. Tu ped...', Array)
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', 'Gracias. Tu ped...', NULL)
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/customer/...')
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#5 /hom en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/frontend/OrderReceived.php en la línea 30
+
+2021-11-06T16:11:20+00:00 CRITICAL Uncaught Error: Call to a member function get_status() on null in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/frontend/OrderReceived.php:30
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): payu_print_order_status('Gracias. Tu ped...', NULL)
+#1 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters('Gracias. Tu ped...', Array)
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', 'Gracias. Tu ped...', NULL)
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/customer/...')
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#5 /hom en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/frontend/OrderReceived.php en la línea 30
+
+2021-11-06T16:11:40+00:00 CRITICAL Uncaught Error: Call to a member function get_status() on null in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/frontend/OrderReceived.php:30
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): payu_print_order_status('Gracias. Tu ped...', NULL)
+#1 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters('Gracias. Tu ped...', Array)
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', 'Gracias. Tu ped...', NULL)
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/customer/...')
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#5 /hom en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/frontend/OrderReceived.php en la línea 30
+
+2021-11-06T16:12:56+00:00 CRITICAL Uncaught Error: Call to a member function get_status() on null in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/frontend/OrderReceived.php:30
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): payu_print_order_status('Gracias. Tu ped...', NULL)
+#1 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters('Gracias. Tu ped...', Array)
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', 'Gracias. Tu ped...', NULL)
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/customer/...')
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#5 /hom en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/frontend/OrderReceived.php en la línea 30
+
+2021-11-06T16:13:08+00:00 CRITICAL Uncaught Error: Call to a member function get_status() on null in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/frontend/OrderReceived.php:30
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): payu_print_order_status('Gracias. Tu ped...', NULL)
+#1 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters('Gracias. Tu ped...', Array)
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', 'Gracias. Tu ped...', NULL)
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/customer/...')
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#5 /hom en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/frontend/OrderReceived.php en la línea 30
+
+2021-11-06T16:13:24+00:00 CRITICAL Uncaught Error: Call to a member function get_status() on null in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/frontend/OrderReceived.php:30
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): payu_print_order_status('Gracias. Tu ped...', NULL)
+#1 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters('Gracias. Tu ped...', Array)
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', 'Gracias. Tu ped...', NULL)
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/customer/...')
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#5 /hom en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/frontend/OrderReceived.php en la línea 30
+
+2021-11-06T16:13:29+00:00 CRITICAL Uncaught Error: Call to a member function get_status() on null in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/frontend/OrderReceived.php:30
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): payu_print_order_status('Gracias. Tu ped...', NULL)
+#1 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters('Gracias. Tu ped...', Array)
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', 'Gracias. Tu ped...', NULL)
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/customer/...')
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#5 /hom en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/frontend/OrderReceived.php en la línea 30
+
+2021-11-06T19:23:09+00:00 CRITICAL Uncaught Exception: No PDFs to merge. in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/shipping-servientrega-addons/lib/PDFMerger/PDFMerger.php:85
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/shipping-servientrega-addons/shipping-servientrega-addons.php(237): PDFMerger->merge('D', 'result.pdf')
+#1 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): ServientregaAddons->downloads_handle_bulk_action_edit_shop_order('/wp-admin/edit....', 'servientrega_sh...', Array)
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters('/wp-admin/edit....', Array)
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-admin/edit.php(212): apply_filters('handle_bulk_act...', '/wp-admin/edit....', 'servientrega_sh...', Array)
+#4 {main}
+  thrown en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/shipping-servientrega-addons/lib/PDFMerger/PDFMerger.php en la línea 85
+

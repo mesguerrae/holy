@@ -1,0 +1,9 @@
+2021-11-16T14:33:36+00:00 CRITICAL Uncaught Exception: No PDFs to merge. in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/shipping-servientrega-addons/lib/PDFMerger/PDFMerger.php:85
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/shipping-servientrega-addons/shipping-servientrega-addons.php(237): PDFMerger->merge('D', 'result.pdf')
+#1 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): ServientregaAddons->downloads_handle_bulk_action_edit_shop_order('/wp-admin/edit....', 'servientrega_sh...', Array)
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters('/wp-admin/edit....', Array)
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-admin/edit.php(212): apply_filters('handle_bulk_act...', '/wp-admin/edit....', 'servientrega_sh...', Array)
+#4 {main}
+  thrown en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/shipping-servientrega-addons/lib/PDFMerger/PDFMerger.php en la línea 85
+
