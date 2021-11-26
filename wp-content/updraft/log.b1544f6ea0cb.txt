@@ -1,0 +1,1887 @@
+0000.001 (0) Opened log file at time: Tue, 07 May 2019 05:05:03 +0000 on https://www.holycosmetics.co
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.16.5.24 WP: 5.1.1 PHP: 7.0.33 (cgi-fcgi, Linux box5694.bluehost.com 4.14.94-164.ELK.el7.x86_64 #1 SMP Wed Jan 16 17:14:35 CST 2019 x86_64) MySQL: 5.7.23-23 WPLANG: es_ES Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 72.2M | 76M) multisite: N openssl: OpenSSL 1.0.2r  26 Feb 2019 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.068 (0) Free space on disk containing Updraft's temporary directory: 1309684.9 MB
+0000.071 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.071 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.076 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1557119108, seconds_ago=86395)
+0000.077 (0) Semaphore (fd, wp_options) was stuck, set lock time to 2019-05-07 05:05:03
+0000.078 (0) Semaphore (fd, wp_options) reset to 1
+0000.078 (0) Set semaphore last lock (fd) time to 2019-05-07 05:05:03
+0000.079 (0) Semaphore lock (fd) complete
+0000.081 (0) Backup run: resumption=0, nonce=b1544f6ea0cb, file_nonce=b1544f6ea0cb begun at=1557205503 (0s ago), job type=backup
+0000.082 (0) Scheduling a resumption (1) after 300 seconds (1557205803) in case this run gets aborted
+0000.093 (0) Checking if we have a zip executable available
+0000.094 (0) Testing: /usr/bin/zip
+0000.099 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.100 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.101 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.101 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.102 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.106 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.107 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.114 (0) Working binary zip found: /usr/bin/zip
+0000.115 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.116 (0) Creation of backups of directories: beginning
+0000.118 (0) Beginning creation of dump of plugins (split every: 800 MB)
+0000.512 (0) Total entities for the zip file: 1664 directories, 10133 files (0 skipped as non-modified), 143.5 MB
+0000.514 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.516 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.518 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.520 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.522 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.523 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (24.1 MB, 10133 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0001.382 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: size is now: 7.10 MB
+0001.386 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 600 files added (on-disk size: 7294.8 KB)
+0001.389 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 700 files added (on-disk size: 7294.8 KB)
+0001.392 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 800 files added (on-disk size: 7294.8 KB)
+0001.394 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 900 files added (on-disk size: 7294.8 KB)
+0001.397 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 1000 files added (on-disk size: 7294.8 KB)
+0001.398 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.3 MB, 10133 files batched, 501 (1002) added so far); re-opening (prior size: 7294.8 KB)
+0001.849 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: size is now: 9.20 MB
+0001.852 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 1100 files added (on-disk size: 9389.9 KB)
+0001.854 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 1200 files added (on-disk size: 9389.9 KB)
+0001.856 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 1300 files added (on-disk size: 9389.9 KB)
+0001.858 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 1400 files added (on-disk size: 9389.9 KB)
+0001.860 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 1500 files added (on-disk size: 9389.9 KB)
+0001.860 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (0.3 MB, 10133 files batched, 501 (1503) added so far); re-opening (prior size: 9389.9 KB)
+0002.107 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 1600 files added (on-disk size: 9684.3 KB)
+0002.109 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 1700 files added (on-disk size: 9684.3 KB)
+0002.111 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 1800 files added (on-disk size: 9684.3 KB)
+0002.113 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 1900 files added (on-disk size: 9684.3 KB)
+0002.115 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 2000 files added (on-disk size: 9684.3 KB)
+0002.115 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.4 MB, 10133 files batched, 501 (2004) added so far); re-opening (prior size: 9684.3 KB)
+0002.525 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 2100 files added (on-disk size: 10980.9 KB)
+0002.527 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 2200 files added (on-disk size: 10980.9 KB)
+0002.529 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 2300 files added (on-disk size: 10980.9 KB)
+0002.530 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 2400 files added (on-disk size: 10980.9 KB)
+0002.532 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 2500 files added (on-disk size: 10980.9 KB)
+0002.533 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.8 MB, 10133 files batched, 501 (2505) added so far); re-opening (prior size: 10980.9 KB)
+0002.772 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 2600 files added (on-disk size: 11760.2 KB)
+0002.774 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 2700 files added (on-disk size: 11760.2 KB)
+0002.776 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 2800 files added (on-disk size: 11760.2 KB)
+0002.778 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 2900 files added (on-disk size: 11760.2 KB)
+0002.780 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 3000 files added (on-disk size: 11760.2 KB)
+0002.781 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.1 MB, 10133 files batched, 501 (3006) added so far); re-opening (prior size: 11760.2 KB)
+0003.146 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 3100 files added (on-disk size: 13048 KB)
+0003.148 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 3200 files added (on-disk size: 13048 KB)
+0003.149 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 3300 files added (on-disk size: 13048 KB)
+0003.151 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 3400 files added (on-disk size: 13048 KB)
+0003.153 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 3500 files added (on-disk size: 13048 KB)
+0003.153 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.5 MB, 10133 files batched, 501 (3507) added so far); re-opening (prior size: 13048 KB)
+0003.779 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: size is now: 15.60 MB
+0003.781 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 3600 files added (on-disk size: 16018.8 KB)
+0003.783 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 3700 files added (on-disk size: 16018.8 KB)
+0003.785 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 3800 files added (on-disk size: 16018.8 KB)
+0003.786 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 3900 files added (on-disk size: 16018.8 KB)
+0003.788 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 4000 files added (on-disk size: 16018.8 KB)
+0003.789 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5 MB, 10133 files batched, 501 (4008) added so far); re-opening (prior size: 16018.8 KB)
+0004.121 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 4100 files added (on-disk size: 17350.3 KB)
+0004.123 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 4200 files added (on-disk size: 17350.3 KB)
+0004.126 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 4300 files added (on-disk size: 17350.3 KB)
+0004.128 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (26.7 MB, 10133 files batched, 381 (4389) added so far); re-opening (prior size: 17350.3 KB)
+0005.077 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: size is now: 21.50 MB
+0005.079 (0) A useful amount of data was added after this amount of zip processing: 1.3 s (normalised: 1.2 s, rate: 21550.2 KB/s)
+0005.080 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.2708311080933, normalised_time=1.1879225907252, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=132404586)
+0005.081 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 4400 files added (on-disk size: 22051.6 KB)
+0005.083 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 4500 files added (on-disk size: 22051.6 KB)
+0005.085 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 4600 files added (on-disk size: 22051.6 KB)
+0005.087 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 4700 files added (on-disk size: 22051.6 KB)
+0005.088 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 4800 files added (on-disk size: 22051.6 KB)
+0005.090 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8 MB, 10133 files batched, 501 (4890) added so far); re-opening (prior size: 22051.6 KB)
+0005.713 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 4900 files added (on-disk size: 25392.8 KB)
+0005.715 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 5000 files added (on-disk size: 25392.8 KB)
+0005.716 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 5100 files added (on-disk size: 25392.8 KB)
+0005.718 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 5200 files added (on-disk size: 25392.8 KB)
+0005.720 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 5300 files added (on-disk size: 25392.8 KB)
+0005.721 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8.4 MB, 10133 files batched, 501 (5391) added so far); re-opening (prior size: 25392.8 KB)
+0006.215 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 5400 files added (on-disk size: 28238.5 KB)
+0006.217 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 5500 files added (on-disk size: 28238.5 KB)
+0006.219 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 5600 files added (on-disk size: 28238.5 KB)
+0006.220 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 5700 files added (on-disk size: 28238.5 KB)
+0006.222 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 5800 files added (on-disk size: 28238.5 KB)
+0006.223 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.2 MB, 10133 files batched, 501 (5892) added so far); re-opening (prior size: 28238.5 KB)
+0006.539 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 5900 files added (on-disk size: 29438.7 KB)
+0006.541 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 6000 files added (on-disk size: 29438.7 KB)
+0006.542 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 6100 files added (on-disk size: 29438.7 KB)
+0006.544 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 6200 files added (on-disk size: 29438.7 KB)
+0006.545 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 6300 files added (on-disk size: 29438.7 KB)
+0006.547 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.2 MB, 10133 files batched, 501 (6393) added so far); re-opening (prior size: 29438.7 KB)
+0006.878 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 6400 files added (on-disk size: 30761.7 KB)
+0006.880 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 6500 files added (on-disk size: 30761.7 KB)
+0006.881 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 6600 files added (on-disk size: 30761.7 KB)
+0006.883 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 6700 files added (on-disk size: 30761.7 KB)
+0006.885 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 6800 files added (on-disk size: 30761.7 KB)
+0006.887 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.3 MB, 10133 files batched, 501 (6894) added so far); re-opening (prior size: 30761.7 KB)
+0007.333 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 6900 files added (on-disk size: 32129.2 KB)
+0007.336 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 7000 files added (on-disk size: 32129.2 KB)
+0007.339 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 7100 files added (on-disk size: 32129.2 KB)
+0007.341 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 7200 files added (on-disk size: 32129.2 KB)
+0007.344 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 7300 files added (on-disk size: 32129.2 KB)
+0007.347 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.1 MB, 10133 files batched, 501 (7395) added so far); re-opening (prior size: 32129.2 KB)
+0007.661 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 7400 files added (on-disk size: 35025.3 KB)
+0007.663 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 7500 files added (on-disk size: 35025.3 KB)
+0007.665 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 7600 files added (on-disk size: 35025.3 KB)
+0007.667 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 7700 files added (on-disk size: 35025.3 KB)
+0007.668 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 7800 files added (on-disk size: 35025.3 KB)
+0007.670 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6 MB, 10133 files batched, 501 (7896) added so far); re-opening (prior size: 35025.3 KB)
+0008.106 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 7900 files added (on-disk size: 36504.3 KB)
+0008.107 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 8000 files added (on-disk size: 36504.3 KB)
+0008.109 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 8100 files added (on-disk size: 36504.3 KB)
+0008.111 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 8200 files added (on-disk size: 36504.3 KB)
+0008.112 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 8300 files added (on-disk size: 36504.3 KB)
+0008.114 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.3 MB, 10133 files batched, 501 (8397) added so far); re-opening (prior size: 36504.3 KB)
+0008.756 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 8400 files added (on-disk size: 40215.5 KB)
+0008.757 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 8500 files added (on-disk size: 40215.5 KB)
+0008.759 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 8600 files added (on-disk size: 40215.5 KB)
+0008.761 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 8700 files added (on-disk size: 40215.5 KB)
+0008.762 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 8800 files added (on-disk size: 40215.5 KB)
+0008.764 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.5 MB, 10133 files batched, 501 (8898) added so far); re-opening (prior size: 40215.5 KB)
+0009.231 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 8900 files added (on-disk size: 42076.7 KB)
+0009.233 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 9000 files added (on-disk size: 42076.7 KB)
+0009.234 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 9100 files added (on-disk size: 42076.7 KB)
+0009.236 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 9200 files added (on-disk size: 42076.7 KB)
+0009.238 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 9300 files added (on-disk size: 42076.7 KB)
+0009.240 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.8 MB, 10133 files batched, 501 (9399) added so far); re-opening (prior size: 42076.7 KB)
+0009.579 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 9400 files added (on-disk size: 42954.9 KB)
+0009.582 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 9500 files added (on-disk size: 42954.9 KB)
+0009.585 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 9600 files added (on-disk size: 42954.9 KB)
+0009.588 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 9700 files added (on-disk size: 42954.9 KB)
+0009.591 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 9800 files added (on-disk size: 42954.9 KB)
+0009.593 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.9 MB, 10133 files batched, 501 (9900) added so far); re-opening (prior size: 42954.9 KB)
+0009.916 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 9900 files added (on-disk size: 43690.1 KB)
+0009.918 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 10000 files added (on-disk size: 43690.1 KB)
+0009.920 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip.tmp: 10100 files added (on-disk size: 43690.1 KB)
+0010.707 (0) Created plugins zip (0) - 44258.5 KB in 10.6 s (4191.5 KB/s) (sha1: c789fb9d63e8962d6cdbfaeb53d74399afed166d, sha256: 2ce2e9e32200f7f79e4a77674a07d5725a69b2abd5aefc1bcb1f8dd2e3b47b41)
+0010.710 (0) Beginning creation of dump of themes (split every: 800 MB)
+0010.792 (0) Total entities for the zip file: 219 directories, 1739 files (0 skipped as non-modified), 19 MB
+0010.794 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0010.796 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0010.798 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0010.800 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0010.801 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0010.802 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.6 MB, 1739 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0011.180 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: size is now: 2.00 MB
+0011.183 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: 600 files added (on-disk size: 2001.7 KB)
+0011.185 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: 700 files added (on-disk size: 2001.7 KB)
+0011.186 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: 800 files added (on-disk size: 2001.7 KB)
+0011.188 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: 900 files added (on-disk size: 2001.7 KB)
+0011.190 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: 1000 files added (on-disk size: 2001.7 KB)
+0011.190 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.9 MB, 1739 files batched, 501 (1002) added so far); re-opening (prior size: 2001.7 KB)
+0011.399 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: size is now: 3.60 MB
+0011.404 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: 1100 files added (on-disk size: 3655 KB)
+0011.407 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: 1200 files added (on-disk size: 3655 KB)
+0011.409 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: 1300 files added (on-disk size: 3655 KB)
+0011.412 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: 1400 files added (on-disk size: 3655 KB)
+0011.415 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: 1500 files added (on-disk size: 3655 KB)
+0011.416 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.7 MB, 1739 files batched, 501 (1503) added so far); re-opening (prior size: 3655 KB)
+0011.651 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: size is now: 4.50 MB
+0011.655 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: 1600 files added (on-disk size: 4616.2 KB)
+0011.657 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: 1700 files added (on-disk size: 4616.2 KB)
+0011.916 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip.tmp: size is now: 11.50 MB
+0012.074 (0) Created themes zip (0) - 11808.6 KB in 1.3 s (8857.5 KB/s) (sha1: b047fffda1dd949677e59df16ac773c8e14e43fb, sha256: 176c9f25d13f5090aa2bd85db5c6146d2a5c955c0a3849312389f94399c8ca6e)
+0012.076 (0) Exclusion option setting (uploads): 
+0012.076 (0) Looking for candidates to backup in: /home1/holycosm/public_html/wp-content/uploads
+0012.077 (0) finding files: woocommerce-placeholder-medium.png: adding to list (1)
+0012.077 (0) finding files: revslider: adding to list (2)
+0012.077 (0) finding files: GeoIP.dat: adding to list (3)
+0012.078 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (4)
+0012.078 (0) finding files: woocommerce-placeholder-247x296.png: adding to list (5)
+0012.079 (0) finding files: woocommerce-placeholder-large.png: adding to list (6)
+0012.079 (0) finding files: wpallexport: adding to list (7)
+0012.080 (0) finding files: 2018: adding to list (8)
+0012.080 (0) finding files: woocommerce_uploads: adding to list (9)
+0012.080 (0) finding files: et_temp: adding to list (10)
+0012.081 (0) finding files: wc-logs: adding to list (11)
+0012.081 (0) finding files: GeoLite2-Country.mmdb: adding to list (12)
+0012.082 (0) finding files: 2016: adding to list (13)
+0012.082 (0) finding files: woocommerce-placeholder-small.png: adding to list (14)
+0012.082 (0) finding files: wpseo-redirects: adding to list (15)
+0012.083 (0) finding files: 2019: adding to list (16)
+0012.083 (0) finding files: js_composer: adding to list (17)
+0012.084 (0) finding files: GeoIPv6.dat: adding to list (18)
+0012.084 (0) finding files: woocommerce-placeholder.png: adding to list (19)
+0012.084 (0) finding files: wp-staging: adding to list (20)
+0012.085 (0) Beginning creation of dump of uploads (split every: 800 MB)
+0012.264 (0) Total entities for the zip file: 217 directories, 10124 files (0 skipped as non-modified), 358.5 MB
+0012.266 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0012.268 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0012.269 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0012.271 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0012.273 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0012.274 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7 MB, 10124 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0012.646 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: size is now: 6.70 MB
+0012.649 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 600 files added (on-disk size: 6811 KB)
+0012.651 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 700 files added (on-disk size: 6811 KB)
+0012.653 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 800 files added (on-disk size: 6811 KB)
+0012.655 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 900 files added (on-disk size: 6811 KB)
+0012.656 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 1000 files added (on-disk size: 6811 KB)
+0012.657 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (15.4 MB, 10124 files batched, 501 (1002) added so far); re-opening (prior size: 6811 KB)
+0013.089 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: size is now: 22.10 MB
+0013.092 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 1100 files added (on-disk size: 22640.1 KB)
+0013.094 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 1200 files added (on-disk size: 22640.1 KB)
+0013.095 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 1300 files added (on-disk size: 22640.1 KB)
+0013.097 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 1400 files added (on-disk size: 22640.1 KB)
+0013.099 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 1500 files added (on-disk size: 22640.1 KB)
+0013.099 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (24.2 MB, 10124 files batched, 501 (1503) added so far); re-opening (prior size: 22640.1 KB)
+0013.617 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: size is now: 46.40 MB
+0013.621 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 1600 files added (on-disk size: 47480.9 KB)
+0013.624 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 1700 files added (on-disk size: 47480.9 KB)
+0013.626 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 1800 files added (on-disk size: 47480.9 KB)
+0013.629 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 1900 files added (on-disk size: 47480.9 KB)
+0013.631 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 2000 files added (on-disk size: 47480.9 KB)
+0013.632 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (13.8 MB, 10124 files batched, 501 (2004) added so far); re-opening (prior size: 47480.9 KB)
+0014.019 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: size is now: 60.30 MB
+0014.022 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 2100 files added (on-disk size: 61717.5 KB)
+0014.023 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 2200 files added (on-disk size: 61717.5 KB)
+0014.025 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 2300 files added (on-disk size: 61717.5 KB)
+0014.027 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 2400 files added (on-disk size: 61717.5 KB)
+0014.028 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 2500 files added (on-disk size: 61717.5 KB)
+0014.029 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (15.4 MB, 10124 files batched, 501 (2505) added so far); re-opening (prior size: 61717.5 KB)
+0014.471 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: size is now: 75.70 MB
+0014.474 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 2600 files added (on-disk size: 77556.8 KB)
+0014.476 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 2700 files added (on-disk size: 77556.8 KB)
+0014.477 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 2800 files added (on-disk size: 77556.8 KB)
+0014.479 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 2900 files added (on-disk size: 77556.8 KB)
+0014.480 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 3000 files added (on-disk size: 77556.8 KB)
+0014.481 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (15.1 MB, 10124 files batched, 501 (3006) added so far); re-opening (prior size: 77556.8 KB)
+0014.985 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: size is now: 90.90 MB
+0014.989 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 3100 files added (on-disk size: 93099.1 KB)
+0014.992 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 3200 files added (on-disk size: 93099.1 KB)
+0014.994 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 3300 files added (on-disk size: 93099.1 KB)
+0014.997 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 3400 files added (on-disk size: 93099.1 KB)
+0014.999 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 3500 files added (on-disk size: 93099.1 KB)
+0015.000 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (11.6 MB, 10124 files batched, 501 (3507) added so far); re-opening (prior size: 93099.1 KB)
+0015.454 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 3600 files added (on-disk size: 105085.3 KB)
+0015.456 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 3700 files added (on-disk size: 105085.3 KB)
+0015.458 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 3800 files added (on-disk size: 105085.3 KB)
+0015.460 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 3900 files added (on-disk size: 105085.3 KB)
+0015.462 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 4000 files added (on-disk size: 105085.3 KB)
+0015.463 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (14.4 MB, 10124 files batched, 501 (4008) added so far); re-opening (prior size: 105085.3 KB)
+0015.927 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 4100 files added (on-disk size: 119893.9 KB)
+0015.929 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 4200 files added (on-disk size: 119893.9 KB)
+0015.931 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 4300 files added (on-disk size: 119893.9 KB)
+0015.935 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 4400 files added (on-disk size: 119893.9 KB)
+0015.937 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 4500 files added (on-disk size: 119893.9 KB)
+0015.937 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (15.1 MB, 10124 files batched, 501 (4509) added so far); re-opening (prior size: 119893.9 KB)
+0016.531 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 4600 files added (on-disk size: 135471 KB)
+0016.533 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 4700 files added (on-disk size: 135471 KB)
+0016.535 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 4800 files added (on-disk size: 135471 KB)
+0016.536 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 4900 files added (on-disk size: 135471 KB)
+0016.538 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 5000 files added (on-disk size: 135471 KB)
+0016.538 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (15.7 MB, 10124 files batched, 501 (5010) added so far); re-opening (prior size: 135471 KB)
+0017.580 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 5100 files added (on-disk size: 151524.4 KB)
+0017.582 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 5200 files added (on-disk size: 151524.4 KB)
+0017.583 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 5300 files added (on-disk size: 151524.4 KB)
+0017.585 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 5400 files added (on-disk size: 151524.4 KB)
+0017.587 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 5500 files added (on-disk size: 151524.4 KB)
+0017.587 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12.8 MB, 10124 files batched, 501 (5511) added so far); re-opening (prior size: 151524.4 KB)
+0018.497 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 5600 files added (on-disk size: 164529.4 KB)
+0018.499 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 5700 files added (on-disk size: 164529.4 KB)
+0018.500 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 5800 files added (on-disk size: 164529.4 KB)
+0018.502 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 5900 files added (on-disk size: 164529.4 KB)
+0018.503 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 6000 files added (on-disk size: 164529.4 KB)
+0018.504 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12.2 MB, 10124 files batched, 501 (6012) added so far); re-opening (prior size: 164529.4 KB)
+0019.117 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 6100 files added (on-disk size: 177023.5 KB)
+0019.119 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 6200 files added (on-disk size: 177023.5 KB)
+0019.120 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 6300 files added (on-disk size: 177023.5 KB)
+0019.122 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 6400 files added (on-disk size: 177023.5 KB)
+0019.124 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 6500 files added (on-disk size: 177023.5 KB)
+0019.125 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.8 MB, 10124 files batched, 501 (6513) added so far); re-opening (prior size: 177023.5 KB)
+0019.693 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 6600 files added (on-disk size: 188145.4 KB)
+0019.695 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 6700 files added (on-disk size: 188145.4 KB)
+0019.697 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 6800 files added (on-disk size: 188145.4 KB)
+0019.698 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 6900 files added (on-disk size: 188145.4 KB)
+0019.700 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 7000 files added (on-disk size: 188145.4 KB)
+0019.700 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12.6 MB, 10124 files batched, 501 (7014) added so far); re-opening (prior size: 188145.4 KB)
+0020.305 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 7100 files added (on-disk size: 201140.9 KB)
+0020.307 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 7200 files added (on-disk size: 201140.9 KB)
+0020.308 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 7300 files added (on-disk size: 201140.9 KB)
+0020.310 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 7400 files added (on-disk size: 201140.9 KB)
+0020.313 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 7500 files added (on-disk size: 201140.9 KB)
+0020.313 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (15.4 MB, 10124 files batched, 501 (7515) added so far); re-opening (prior size: 201140.9 KB)
+0020.955 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 7600 files added (on-disk size: 217004.5 KB)
+0020.957 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 7700 files added (on-disk size: 217004.5 KB)
+0020.958 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 7800 files added (on-disk size: 217004.5 KB)
+0020.960 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 7900 files added (on-disk size: 217004.5 KB)
+0020.961 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 8000 files added (on-disk size: 217004.5 KB)
+0020.962 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (15.1 MB, 10124 files batched, 501 (8016) added so far); re-opening (prior size: 217004.5 KB)
+0021.582 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 8100 files added (on-disk size: 232551.2 KB)
+0021.584 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 8200 files added (on-disk size: 232551.2 KB)
+0021.586 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 8300 files added (on-disk size: 232551.2 KB)
+0021.587 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 8400 files added (on-disk size: 232551.2 KB)
+0021.589 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 8500 files added (on-disk size: 232551.2 KB)
+0021.589 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (28.3 MB, 10124 files batched, 501 (8517) added so far); re-opening (prior size: 232551.2 KB)
+0022.643 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 8600 files added (on-disk size: 259795.6 KB)
+0022.645 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 8700 files added (on-disk size: 259795.6 KB)
+0022.646 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 8800 files added (on-disk size: 259795.6 KB)
+0022.648 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 8900 files added (on-disk size: 259795.6 KB)
+0022.650 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 9000 files added (on-disk size: 259795.6 KB)
+0022.650 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (30.7 MB, 10124 files batched, 501 (9018) added so far); re-opening (prior size: 259795.6 KB)
+0023.455 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 9100 files added (on-disk size: 291287.6 KB)
+0023.457 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 9200 files added (on-disk size: 291287.6 KB)
+0023.459 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 9300 files added (on-disk size: 291287.6 KB)
+0023.460 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 9400 files added (on-disk size: 291287.6 KB)
+0023.462 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 9500 files added (on-disk size: 291287.6 KB)
+0023.463 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (32.6 MB, 10124 files batched, 501 (9519) added so far); re-opening (prior size: 291287.6 KB)
+0024.323 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 9600 files added (on-disk size: 324750 KB)
+0024.325 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 9700 files added (on-disk size: 324750 KB)
+0024.327 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 9800 files added (on-disk size: 324750 KB)
+0024.328 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 9900 files added (on-disk size: 324750 KB)
+0024.330 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 10000 files added (on-disk size: 324750 KB)
+0024.331 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (33.6 MB, 10124 files batched, 501 (10020) added so far); re-opening (prior size: 324750 KB)
+0025.382 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip.tmp: 10100 files added (on-disk size: 359296.9 KB)
+0030.039 (0) Created uploads zip (0) - 364722.8 KB in 17.9 s (20364.9 KB/s) (sha1: 8416e3490a954ae254b17c82dd1775983f580bca, sha256: 15ab9925d1e60fa64023d5d29f7e7a44987fb6f4ebf309e86fa3d28bfe2618bd)
+0030.040 (0) Exclusion option setting (wpcore): 
+0030.041 (0) Looking for candidates to backup in: /home1/holycosm/public_html
+0030.041 (0) finding files: wp-trackback.php: adding to list (1)
+0030.042 (0) finding files: wp-includes: adding to list (2)
+0030.042 (0) finding files: license.txt: adding to list (3)
+0030.043 (0) finding files: wp-comments-post.php: adding to list (4)
+0030.043 (0) finding files: .htaccess_backup_1535202653: adding to list (5)
+0030.043 (0) finding files: readme.html: adding to list (6)
+0030.044 (0) finding files: 404.shtml: adding to list (7)
+0030.044 (0) finding files: xmlrpc.php: adding to list (8)
+0030.045 (0) finding files: devsa: adding to list (9)
+0030.045 (0) finding files: .htaccess_backup_1544285223: adding to list (10)
+0030.045 (0) finding files: wp-signup.php: adding to list (11)
+0030.046 (0) finding files: index.php: adding to list (12)
+0030.046 (0) finding files: home.html: adding to list (13)
+0030.047 (0) finding files: wp-load.php: adding to list (14)
+0030.047 (0) finding files: wp-links-opml.php: adding to list (15)
+0030.047 (0) finding files: wp-settings.php: adding to list (16)
+0030.048 (0) finding files: wp-admin: adding to list (17)
+0030.048 (0) finding files: .htaccess_swift_backup: adding to list (18)
+0030.049 (0) finding files: lib: adding to list (19)
+0030.049 (0) finding files: layout-styles.css: adding to list (20)
+0030.049 (0) finding files: wp-config-sample.php: adding to list (21)
+0030.050 (0) finding files: wp-activate.php: adding to list (22)
+0030.050 (0) finding files: wp-mail.php: adding to list (23)
+0030.051 (0) finding files: cgi-bin: adding to list (24)
+0030.051 (0) finding files: error_log: adding to list (25)
+0030.051 (0) finding files: wp-cron.php: adding to list (26)
+0030.052 (0) finding files: wp-config.php: adding to list (27)
+0030.052 (0) finding files: wp-login.php: adding to list (28)
+0030.053 (0) finding files: wp-blog-header.php: adding to list (29)
+0030.053 (0) finding files: .well-known: adding to list (30)
+0030.053 (0) finding files: .htaccess: adding to list (31)
+0030.054 (0) finding files: licencia.txt: adding to list (32)
+0030.054 (0) finding files: wp-content: skipping: this is the wp-content directory
+0030.055 (0) finding files: wp-cli.yml: adding to list (33)
+0030.055 (0) Beginning creation of dump of wpcore (split every: 800 MB)
+0030.368 (0) Directory excluded for looking like a sub-site's internal UpdraftPlus directory (enable by defining UPDRAFTPLUS_WPCORE_INCLUDE_UPDRAFT_DIRS): devsa/wp-content/updraft
+0030.561 (0) Total entities for the zip file: 2106 directories, 22049 files (0 skipped as non-modified), 528.4 MB
+0030.563 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 100 files added (on-disk size: 0 KB)
+0030.565 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 200 files added (on-disk size: 0 KB)
+0030.567 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 300 files added (on-disk size: 0 KB)
+0030.568 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 400 files added (on-disk size: 0 KB)
+0030.570 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 500 files added (on-disk size: 0 KB)
+0030.570 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (18.8 MB, 22049 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0031.587 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: size is now: 5.10 MB
+0031.590 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 600 files added (on-disk size: 5234.1 KB)
+0031.592 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 700 files added (on-disk size: 5234.1 KB)
+0031.593 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 800 files added (on-disk size: 5234.1 KB)
+0031.595 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 900 files added (on-disk size: 5234.1 KB)
+0031.596 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 1000 files added (on-disk size: 5234.1 KB)
+0031.597 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.1 MB, 22049 files batched, 501 (1002) added so far); re-opening (prior size: 5234.1 KB)
+0032.211 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: size is now: 7.50 MB
+0032.215 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 1100 files added (on-disk size: 7725.2 KB)
+0032.217 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 1200 files added (on-disk size: 7725.2 KB)
+0032.220 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 1300 files added (on-disk size: 7725.2 KB)
+0032.221 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 1400 files added (on-disk size: 7725.2 KB)
+0032.223 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 1500 files added (on-disk size: 7725.2 KB)
+0032.224 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (18.9 MB, 22049 files batched, 501 (1503) added so far); re-opening (prior size: 7725.2 KB)
+0033.444 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: size is now: 12.30 MB
+0033.447 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 1600 files added (on-disk size: 12623.4 KB)
+0033.449 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 1700 files added (on-disk size: 12623.4 KB)
+0033.451 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 1800 files added (on-disk size: 12623.4 KB)
+0033.453 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 1900 files added (on-disk size: 12623.4 KB)
+0033.454 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 2000 files added (on-disk size: 12623.4 KB)
+0033.455 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8.2 MB, 22049 files batched, 501 (2004) added so far); re-opening (prior size: 12623.4 KB)
+0034.120 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 2100 files added (on-disk size: 14912.7 KB)
+0034.123 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 2200 files added (on-disk size: 14912.7 KB)
+0034.126 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 2300 files added (on-disk size: 14912.7 KB)
+0034.129 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 2400 files added (on-disk size: 14912.7 KB)
+0034.133 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 2500 files added (on-disk size: 14912.7 KB)
+0034.133 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.9 MB, 22049 files batched, 501 (2505) added so far); re-opening (prior size: 14912.7 KB)
+0034.627 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 2600 files added (on-disk size: 16934.5 KB)
+0034.629 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 2700 files added (on-disk size: 16934.5 KB)
+0034.631 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 2800 files added (on-disk size: 16934.5 KB)
+0034.632 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 2900 files added (on-disk size: 16934.5 KB)
+0034.634 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 3000 files added (on-disk size: 16934.5 KB)
+0034.635 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12.2 MB, 22049 files batched, 501 (3006) added so far); re-opening (prior size: 16934.5 KB)
+0035.650 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: size is now: 21.60 MB
+0035.653 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 3100 files added (on-disk size: 22165.2 KB)
+0035.654 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 3200 files added (on-disk size: 22165.2 KB)
+0035.656 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 3300 files added (on-disk size: 22165.2 KB)
+0035.658 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 3400 files added (on-disk size: 22165.2 KB)
+0035.659 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 3500 files added (on-disk size: 22165.2 KB)
+0035.660 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.3 MB, 22049 files batched, 501 (3507) added so far); re-opening (prior size: 22165.2 KB)
+0036.110 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 3600 files added (on-disk size: 24273.1 KB)
+0036.112 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 3700 files added (on-disk size: 24273.1 KB)
+0036.113 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 3800 files added (on-disk size: 24273.1 KB)
+0036.115 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 3900 files added (on-disk size: 24273.1 KB)
+0036.117 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 4000 files added (on-disk size: 24273.1 KB)
+0036.118 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1 MB, 22049 files batched, 501 (4008) added so far); re-opening (prior size: 24273.1 KB)
+0036.375 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 4100 files added (on-disk size: 24919.2 KB)
+0036.377 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 4200 files added (on-disk size: 24919.2 KB)
+0036.378 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 4300 files added (on-disk size: 24919.2 KB)
+0036.380 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 4400 files added (on-disk size: 24919.2 KB)
+0036.382 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 4500 files added (on-disk size: 24919.2 KB)
+0036.382 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.7 MB, 22049 files batched, 501 (4509) added so far); re-opening (prior size: 24919.2 KB)
+0036.695 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 4600 files added (on-disk size: 25898.3 KB)
+0036.697 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 4700 files added (on-disk size: 25898.3 KB)
+0036.698 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 4800 files added (on-disk size: 25898.3 KB)
+0036.700 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 4900 files added (on-disk size: 25898.3 KB)
+0036.701 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 5000 files added (on-disk size: 25898.3 KB)
+0036.702 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.7 MB, 22049 files batched, 501 (5010) added so far); re-opening (prior size: 25898.3 KB)
+0037.031 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 5100 files added (on-disk size: 26751.4 KB)
+0037.034 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 5200 files added (on-disk size: 26751.4 KB)
+0037.036 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 5300 files added (on-disk size: 26751.4 KB)
+0037.038 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 5400 files added (on-disk size: 26751.4 KB)
+0037.040 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 5500 files added (on-disk size: 26751.4 KB)
+0037.041 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.2 MB, 22049 files batched, 501 (5511) added so far); re-opening (prior size: 26751.4 KB)
+0037.439 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 5600 files added (on-disk size: 28182.9 KB)
+0037.441 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 5700 files added (on-disk size: 28182.9 KB)
+0037.443 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 5800 files added (on-disk size: 28182.9 KB)
+0037.444 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 5900 files added (on-disk size: 28182.9 KB)
+0037.446 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 6000 files added (on-disk size: 28182.9 KB)
+0037.446 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.4 MB, 22049 files batched, 501 (6012) added so far); re-opening (prior size: 28182.9 KB)
+0037.883 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 6100 files added (on-disk size: 30538.8 KB)
+0037.885 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 6200 files added (on-disk size: 30538.8 KB)
+0037.887 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 6300 files added (on-disk size: 30538.8 KB)
+0037.888 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 6400 files added (on-disk size: 30538.8 KB)
+0037.890 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 6500 files added (on-disk size: 30538.8 KB)
+0037.891 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (13.2 MB, 22049 files batched, 501 (6513) added so far); re-opening (prior size: 30538.8 KB)
+0038.784 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 6600 files added (on-disk size: 35012.1 KB)
+0038.787 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 6700 files added (on-disk size: 35012.1 KB)
+0038.789 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 6800 files added (on-disk size: 35012.1 KB)
+0038.790 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 6900 files added (on-disk size: 35012.1 KB)
+0038.792 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 7000 files added (on-disk size: 35012.1 KB)
+0038.793 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.5 MB, 22049 files batched, 501 (7014) added so far); re-opening (prior size: 35012.1 KB)
+0039.179 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 7100 files added (on-disk size: 36484.3 KB)
+0039.181 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 7200 files added (on-disk size: 36484.3 KB)
+0039.183 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 7300 files added (on-disk size: 36484.3 KB)
+0039.185 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 7400 files added (on-disk size: 36484.3 KB)
+0039.186 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 7500 files added (on-disk size: 36484.3 KB)
+0039.187 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.1 MB, 22049 files batched, 501 (7515) added so far); re-opening (prior size: 36484.3 KB)
+0039.577 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 7600 files added (on-disk size: 37582.5 KB)
+0039.579 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 7700 files added (on-disk size: 37582.5 KB)
+0039.581 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 7800 files added (on-disk size: 37582.5 KB)
+0039.583 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 7900 files added (on-disk size: 37582.5 KB)
+0039.584 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 8000 files added (on-disk size: 37582.5 KB)
+0039.585 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.8 MB, 22049 files batched, 501 (8016) added so far); re-opening (prior size: 37582.5 KB)
+0040.030 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 8100 files added (on-disk size: 39523.2 KB)
+0040.032 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 8200 files added (on-disk size: 39523.2 KB)
+0040.034 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 8300 files added (on-disk size: 39523.2 KB)
+0040.036 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 8400 files added (on-disk size: 39523.2 KB)
+0040.037 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 8500 files added (on-disk size: 39523.2 KB)
+0040.038 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3 MB, 22049 files batched, 501 (8517) added so far); re-opening (prior size: 39523.2 KB)
+0040.404 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 8600 files added (on-disk size: 40552.2 KB)
+0040.406 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 8700 files added (on-disk size: 40552.2 KB)
+0040.407 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 8800 files added (on-disk size: 40552.2 KB)
+0040.409 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 8900 files added (on-disk size: 40552.2 KB)
+0040.411 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 9000 files added (on-disk size: 40552.2 KB)
+0040.411 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.4 MB, 22049 files batched, 501 (9018) added so far); re-opening (prior size: 40552.2 KB)
+0040.907 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 9100 files added (on-disk size: 43684.4 KB)
+0040.909 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 9200 files added (on-disk size: 43684.4 KB)
+0040.911 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 9300 files added (on-disk size: 43684.4 KB)
+0040.912 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 9400 files added (on-disk size: 43684.4 KB)
+0040.914 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 9500 files added (on-disk size: 43684.4 KB)
+0040.914 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.5 MB, 22049 files batched, 501 (9519) added so far); re-opening (prior size: 43684.4 KB)
+0041.533 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 9600 files added (on-disk size: 46028.6 KB)
+0041.535 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 9700 files added (on-disk size: 46028.6 KB)
+0041.537 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 9800 files added (on-disk size: 46028.6 KB)
+0041.538 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 9900 files added (on-disk size: 46028.6 KB)
+0041.540 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 10000 files added (on-disk size: 46028.6 KB)
+0041.541 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (20 MB, 22049 files batched, 501 (10020) added so far); re-opening (prior size: 46028.6 KB)
+0042.733 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 10100 files added (on-disk size: 52373.5 KB)
+0042.735 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 10200 files added (on-disk size: 52373.5 KB)
+0042.737 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 10300 files added (on-disk size: 52373.5 KB)
+0042.739 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 10400 files added (on-disk size: 52373.5 KB)
+0042.740 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 10500 files added (on-disk size: 52373.5 KB)
+0042.741 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.2 MB, 22049 files batched, 501 (10521) added so far); re-opening (prior size: 52373.5 KB)
+0043.115 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 10600 files added (on-disk size: 53483 KB)
+0043.117 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 10700 files added (on-disk size: 53483 KB)
+0043.119 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 10800 files added (on-disk size: 53483 KB)
+0043.120 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 10900 files added (on-disk size: 53483 KB)
+0043.122 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 11000 files added (on-disk size: 53483 KB)
+0043.123 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.8 MB, 22049 files batched, 501 (11022) added so far); re-opening (prior size: 53483 KB)
+0043.465 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 11100 files added (on-disk size: 54204.3 KB)
+0043.467 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 11200 files added (on-disk size: 54204.3 KB)
+0043.468 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 11300 files added (on-disk size: 54204.3 KB)
+0043.470 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 11400 files added (on-disk size: 54204.3 KB)
+0043.472 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 11500 files added (on-disk size: 54204.3 KB)
+0043.473 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.8 MB, 22049 files batched, 501 (11523) added so far); re-opening (prior size: 54204.3 KB)
+0044.085 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 11600 files added (on-disk size: 57738.2 KB)
+0044.087 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 11700 files added (on-disk size: 57738.2 KB)
+0044.088 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 11800 files added (on-disk size: 57738.2 KB)
+0044.090 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 11900 files added (on-disk size: 57738.2 KB)
+0044.091 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 12000 files added (on-disk size: 57738.2 KB)
+0044.092 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.8 MB, 22049 files batched, 501 (12024) added so far); re-opening (prior size: 57738.2 KB)
+0044.585 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 12100 files added (on-disk size: 67334.3 KB)
+0044.587 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 12200 files added (on-disk size: 67334.3 KB)
+0044.588 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 12300 files added (on-disk size: 67334.3 KB)
+0044.590 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 12400 files added (on-disk size: 67334.3 KB)
+0044.591 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 12500 files added (on-disk size: 67334.3 KB)
+0044.592 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (16.3 MB, 22049 files batched, 501 (12525) added so far); re-opening (prior size: 67334.3 KB)
+0045.143 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: size is now: 82.10 MB
+0045.146 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 12600 files added (on-disk size: 84087.5 KB)
+0045.147 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 12700 files added (on-disk size: 84087.5 KB)
+0045.149 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 12800 files added (on-disk size: 84087.5 KB)
+0045.150 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 12900 files added (on-disk size: 84087.5 KB)
+0045.152 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 13000 files added (on-disk size: 84087.5 KB)
+0045.153 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (14.5 MB, 22049 files batched, 501 (13026) added so far); re-opening (prior size: 84087.5 KB)
+0045.652 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 13100 files added (on-disk size: 99009 KB)
+0045.654 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 13200 files added (on-disk size: 99009 KB)
+0045.655 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 13300 files added (on-disk size: 99009 KB)
+0045.657 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 13400 files added (on-disk size: 99009 KB)
+0045.658 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 13500 files added (on-disk size: 99009 KB)
+0045.659 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (13.9 MB, 22049 files batched, 501 (13527) added so far); re-opening (prior size: 99009 KB)
+0046.135 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 13600 files added (on-disk size: 113397.5 KB)
+0046.137 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 13700 files added (on-disk size: 113397.5 KB)
+0046.138 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 13800 files added (on-disk size: 113397.5 KB)
+0046.140 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 13900 files added (on-disk size: 113397.5 KB)
+0046.142 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 14000 files added (on-disk size: 113397.5 KB)
+0046.143 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (17.5 MB, 22049 files batched, 501 (14028) added so far); re-opening (prior size: 113397.5 KB)
+0046.799 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 14100 files added (on-disk size: 131379.8 KB)
+0046.801 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 14200 files added (on-disk size: 131379.8 KB)
+0046.803 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 14300 files added (on-disk size: 131379.8 KB)
+0046.804 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 14400 files added (on-disk size: 131379.8 KB)
+0046.806 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 14500 files added (on-disk size: 131379.8 KB)
+0046.807 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (11.1 MB, 22049 files batched, 501 (14529) added so far); re-opening (prior size: 131379.8 KB)
+0047.309 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 14600 files added (on-disk size: 142831.5 KB)
+0047.310 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 14700 files added (on-disk size: 142831.5 KB)
+0047.312 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 14800 files added (on-disk size: 142831.5 KB)
+0047.314 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 14900 files added (on-disk size: 142831.5 KB)
+0047.315 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 15000 files added (on-disk size: 142831.5 KB)
+0047.316 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (13.7 MB, 22049 files batched, 501 (15030) added so far); re-opening (prior size: 142831.5 KB)
+0047.867 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 15100 files added (on-disk size: 156982 KB)
+0047.868 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 15200 files added (on-disk size: 156982 KB)
+0047.870 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 15300 files added (on-disk size: 156982 KB)
+0047.872 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 15400 files added (on-disk size: 156982 KB)
+0047.873 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 15500 files added (on-disk size: 156982 KB)
+0047.874 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (14.7 MB, 22049 files batched, 501 (15531) added so far); re-opening (prior size: 156982 KB)
+0048.524 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 15600 files added (on-disk size: 172156.8 KB)
+0048.525 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 15700 files added (on-disk size: 172156.8 KB)
+0048.527 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 15800 files added (on-disk size: 172156.8 KB)
+0048.529 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 15900 files added (on-disk size: 172156.8 KB)
+0048.530 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 16000 files added (on-disk size: 172156.8 KB)
+0048.531 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (13.8 MB, 22049 files batched, 501 (16032) added so far); re-opening (prior size: 172156.8 KB)
+0049.206 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 16100 files added (on-disk size: 186351.1 KB)
+0049.208 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 16200 files added (on-disk size: 186351.1 KB)
+0049.210 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 16300 files added (on-disk size: 186351.1 KB)
+0049.211 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 16400 files added (on-disk size: 186351.1 KB)
+0049.213 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 16500 files added (on-disk size: 186351.1 KB)
+0049.214 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (13.6 MB, 22049 files batched, 501 (16533) added so far); re-opening (prior size: 186351.1 KB)
+0049.903 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 16600 files added (on-disk size: 200322.4 KB)
+0049.905 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 16700 files added (on-disk size: 200322.4 KB)
+0049.907 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 16800 files added (on-disk size: 200322.4 KB)
+0049.909 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 16900 files added (on-disk size: 200322.4 KB)
+0049.910 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 17000 files added (on-disk size: 200322.4 KB)
+0049.911 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (13.3 MB, 22049 files batched, 501 (17034) added so far); re-opening (prior size: 200322.4 KB)
+0050.638 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 17100 files added (on-disk size: 213930.2 KB)
+0050.639 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 17200 files added (on-disk size: 213930.2 KB)
+0050.641 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 17300 files added (on-disk size: 213930.2 KB)
+0050.643 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 17400 files added (on-disk size: 213930.2 KB)
+0050.645 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 17500 files added (on-disk size: 213930.2 KB)
+0050.646 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12.2 MB, 22049 files batched, 501 (17535) added so far); re-opening (prior size: 213930.2 KB)
+0051.301 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 17600 files added (on-disk size: 226458.8 KB)
+0051.303 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 17700 files added (on-disk size: 226458.8 KB)
+0051.304 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 17800 files added (on-disk size: 226458.8 KB)
+0051.306 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 17900 files added (on-disk size: 226458.8 KB)
+0051.307 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 18000 files added (on-disk size: 226458.8 KB)
+0051.308 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.9 MB, 22049 files batched, 501 (18036) added so far); re-opening (prior size: 226458.8 KB)
+0051.893 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 18100 files added (on-disk size: 236697.6 KB)
+0051.895 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 18200 files added (on-disk size: 236697.6 KB)
+0051.896 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 18300 files added (on-disk size: 236697.6 KB)
+0051.898 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 18400 files added (on-disk size: 236697.6 KB)
+0051.900 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 18500 files added (on-disk size: 236697.6 KB)
+0051.900 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (14.8 MB, 22049 files batched, 501 (18537) added so far); re-opening (prior size: 236697.6 KB)
+0052.626 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 18600 files added (on-disk size: 251975.2 KB)
+0052.628 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 18700 files added (on-disk size: 251975.2 KB)
+0052.630 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 18800 files added (on-disk size: 251975.2 KB)
+0052.631 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 18900 files added (on-disk size: 251975.2 KB)
+0052.633 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 19000 files added (on-disk size: 251975.2 KB)
+0052.634 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (15.4 MB, 22049 files batched, 501 (19038) added so far); re-opening (prior size: 251975.2 KB)
+0053.350 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 19100 files added (on-disk size: 267894.3 KB)
+0053.352 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 19200 files added (on-disk size: 267894.3 KB)
+0053.355 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 19300 files added (on-disk size: 267894.3 KB)
+0053.357 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 19400 files added (on-disk size: 267894.3 KB)
+0053.360 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 19500 files added (on-disk size: 267894.3 KB)
+0053.361 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (24.6 MB, 22049 files batched, 501 (19539) added so far); re-opening (prior size: 267894.3 KB)
+0054.468 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 19600 files added (on-disk size: 291326.2 KB)
+0054.470 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 19700 files added (on-disk size: 291326.2 KB)
+0054.472 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 19800 files added (on-disk size: 291326.2 KB)
+0054.473 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 19900 files added (on-disk size: 291326.2 KB)
+0054.475 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 20000 files added (on-disk size: 291326.2 KB)
+0054.476 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.7 MB, 22049 files batched, 501 (20040) added so far); re-opening (prior size: 291326.2 KB)
+0055.413 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 20100 files added (on-disk size: 297930.8 KB)
+0055.415 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 20200 files added (on-disk size: 297930.8 KB)
+0055.416 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 20300 files added (on-disk size: 297930.8 KB)
+0055.418 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 20400 files added (on-disk size: 297930.8 KB)
+0055.419 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 20500 files added (on-disk size: 297930.8 KB)
+0055.420 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.2 MB, 22049 files batched, 501 (20541) added so far); re-opening (prior size: 297930.8 KB)
+0056.400 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 20600 files added (on-disk size: 300159.9 KB)
+0056.402 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 20700 files added (on-disk size: 300159.9 KB)
+0056.403 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 20800 files added (on-disk size: 300159.9 KB)
+0056.405 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 20900 files added (on-disk size: 300159.9 KB)
+0056.406 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 21000 files added (on-disk size: 300159.9 KB)
+0056.407 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.6 MB, 22049 files batched, 501 (21042) added so far); re-opening (prior size: 300159.9 KB)
+0057.017 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 21100 files added (on-disk size: 301470.1 KB)
+0057.018 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 21200 files added (on-disk size: 301470.1 KB)
+0057.020 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 21300 files added (on-disk size: 301470.1 KB)
+0057.022 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 21400 files added (on-disk size: 301470.1 KB)
+0057.024 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 21500 files added (on-disk size: 301470.1 KB)
+0057.025 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10 MB, 22049 files batched, 501 (21543) added so far); re-opening (prior size: 301470.1 KB)
+0057.835 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 21600 files added (on-disk size: 309129.4 KB)
+0057.837 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 21700 files added (on-disk size: 309129.4 KB)
+0057.839 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 21800 files added (on-disk size: 309129.4 KB)
+0057.840 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 21900 files added (on-disk size: 309129.4 KB)
+0057.841 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip.tmp: 22000 files added (on-disk size: 309129.4 KB)
+0057.842 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (96.9 MB, 22049 files batched, 501 (22044) added so far); re-opening (prior size: 309129.4 KB)
+0063.536 (0) Created wpcore zip (0) - 312059.8 KB in 33.5 s (9329 KB/s) (sha1: e1c36a3a4410dfd2d94dd4bf91fa65eb8c541876, sha256: a1b2d0337905939f81c15a331ddcfba5e80b6300234a93bbc20841dab17d21e2)
+0063.539 (0) Beginning backup of other directories found in the content directory (index: 0)
+0063.540 (0) Exclusion option setting (others): 
+0063.540 (0) Looking for candidates to backup in: /home1/holycosm/public_html/wp-content
+0063.541 (0) finding files: plugins: skipping: this is the plugins directory
+0063.541 (0) finding files: mu-plugins: adding to list (1)
+0063.542 (0) finding files: updraft: skipping: this is the updraft directory
+0063.542 (0) finding files: languages: adding to list (2)
+0063.542 (0) finding files: index.php: adding to list (3)
+0063.543 (0) finding files: uploads: skipping: this is the uploads directory
+0063.543 (0) finding files: upgrade: adding to list (4)
+0063.544 (0) finding files: wflogs: adding to list (5)
+0063.544 (0) finding files: deleteme.c938ae11c6a1460ab194a7322fb473c2.php: adding to list (6)
+0063.544 (0) finding files: cache: adding to list (7)
+0063.545 (0) finding files: themes: skipping: this is the themes directory
+0063.580 (0) Total entities for the zip file: 15 directories, 100 files (0 skipped as non-modified), 12 MB
+0063.582 (0) Zip: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0064.472 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-others.zip.tmp: size is now: 4.20 MB
+0064.528 (0) Created others zip (0) - 4331.9 KB in 1 s (4550.2 KB/s) (sha1: 83636d85244601177961b818558eabeaf923e2a0, sha256: faee47a15cc982113a45f73e6ba066e019ce4bfd176d185b25bcb6c8525070e4)
+0064.532 (0) Saving backup status to database (elements: 10)
+0064.534 (0) Beginning creation of database dump (WordPress DB)
+0064.535 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0064.635 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\n/*!50717 SELECT COUNT(*) INTO @rocksdb_has_p_s_session_variables FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'performance_schema' AND TABL (truncated - 1966 bytes total)
+0064.638 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0064.697 (0) Table wp_options: Total expected rows (approximate): 3128
+0064.806 (0) Table wp_options: Total rows added: 3124 in 0.11 seconds
+0064.807 (0) Table wp_options: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_options.table.gz - 417.1 KB)
+0064.810 (0) Table wp_users: Total expected rows (approximate): 5461
+0064.908 (0) Table wp_users: Total rows added: 5461 in 0.10 seconds
+0064.909 (0) Table wp_users: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_users.table.gz - 293.2 KB)
+0064.913 (0) Table wp_usermeta: Total expected rows (approximate): 202331
+0064.915 (0) [Warning] La tabla wp_usermeta tiene muchas filas (202331) - esperamos que su proveedor de alojamiento web le proporcione los recursos suficientes para volcar esa tabla en el respaldo Si no, necesitarás eliminar datos de esta tabla, o contactar con tu empresa de alojamiento para solicitar más recursos.
+0065.618 (0) Table wp_usermeta: binary mysqldump finished (writes: 56) in 0.70 seconds
+0065.621 (0) Table wp_usermeta: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_usermeta.table.gz - 2313.7 KB)
+0065.623 (0) Table wp_commentmeta: Total expected rows (approximate): 536
+0065.626 (0) Table wp_commentmeta: Total rows added: 536 in 0.00 seconds
+0065.627 (0) Table wp_commentmeta: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_commentmeta.table.gz - 3.5 KB)
+0065.630 (0) Table wp_comments: Total expected rows (approximate): 68072
+0066.139 (0) Table wp_comments: binary mysqldump finished (writes: 77) in 0.51 seconds
+0066.141 (0) Table wp_comments: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_comments.table.gz - 907 KB)
+0066.145 (0) Table wp_links: Total expected rows (approximate): 0
+0066.146 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0066.147 (0) Table wp_links: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_links.table.gz - 0.4 KB)
+0066.150 (0) Table wp_postmeta: Total expected rows (approximate): 1032484
+0066.151 (0) [Warning] La tabla wp_postmeta tiene muchas filas (1032484) - esperamos que su proveedor de alojamiento web le proporcione los recursos suficientes para volcar esa tabla en el respaldo Si no, necesitarás eliminar datos de esta tabla, o contactar con tu empresa de alojamiento para solicitar más recursos.
+0069.713 (0) Table wp_postmeta: binary mysqldump finished (writes: 108) in 3.56 seconds
+0069.715 (0) Table wp_postmeta: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_postmeta.table.gz - 12198.3 KB)
+0069.718 (0) Table wp_posts: Total expected rows (approximate): 23922
+0070.476 (0) Table wp_posts: binary mysqldump finished (writes: 76) in 0.76 seconds
+0070.478 (0) Table wp_posts: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_posts.table.gz - 1634.7 KB)
+0070.481 (0) Table wp_term_relationships: Total expected rows (approximate): 1149
+0070.486 (0) Table wp_term_relationships: Total rows added: 1149 in 0.00 seconds
+0070.487 (0) Table wp_term_relationships: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_term_relationships.table.gz - 4 KB)
+0070.489 (0) Table wp_term_taxonomy: Total expected rows (approximate): 264
+0070.492 (0) Table wp_term_taxonomy: Total rows added: 264 in 0.00 seconds
+0070.492 (0) Table wp_term_taxonomy: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_term_taxonomy.table.gz - 2 KB)
+0070.495 (0) Table wp_termmeta: Total expected rows (approximate): 49
+0070.496 (0) Table wp_termmeta: Total rows added: 49 in 0.00 seconds
+0070.497 (0) Table wp_termmeta: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_termmeta.table.gz - 0.8 KB)
+0070.499 (0) Table wp_terms: Total expected rows (approximate): 264
+0070.502 (0) Table wp_terms: Total rows added: 264 in 0.00 seconds
+0070.502 (0) Table wp_terms: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_terms.table.gz - 3.8 KB)
+0070.505 (0) Table wp_wc_product_meta_lookup: Total expected rows (approximate): 426
+0070.509 (0) Table wp_wc_product_meta_lookup: Total rows added: 426 in 0.00 seconds
+0070.510 (0) Table wp_wc_product_meta_lookup: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wc_product_meta_lookup.table.gz - 4 KB)
+0070.513 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 477461
+0070.514 (0) [Warning] La tabla wp_woocommerce_order_itemmeta tiene muchas filas (477461) - esperamos que su proveedor de alojamiento web le proporcione los recursos suficientes para volcar esa tabla en el respaldo Si no, necesitarás eliminar datos de esta tabla, o contactar con tu empresa de alojamiento para solicitar más recursos.
+0071.836 (0) Table wp_woocommerce_order_itemmeta: binary mysqldump finished (writes: 64) in 1.32 seconds
+0071.839 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_order_itemmeta.table.gz - 3064.7 KB)
+0071.843 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0071.844 (0) Table wp_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.00 seconds
+0071.845 (0) Table wp_woocommerce_payment_tokenmeta: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0071.848 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 200
+0071.851 (0) Table wp_yoast_seo_links: Total rows added: 200 in 0.00 seconds
+0071.852 (0) Table wp_yoast_seo_links: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_yoast_seo_links.table.gz - 2.4 KB)
+0071.855 (0) Table wp_yoast_seo_meta: Total expected rows (approximate): 30875
+0071.979 (0) Table wp_yoast_seo_meta: binary mysqldump finished (writes: 42) in 0.12 seconds
+0071.980 (0) Table wp_yoast_seo_meta: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_yoast_seo_meta.table.gz - 77.4 KB)
+0071.982 (0) Skipping table (lacks our prefix (wp_)): test_payu
+0071.985 (0) Table wp_EWD_OTP_Custom_Fields: Total expected rows (approximate): 0
+0071.987 (0) Table wp_EWD_OTP_Custom_Fields: Total rows added: 0 in 0.00 seconds
+0071.988 (0) Table wp_EWD_OTP_Custom_Fields: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_EWD_OTP_Custom_Fields.table.gz - 0.4 KB)
+0071.991 (0) Table wp_EWD_OTP_Customers: Total expected rows (approximate): 0
+0071.992 (0) Table wp_EWD_OTP_Customers: Total rows added: 0 in 0.00 seconds
+0071.993 (0) Table wp_EWD_OTP_Customers: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_EWD_OTP_Customers.table.gz - 0.3 KB)
+0071.996 (0) Table wp_EWD_OTP_Fields_Meta: Total expected rows (approximate): 0
+0071.998 (0) Table wp_EWD_OTP_Fields_Meta: Total rows added: 0 in 0.00 seconds
+0071.998 (0) Table wp_EWD_OTP_Fields_Meta: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_EWD_OTP_Fields_Meta.table.gz - 0.3 KB)
+0072.001 (0) Table wp_EWD_OTP_Order_Statuses: Total expected rows (approximate): 1
+0072.003 (0) Table wp_EWD_OTP_Order_Statuses: Total rows added: 1 in 0.00 seconds
+0072.003 (0) Table wp_EWD_OTP_Order_Statuses: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_EWD_OTP_Order_Statuses.table.gz - 0.4 KB)
+0072.006 (0) Table wp_EWD_OTP_Orders: Total expected rows (approximate): 1
+0072.008 (0) Table wp_EWD_OTP_Orders: Total rows added: 1 in 0.00 seconds
+0072.009 (0) Table wp_EWD_OTP_Orders: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_EWD_OTP_Orders.table.gz - 0.6 KB)
+0072.012 (0) Table wp_EWD_OTP_Sales_Reps: Total expected rows (approximate): 0
+0072.013 (0) Table wp_EWD_OTP_Sales_Reps: Total rows added: 0 in 0.00 seconds
+0072.014 (0) Table wp_EWD_OTP_Sales_Reps: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_EWD_OTP_Sales_Reps.table.gz - 0.3 KB)
+0072.017 (0) Table wp_atum_order_itemmeta: Total expected rows (approximate): 0
+0072.018 (0) Table wp_atum_order_itemmeta: Total rows added: 0 in 0.00 seconds
+0072.019 (0) Table wp_atum_order_itemmeta: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_atum_order_itemmeta.table.gz - 0.4 KB)
+0072.022 (0) Table wp_atum_order_items: Total expected rows (approximate): 0
+0072.023 (0) Table wp_atum_order_items: Total rows added: 0 in 0.00 seconds
+0072.024 (0) Table wp_atum_order_items: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_atum_order_items.table.gz - 0.3 KB)
+0072.027 (0) Table wp_atum_product_data: Total expected rows (approximate): 287
+0072.030 (0) Table wp_atum_product_data: Total rows added: 287 in 0.00 seconds
+0072.030 (0) Table wp_atum_product_data: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_atum_product_data.table.gz - 1.5 KB)
+0072.034 (0) Table wp_pmxe_exports: Total expected rows (approximate): 0
+0072.035 (0) Table wp_pmxe_exports: Total rows added: 0 in 0.00 seconds
+0072.035 (0) Table wp_pmxe_exports: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_pmxe_exports.table.gz - 0.5 KB)
+0072.038 (0) Table wp_pmxe_google_cats: Total expected rows (approximate): 5371
+0072.084 (0) Table wp_pmxe_google_cats: Total rows added: 5371 in 0.05 seconds
+0072.086 (0) Table wp_pmxe_google_cats: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_pmxe_google_cats.table.gz - 75.3 KB)
+0072.090 (0) Table wp_pmxe_posts: Total expected rows (approximate): 0
+0072.091 (0) Table wp_pmxe_posts: Total rows added: 0 in 0.00 seconds
+0072.092 (0) Table wp_pmxe_posts: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_pmxe_posts.table.gz - 0.3 KB)
+0072.096 (0) Table wp_pmxe_templates: Total expected rows (approximate): 0
+0072.097 (0) Table wp_pmxe_templates: Total rows added: 0 in 0.00 seconds
+0072.097 (0) Table wp_pmxe_templates: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_pmxe_templates.table.gz - 0.3 KB)
+0072.100 (0) Table wp_revslider_css: Total expected rows (approximate): 109
+0072.103 (0) Table wp_revslider_css: Total rows added: 109 in 0.00 seconds
+0072.103 (0) Table wp_revslider_css: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_revslider_css.table.gz - 4.9 KB)
+0072.106 (0) Table wp_revslider_layer_animations: Total expected rows (approximate): 0
+0072.107 (0) Table wp_revslider_layer_animations: Total rows added: 0 in 0.00 seconds
+0072.107 (0) Table wp_revslider_layer_animations: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_revslider_layer_animations.table.gz - 0.3 KB)
+0072.110 (0) Table wp_revslider_navigations: Total expected rows (approximate): 0
+0072.111 (0) Table wp_revslider_navigations: Total rows added: 0 in 0.00 seconds
+0072.111 (0) Table wp_revslider_navigations: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_revslider_navigations.table.gz - 0.3 KB)
+0072.114 (0) Table wp_revslider_sliders: Total expected rows (approximate): 1
+0072.115 (0) Table wp_revslider_sliders: Total rows added: 1 in 0.00 seconds
+0072.116 (0) Table wp_revslider_sliders: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_revslider_sliders.table.gz - 3.1 KB)
+0072.119 (0) Table wp_revslider_slides: Total expected rows (approximate): 3
+0072.121 (0) Table wp_revslider_slides: Total rows added: 3 in 0.00 seconds
+0072.121 (0) Table wp_revslider_slides: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_revslider_slides.table.gz - 0.5 KB)
+0072.124 (0) Table wp_revslider_static_slides: Total expected rows (approximate): 1
+0072.125 (0) Table wp_revslider_static_slides: Total rows added: 1 in 0.00 seconds
+0072.125 (0) Table wp_revslider_static_slides: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_revslider_static_slides.table.gz - 0.4 KB)
+0072.129 (0) Table wp_snp_log: Total expected rows (approximate): 0
+0072.130 (0) Table wp_snp_log: Total rows added: 0 in 0.00 seconds
+0072.131 (0) Table wp_snp_log: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_snp_log.table.gz - 0.4 KB)
+0072.134 (0) Table wp_snp_stats: Total expected rows (approximate): 0
+0072.135 (0) Table wp_snp_stats: Total rows added: 0 in 0.00 seconds
+0072.136 (0) Table wp_snp_stats: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_snp_stats.table.gz - 0.3 KB)
+0072.139 (0) Table wp_social_users: Total expected rows (approximate): 0
+0072.141 (0) Table wp_social_users: Total rows added: 0 in 0.00 seconds
+0072.142 (0) Table wp_social_users: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_social_users.table.gz - 0.3 KB)
+0072.145 (0) Table wp_wc_download_log: Total expected rows (approximate): 0
+0072.147 (0) Table wp_wc_download_log: Total rows added: 0 in 0.00 seconds
+0072.147 (0) Table wp_wc_download_log: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wc_download_log.table.gz - 0.4 KB)
+0072.151 (0) Table wp_wc_webhooks: Total expected rows (approximate): 0
+0072.152 (0) Table wp_wc_webhooks: Total rows added: 0 in 0.00 seconds
+0072.152 (0) Table wp_wc_webhooks: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wc_webhooks.table.gz - 0.5 KB)
+0072.155 (0) Table wp_wfblockediplog: Total expected rows (approximate): 0
+0072.156 (0) Table wp_wfblockediplog: Total rows added: 0 in 0.00 seconds
+0072.157 (0) Table wp_wfblockediplog: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfblockediplog.table.gz - 0.3 KB)
+0072.161 (0) Table wp_wfblocks7: Total expected rows (approximate): 0
+0072.162 (0) Table wp_wfblocks7: Total rows added: 0 in 0.00 seconds
+0072.163 (0) Table wp_wfblocks7: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfblocks7.table.gz - 0.4 KB)
+0072.167 (0) Table wp_wfconfig: Total expected rows (approximate): 242
+0072.190 (0) Table wp_wfconfig: Total rows added: 242 in 0.02 seconds
+0072.191 (0) Table wp_wfconfig: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfconfig.table.gz - 364.9 KB)
+0072.195 (0) Table wp_wfcrawlers: Total expected rows (approximate): 0
+0072.197 (0) Table wp_wfcrawlers: Total rows added: 0 in 0.00 seconds
+0072.197 (0) Table wp_wfcrawlers: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfcrawlers.table.gz - 0.3 KB)
+0072.202 (0) Table wp_wffilechanges: Total expected rows (approximate): 0
+0072.203 (0) Table wp_wffilechanges: Total rows added: 0 in 0.00 seconds
+0072.204 (0) Table wp_wffilechanges: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wffilechanges.table.gz - 0.3 KB)
+0072.208 (0) Table wp_wffilemods: Total expected rows (approximate): 12381
+0072.447 (0) Table wp_wffilemods: binary mysqldump finished (writes: 50) in 0.24 seconds
+0072.448 (0) Table wp_wffilemods: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wffilemods.table.gz - 1038 KB)
+0072.452 (0) Table wp_wfhits: Total expected rows (approximate): 0
+0072.453 (0) Table wp_wfhits: Total rows added: 0 in 0.00 seconds
+0072.453 (0) Table wp_wfhits: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfhits.table.gz - 0.4 KB)
+0072.457 (0) Table wp_wfhoover: Total expected rows (approximate): 0
+0072.458 (0) Table wp_wfhoover: Total rows added: 0 in 0.00 seconds
+0072.458 (0) Table wp_wfhoover: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfhoover.table.gz - 0.3 KB)
+0072.461 (0) Table wp_wfissues: Total expected rows (approximate): 28
+0072.464 (0) Table wp_wfissues: Total rows added: 28 in 0.00 seconds
+0072.465 (0) Table wp_wfissues: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfissues.table.gz - 5.4 KB)
+0072.468 (0) Table wp_wfknownfilelist: Total expected rows (approximate): 12381
+0072.608 (0) Table wp_wfknownfilelist: binary mysqldump finished (writes: 42) in 0.14 seconds
+0072.610 (0) Table wp_wfknownfilelist: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfknownfilelist.table.gz - 123.3 KB)
+0072.613 (0) Table wp_wflivetraffichuman: Total expected rows (approximate): 0
+0072.614 (0) Table wp_wflivetraffichuman: Total rows added: 0 in 0.00 seconds
+0072.615 (0) Table wp_wflivetraffichuman: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wflivetraffichuman.table.gz - 0.3 KB)
+0072.618 (0) Table wp_wflocs: Total expected rows (approximate): 1
+0072.620 (0) Table wp_wflocs: Total rows added: 1 in 0.00 seconds
+0072.621 (0) Table wp_wflocs: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wflocs.table.gz - 0.5 KB)
+0072.623 (0) Table wp_wflogins: Total expected rows (approximate): 0
+0072.625 (0) Table wp_wflogins: Total rows added: 0 in 0.00 seconds
+0072.625 (0) Table wp_wflogins: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wflogins.table.gz - 0.4 KB)
+0072.628 (0) Table wp_wfnotifications: Total expected rows (approximate): 2
+0072.630 (0) Table wp_wfnotifications: Total rows added: 2 in 0.00 seconds
+0072.630 (0) Table wp_wfnotifications: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfnotifications.table.gz - 0.5 KB)
+0072.634 (0) Table wp_wfpendingissues: Total expected rows (approximate): 0
+0072.635 (0) Table wp_wfpendingissues: Total rows added: 0 in 0.00 seconds
+0072.635 (0) Table wp_wfpendingissues: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfpendingissues.table.gz - 0.4 KB)
+0072.639 (0) Table wp_wfreversecache: Total expected rows (approximate): 1
+0072.642 (0) Table wp_wfreversecache: Total rows added: 1 in 0.00 seconds
+0072.643 (0) Table wp_wfreversecache: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfreversecache.table.gz - 0.4 KB)
+0072.648 (0) Table wp_wfsnipcache: Total expected rows (approximate): 0
+0072.651 (0) Table wp_wfsnipcache: Total rows added: 0 in 0.00 seconds
+0072.656 (0) Table wp_wfsnipcache: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfsnipcache.table.gz - 0.4 KB)
+0072.661 (0) Table wp_wfstatus: Total expected rows (approximate): 487
+0072.666 (0) Table wp_wfstatus: Total rows added: 487 in 0.00 seconds
+0072.667 (0) Table wp_wfstatus: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfstatus.table.gz - 9.2 KB)
+0072.673 (0) Table wp_wftrafficrates: Total expected rows (approximate): 0
+0072.674 (0) Table wp_wftrafficrates: Total rows added: 0 in 0.00 seconds
+0072.675 (0) Table wp_wftrafficrates: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wftrafficrates.table.gz - 0.3 KB)
+0072.679 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 3
+0072.683 (0) Table wp_woocommerce_api_keys: Total rows added: 3 in 0.00 seconds
+0072.684 (0) Table wp_woocommerce_api_keys: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_api_keys.table.gz - 0.8 KB)
+0072.687 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0072.689 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.00 seconds
+0072.689 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0072.692 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0072.694 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.00 seconds
+0072.694 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0072.698 (0) Table wp_woocommerce_log: Total expected rows (approximate): 0
+0072.699 (0) Table wp_woocommerce_log: Total rows added: 0 in 0.00 seconds
+0072.700 (0) Table wp_woocommerce_log: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_log.table.gz - 0.4 KB)
+0072.702 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 58719
+0072.912 (0) Table wp_woocommerce_order_items: binary mysqldump finished (writes: 46) in 0.21 seconds
+0072.914 (0) Table wp_woocommerce_order_items: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_order_items.table.gz - 333.2 KB)
+0072.921 (0) Table wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0072.922 (0) Table wp_woocommerce_payment_tokens: Total rows added: 0 in 0.00 seconds
+0072.923 (0) Table wp_woocommerce_payment_tokens: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0072.927 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 1152
+0072.998 (0) Table wp_woocommerce_sessions: Total rows added: 1152 in 0.07 seconds
+0072.999 (0) Table wp_woocommerce_sessions: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_sessions.table.gz - 208.9 KB)
+0073.002 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 33
+0073.003 (0) Table wp_woocommerce_shipping_zone_locations: Total rows added: 33 in 0.00 seconds
+0073.004 (0) Table wp_woocommerce_shipping_zone_locations: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_shipping_zone_locations.table.gz - 0.6 KB)
+0073.007 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 9
+0073.008 (0) Table wp_woocommerce_shipping_zone_methods: Total rows added: 9 in 0.00 seconds
+0073.008 (0) Table wp_woocommerce_shipping_zone_methods: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_shipping_zone_methods.table.gz - 0.5 KB)
+0073.011 (0) Table wp_woocommerce_shipping_zones: Total expected rows (approximate): 1
+0073.012 (0) Table wp_woocommerce_shipping_zones: Total rows added: 1 in 0.00 seconds
+0073.013 (0) Table wp_woocommerce_shipping_zones: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_shipping_zones.table.gz - 0.4 KB)
+0073.018 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0073.020 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+0073.020 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0073.025 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0073.026 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.00 seconds
+0073.026 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0073.030 (0) Table wp_wpmm_subscribers: Total expected rows (approximate): 5
+0073.032 (0) Table wp_wpmm_subscribers: Total rows added: 5 in 0.00 seconds
+0073.032 (0) Table wp_wpmm_subscribers: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wpmm_subscribers.table.gz - 0.5 KB)
+0073.035 (0) Table wp_yith_wcwl: Total expected rows (approximate): 1087
+0073.043 (0) Table wp_yith_wcwl: Total rows added: 1087 in 0.01 seconds
+0073.044 (0) Table wp_yith_wcwl: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_yith_wcwl.table.gz - 12.3 KB)
+0073.047 (0) Table wp_yith_wcwl_lists: Total expected rows (approximate): 3365
+0073.079 (0) Table wp_yith_wcwl_lists: Total rows added: 3365 in 0.03 seconds
+0073.080 (0) Table wp_yith_wcwl_lists: finishing file (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_yith_wcwl_lists.table.gz - 71.9 KB)
+0073.082 (0) Skipping table (lacks our prefix (wp_)): wpstg0_EWD_OTP_Custom_Fields
+0073.082 (0) Skipping table (lacks our prefix (wp_)): wpstg0_EWD_OTP_Customers
+0073.083 (0) Skipping table (lacks our prefix (wp_)): wpstg0_EWD_OTP_Fields_Meta
+0073.083 (0) Skipping table (lacks our prefix (wp_)): wpstg0_EWD_OTP_Order_Statuses
+0073.083 (0) Skipping table (lacks our prefix (wp_)): wpstg0_EWD_OTP_Orders
+0073.084 (0) Skipping table (lacks our prefix (wp_)): wpstg0_EWD_OTP_Sales_Reps
+0073.084 (0) Skipping table (lacks our prefix (wp_)): wpstg0_commentmeta
+0073.085 (0) Skipping table (lacks our prefix (wp_)): wpstg0_comments
+0073.085 (0) Skipping table (lacks our prefix (wp_)): wpstg0_links
+0073.086 (0) Skipping table (lacks our prefix (wp_)): wpstg0_options
+0073.086 (0) Skipping table (lacks our prefix (wp_)): wpstg0_pmxe_exports
+0073.087 (0) Skipping table (lacks our prefix (wp_)): wpstg0_pmxe_google_cats
+0073.087 (0) Skipping table (lacks our prefix (wp_)): wpstg0_pmxe_posts
+0073.087 (0) Skipping table (lacks our prefix (wp_)): wpstg0_pmxe_templates
+0073.088 (0) Skipping table (lacks our prefix (wp_)): wpstg0_postmeta
+0073.088 (0) Skipping table (lacks our prefix (wp_)): wpstg0_posts
+0073.088 (0) Skipping table (lacks our prefix (wp_)): wpstg0_revslider_css
+0073.089 (0) Skipping table (lacks our prefix (wp_)): wpstg0_revslider_layer_animations
+0073.089 (0) Skipping table (lacks our prefix (wp_)): wpstg0_revslider_navigations
+0073.089 (0) Skipping table (lacks our prefix (wp_)): wpstg0_revslider_sliders
+0073.090 (0) Skipping table (lacks our prefix (wp_)): wpstg0_revslider_slides
+0073.090 (0) Skipping table (lacks our prefix (wp_)): wpstg0_revslider_static_slides
+0073.091 (0) Skipping table (lacks our prefix (wp_)): wpstg0_snp_log
+0073.091 (0) Skipping table (lacks our prefix (wp_)): wpstg0_snp_stats
+0073.091 (0) Skipping table (lacks our prefix (wp_)): wpstg0_social_users
+0073.092 (0) Skipping table (lacks our prefix (wp_)): wpstg0_term_relationships
+0073.092 (0) Skipping table (lacks our prefix (wp_)): wpstg0_term_taxonomy
+0073.093 (0) Skipping table (lacks our prefix (wp_)): wpstg0_termmeta
+0073.093 (0) Skipping table (lacks our prefix (wp_)): wpstg0_terms
+0073.093 (0) Skipping table (lacks our prefix (wp_)): wpstg0_usermeta
+0073.094 (0) Skipping table (lacks our prefix (wp_)): wpstg0_users
+0073.094 (0) Skipping table (lacks our prefix (wp_)): wpstg0_wc_download_log
+0073.095 (0) Skipping table (lacks our prefix (wp_)): wpstg0_wc_webhooks
+0073.095 (0) Skipping table (lacks our prefix (wp_)): wpstg0_woocommerce_api_keys
+0073.095 (0) Skipping table (lacks our prefix (wp_)): wpstg0_woocommerce_attribute_taxonomies
+0073.096 (0) Skipping table (lacks our prefix (wp_)): wpstg0_woocommerce_downloadable_product_permissions
+0073.096 (0) Skipping table (lacks our prefix (wp_)): wpstg0_woocommerce_log
+0073.096 (0) Skipping table (lacks our prefix (wp_)): wpstg0_woocommerce_order_itemmeta
+0073.097 (0) Skipping table (lacks our prefix (wp_)): wpstg0_woocommerce_order_items
+0073.097 (0) Skipping table (lacks our prefix (wp_)): wpstg0_woocommerce_payment_tokenmeta
+0073.097 (0) Skipping table (lacks our prefix (wp_)): wpstg0_woocommerce_payment_tokens
+0073.098 (0) Skipping table (lacks our prefix (wp_)): wpstg0_woocommerce_sessions
+0073.098 (0) Skipping table (lacks our prefix (wp_)): wpstg0_woocommerce_shipping_zone_locations
+0073.099 (0) Skipping table (lacks our prefix (wp_)): wpstg0_woocommerce_shipping_zone_methods
+0073.099 (0) Skipping table (lacks our prefix (wp_)): wpstg0_woocommerce_shipping_zones
+0073.100 (0) Skipping table (lacks our prefix (wp_)): wpstg0_woocommerce_tax_rate_locations
+0073.100 (0) Skipping table (lacks our prefix (wp_)): wpstg0_woocommerce_tax_rates
+0073.101 (0) Skipping table (lacks our prefix (wp_)): wpstg0_wpmm_subscribers
+0073.101 (0) Skipping table (lacks our prefix (wp_)): wpstg0_yith_wcwl
+0073.101 (0) Skipping table (lacks our prefix (wp_)): wpstg0_yith_wcwl_lists
+0073.102 (0) Skipping table (lacks our prefix (wp_)): wpstg0_yoast_seo_links
+0073.102 (0) Skipping table (lacks our prefix (wp_)): wpstg0_yoast_seo_meta
+0073.103 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_options.table.gz (1/128): adding to final database dump
+0073.191 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_users.table.gz (2/128): adding to final database dump
+0073.254 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_usermeta.table.gz (3/128): adding to final database dump
+0073.794 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_commentmeta.table.gz (4/128): adding to final database dump
+0073.796 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_comments.table.gz (5/128): adding to final database dump
+0074.082 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_links.table.gz (6/128): adding to final database dump
+0074.082 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_postmeta.table.gz (7/128): adding to final database dump
+0076.866 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_posts.table.gz (8/128): adding to final database dump
+0077.213 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_term_relationships.table.gz (9/128): adding to final database dump
+0077.215 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_term_taxonomy.table.gz (10/128): adding to final database dump
+0077.216 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_termmeta.table.gz (11/128): adding to final database dump
+0077.217 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_terms.table.gz (12/128): adding to final database dump
+0077.218 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wc_product_meta_lookup.table.gz (13/128): adding to final database dump
+0077.220 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_order_itemmeta.table.gz (14/128): adding to final database dump
+0078.161 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_payment_tokenmeta.table.gz (15/128): adding to final database dump
+0078.162 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_yoast_seo_links.table.gz (16/128): adding to final database dump
+0078.163 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_yoast_seo_meta.table.gz (17/128): adding to final database dump
+0078.178 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_EWD_OTP_Custom_Fields.table.gz (18/128): adding to final database dump
+0078.179 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_EWD_OTP_Customers.table.gz (19/128): adding to final database dump
+0078.179 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_EWD_OTP_Fields_Meta.table.gz (20/128): adding to final database dump
+0078.180 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_EWD_OTP_Order_Statuses.table.gz (21/128): adding to final database dump
+0078.180 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_EWD_OTP_Orders.table.gz (22/128): adding to final database dump
+0078.181 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_EWD_OTP_Sales_Reps.table.gz (23/128): adding to final database dump
+0078.181 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_atum_order_itemmeta.table.gz (24/128): adding to final database dump
+0078.182 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_atum_order_items.table.gz (25/128): adding to final database dump
+0078.182 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_atum_product_data.table.gz (26/128): adding to final database dump
+0078.183 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_pmxe_exports.table.gz (27/128): adding to final database dump
+0078.183 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_pmxe_google_cats.table.gz (28/128): adding to final database dump
+0078.205 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_pmxe_posts.table.gz (29/128): adding to final database dump
+0078.205 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_pmxe_templates.table.gz (30/128): adding to final database dump
+0078.206 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_revslider_css.table.gz (31/128): adding to final database dump
+0078.208 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_revslider_layer_animations.table.gz (32/128): adding to final database dump
+0078.209 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_revslider_navigations.table.gz (33/128): adding to final database dump
+0078.209 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_revslider_sliders.table.gz (34/128): adding to final database dump
+0078.210 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_revslider_slides.table.gz (35/128): adding to final database dump
+0078.211 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_revslider_static_slides.table.gz (36/128): adding to final database dump
+0078.211 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_snp_log.table.gz (37/128): adding to final database dump
+0078.211 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_snp_stats.table.gz (38/128): adding to final database dump
+0078.212 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_social_users.table.gz (39/128): adding to final database dump
+0078.212 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wc_download_log.table.gz (40/128): adding to final database dump
+0078.213 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wc_webhooks.table.gz (41/128): adding to final database dump
+0078.213 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfblockediplog.table.gz (42/128): adding to final database dump
+0078.214 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfblocks7.table.gz (43/128): adding to final database dump
+0078.214 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfconfig.table.gz (44/128): adding to final database dump
+0078.234 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfcrawlers.table.gz (45/128): adding to final database dump
+0078.235 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wffilechanges.table.gz (46/128): adding to final database dump
+0078.235 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wffilemods.table.gz (47/128): adding to final database dump
+0078.341 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfhits.table.gz (48/128): adding to final database dump
+0078.342 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfhoover.table.gz (49/128): adding to final database dump
+0078.343 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfissues.table.gz (50/128): adding to final database dump
+0078.345 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfknownfilelist.table.gz (51/128): adding to final database dump
+0078.372 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wflivetraffichuman.table.gz (52/128): adding to final database dump
+0078.373 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wflocs.table.gz (53/128): adding to final database dump
+0078.374 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wflogins.table.gz (54/128): adding to final database dump
+0078.374 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfnotifications.table.gz (55/128): adding to final database dump
+0078.375 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfpendingissues.table.gz (56/128): adding to final database dump
+0078.375 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfreversecache.table.gz (57/128): adding to final database dump
+0078.376 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfsnipcache.table.gz (58/128): adding to final database dump
+0078.376 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wfstatus.table.gz (59/128): adding to final database dump
+0078.378 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wftrafficrates.table.gz (60/128): adding to final database dump
+0078.379 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_api_keys.table.gz (61/128): adding to final database dump
+0078.379 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_attribute_taxonomies.table.gz (62/128): adding to final database dump
+0078.380 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (63/128): adding to final database dump
+0078.381 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_log.table.gz (64/128): adding to final database dump
+0078.381 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_order_items.table.gz (65/128): adding to final database dump
+0078.476 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_payment_tokens.table.gz (66/128): adding to final database dump
+0078.477 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_sessions.table.gz (67/128): adding to final database dump
+0078.539 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_shipping_zone_locations.table.gz (68/128): adding to final database dump
+0078.540 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_shipping_zone_methods.table.gz (69/128): adding to final database dump
+0078.541 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_shipping_zones.table.gz (70/128): adding to final database dump
+0078.542 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_tax_rate_locations.table.gz (71/128): adding to final database dump
+0078.542 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_woocommerce_tax_rates.table.gz (72/128): adding to final database dump
+0078.543 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_wpmm_subscribers.table.gz (73/128): adding to final database dump
+0078.543 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_yith_wcwl.table.gz (74/128): adding to final database dump
+0078.548 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db-table-wp_yith_wcwl_lists.table.gz (75/128): adding to final database dump
+0078.561 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db.gz: finished writing out complete database file (23168 KB)
+0078.825 (0) Total database tables backed up: 75 (backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db.gz, size: 23743565, sha256)
+0078.829 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0078.830 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0078.830 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0078.830 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip: wpcore: This file has not yet been successfully uploaded: will queue
+0078.831 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-others.zip: others: This file has not yet been successfully uploaded: will queue
+0078.831 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db.gz: db: This file has not yet been successfully uploaded: will queue
+0078.832 (0) Saving backup history. Total backup size: 742.5 MB
+0078.833 (0) Requesting upload of the files that have not yet been successfully uploaded (6)
+0078.835 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0078.835 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-ea0d1525625063da2f54e553f6f56d3e)
+0082.610 (0) Google Drive quota usage: used=5635.6 MB, total=15360 MB, available=9724.4 MB
+0082.611 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip: Attempting to upload to Google Drive (into folder id: 1klbGikthAueBd5KN4qLZ35qgYYOYrhab)
+0083.012 (0) Googledrive chunked upload: 2.3 % uploaded (1048576)
+0083.193 (0) Googledrive chunked upload: 4.6 % uploaded (2097152)
+0083.377 (0) Googledrive chunked upload: 6.9 % uploaded (3145728)
+0083.573 (0) Googledrive chunked upload: 9.3 % uploaded (4194304)
+0083.755 (0) Googledrive chunked upload: 11.6 % uploaded (5242880)
+0083.944 (0) Googledrive chunked upload: 13.9 % uploaded (6291456)
+0084.105 (0) Googledrive chunked upload: 16.2 % uploaded (7340032)
+0084.296 (0) Googledrive chunked upload: 18.5 % uploaded (8388608)
+0084.486 (0) Googledrive chunked upload: 20.8 % uploaded (9437184)
+0084.673 (0) Googledrive chunked upload: 23.1 % uploaded (10485760)
+0084.850 (0) Googledrive chunked upload: 25.5 % uploaded (11534336)
+0085.014 (0) Googledrive chunked upload: 27.8 % uploaded (12582912)
+0085.186 (0) Googledrive chunked upload: 30.1 % uploaded (13631488)
+0085.353 (0) Googledrive chunked upload: 32.4 % uploaded (14680064)
+0085.502 (0) Googledrive chunked upload: 34.7 % uploaded (15728640)
+0085.680 (0) Googledrive chunked upload: 37 % uploaded (16777216)
+0085.871 (0) Googledrive chunked upload: 39.3 % uploaded (17825792)
+0086.046 (0) Googledrive chunked upload: 41.6 % uploaded (18874368)
+0086.412 (0) Googledrive chunked upload: 44 % uploaded (19922944)
+0086.587 (0) Googledrive chunked upload: 46.3 % uploaded (20971520)
+0086.762 (0) Googledrive chunked upload: 48.6 % uploaded (22020096)
+0086.930 (0) Googledrive chunked upload: 50.9 % uploaded (23068672)
+0087.105 (0) Googledrive chunked upload: 53.2 % uploaded (24117248)
+0087.270 (0) Googledrive chunked upload: 55.5 % uploaded (25165824)
+0087.450 (0) Googledrive chunked upload: 57.8 % uploaded (26214400)
+0087.619 (0) Googledrive chunked upload: 60.2 % uploaded (27262976)
+0087.772 (0) Googledrive chunked upload: 62.5 % uploaded (28311552)
+0087.952 (0) Googledrive chunked upload: 64.8 % uploaded (29360128)
+0088.100 (0) Googledrive chunked upload: 67.1 % uploaded (30408704)
+0088.305 (0) Googledrive chunked upload: 69.4 % uploaded (31457280)
+0088.461 (0) Googledrive chunked upload: 71.7 % uploaded (32505856)
+0088.625 (0) Googledrive chunked upload: 74 % uploaded (33554432)
+0088.828 (0) Googledrive chunked upload: 76.4 % uploaded (34603008)
+0089.017 (0) Googledrive chunked upload: 78.7 % uploaded (35651584)
+0089.168 (0) Googledrive chunked upload: 81 % uploaded (36700160)
+0089.319 (0) Googledrive chunked upload: 83.3 % uploaded (37748736)
+0089.487 (0) Googledrive chunked upload: 85.6 % uploaded (38797312)
+0089.630 (0) Googledrive chunked upload: 87.9 % uploaded (39845888)
+0089.818 (0) Googledrive chunked upload: 90.2 % uploaded (40894464)
+0089.977 (0) Googledrive chunked upload: 92.5 % uploaded (41943040)
+0090.149 (0) Googledrive chunked upload: 94.9 % uploaded (42991616)
+0090.323 (0) Googledrive chunked upload: 97.2 % uploaded (44040192)
+0090.505 (0) Googledrive chunked upload: 99.5 % uploaded (45088768)
+0091.724 (0) Googledrive chunked upload: 100 % uploaded (45088768)
+0091.728 (0) OK: Archive backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip uploaded to Google Drive in 9.12 seconds
+0091.729 (0) Recording as successfully uploaded: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip
+0091.737 (0) Deleting local file: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip: OK
+0091.921 (0) Google Drive quota usage: used=5678.9 MB, total=15360 MB, available=9681.1 MB
+0091.922 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip: Attempting to upload to Google Drive (into folder id: 1klbGikthAueBd5KN4qLZ35qgYYOYrhab)
+0092.375 (0) Googledrive chunked upload: 8.7 % uploaded (1048576)
+0092.526 (0) Googledrive chunked upload: 17.3 % uploaded (2097152)
+0092.683 (0) Googledrive chunked upload: 26 % uploaded (3145728)
+0092.839 (0) Googledrive chunked upload: 34.7 % uploaded (4194304)
+0093.112 (0) Googledrive chunked upload: 43.4 % uploaded (5242880)
+0093.294 (0) Googledrive chunked upload: 52 % uploaded (6291456)
+0093.513 (0) Googledrive chunked upload: 60.7 % uploaded (7340032)
+0093.715 (0) Googledrive chunked upload: 69.4 % uploaded (8388608)
+0093.908 (0) Googledrive chunked upload: 78 % uploaded (9437184)
+0094.081 (0) Googledrive chunked upload: 86.7 % uploaded (10485760)
+0094.283 (0) Googledrive chunked upload: 95.4 % uploaded (11534336)
+0095.265 (0) Googledrive chunked upload: 100 % uploaded (11534336)
+0095.267 (0) OK: Archive backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip uploaded to Google Drive in 3.34 seconds
+0095.267 (0) Recording as successfully uploaded: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip
+0095.270 (0) Deleting local file: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip: OK
+0095.451 (0) Google Drive quota usage: used=5678.9 MB, total=15360 MB, available=9681.1 MB
+0095.452 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip: Attempting to upload to Google Drive (into folder id: 1klbGikthAueBd5KN4qLZ35qgYYOYrhab)
+0095.795 (0) Googledrive chunked upload: 0.3 % uploaded (1048576)
+0095.951 (0) Googledrive chunked upload: 0.6 % uploaded (2097152)
+0096.106 (0) Googledrive chunked upload: 0.8 % uploaded (3145728)
+0096.278 (0) Googledrive chunked upload: 1.1 % uploaded (4194304)
+0096.452 (0) Googledrive chunked upload: 1.4 % uploaded (5242880)
+0096.601 (0) Googledrive chunked upload: 1.7 % uploaded (6291456)
+0096.742 (0) Googledrive chunked upload: 2 % uploaded (7340032)
+0096.882 (0) Googledrive chunked upload: 2.2 % uploaded (8388608)
+0097.051 (0) Googledrive chunked upload: 2.5 % uploaded (9437184)
+0097.220 (0) Googledrive chunked upload: 2.8 % uploaded (10485760)
+0097.384 (0) Googledrive chunked upload: 3.1 % uploaded (11534336)
+0097.535 (0) Googledrive chunked upload: 3.4 % uploaded (12582912)
+0097.759 (0) Googledrive chunked upload: 3.6 % uploaded (13631488)
+0097.938 (0) Googledrive chunked upload: 3.9 % uploaded (14680064)
+0098.079 (0) Googledrive chunked upload: 4.2 % uploaded (15728640)
+0098.225 (0) Googledrive chunked upload: 4.5 % uploaded (16777216)
+0098.378 (0) Googledrive chunked upload: 4.8 % uploaded (17825792)
+0098.565 (0) Googledrive chunked upload: 5.1 % uploaded (18874368)
+0098.727 (0) Googledrive chunked upload: 5.3 % uploaded (19922944)
+0098.930 (0) Googledrive chunked upload: 5.6 % uploaded (20971520)
+0099.109 (0) Googledrive chunked upload: 5.9 % uploaded (22020096)
+0099.270 (0) Googledrive chunked upload: 6.2 % uploaded (23068672)
+0099.442 (0) Googledrive chunked upload: 6.5 % uploaded (24117248)
+0099.594 (0) Googledrive chunked upload: 6.7 % uploaded (25165824)
+0099.756 (0) Googledrive chunked upload: 7 % uploaded (26214400)
+0099.961 (0) Googledrive chunked upload: 7.3 % uploaded (27262976)
+0100.123 (0) Googledrive chunked upload: 7.6 % uploaded (28311552)
+0100.284 (0) Googledrive chunked upload: 7.9 % uploaded (29360128)
+0100.428 (0) Googledrive chunked upload: 8.1 % uploaded (30408704)
+0100.598 (0) Googledrive chunked upload: 8.4 % uploaded (31457280)
+0100.748 (0) Googledrive chunked upload: 8.7 % uploaded (32505856)
+0100.935 (0) Googledrive chunked upload: 9 % uploaded (33554432)
+0101.119 (0) Googledrive chunked upload: 9.3 % uploaded (34603008)
+0101.268 (0) Googledrive chunked upload: 9.5 % uploaded (35651584)
+0101.428 (0) Googledrive chunked upload: 9.8 % uploaded (36700160)
+0101.598 (0) Googledrive chunked upload: 10.1 % uploaded (37748736)
+0101.768 (0) Googledrive chunked upload: 10.4 % uploaded (38797312)
+0101.940 (0) Googledrive chunked upload: 10.7 % uploaded (39845888)
+0102.108 (0) Googledrive chunked upload: 10.9 % uploaded (40894464)
+0102.277 (0) Googledrive chunked upload: 11.2 % uploaded (41943040)
+0102.420 (0) Googledrive chunked upload: 11.5 % uploaded (42991616)
+0102.603 (0) Googledrive chunked upload: 11.8 % uploaded (44040192)
+0102.754 (0) Googledrive chunked upload: 12.1 % uploaded (45088768)
+0102.908 (0) Googledrive chunked upload: 12.4 % uploaded (46137344)
+0103.060 (0) Googledrive chunked upload: 12.6 % uploaded (47185920)
+0103.217 (0) Googledrive chunked upload: 12.9 % uploaded (48234496)
+0103.391 (0) Googledrive chunked upload: 13.2 % uploaded (49283072)
+0103.561 (0) Googledrive chunked upload: 13.5 % uploaded (50331648)
+0103.725 (0) Googledrive chunked upload: 13.8 % uploaded (51380224)
+0103.869 (0) Googledrive chunked upload: 14 % uploaded (52428800)
+0104.050 (0) Googledrive chunked upload: 14.3 % uploaded (53477376)
+0104.236 (0) Googledrive chunked upload: 14.6 % uploaded (54525952)
+0104.379 (0) Googledrive chunked upload: 14.9 % uploaded (55574528)
+0104.542 (0) Googledrive chunked upload: 15.2 % uploaded (56623104)
+0104.690 (0) Googledrive chunked upload: 15.4 % uploaded (57671680)
+0104.842 (0) Googledrive chunked upload: 15.7 % uploaded (58720256)
+0105.001 (0) Googledrive chunked upload: 16 % uploaded (59768832)
+0105.184 (0) Googledrive chunked upload: 16.3 % uploaded (60817408)
+0105.363 (0) Googledrive chunked upload: 16.6 % uploaded (61865984)
+0105.527 (0) Googledrive chunked upload: 16.8 % uploaded (62914560)
+0105.664 (0) Googledrive chunked upload: 17.1 % uploaded (63963136)
+0105.810 (0) Googledrive chunked upload: 17.4 % uploaded (65011712)
+0105.978 (0) Googledrive chunked upload: 17.7 % uploaded (66060288)
+0106.148 (0) Googledrive chunked upload: 18 % uploaded (67108864)
+0106.324 (0) Googledrive chunked upload: 18.2 % uploaded (68157440)
+0106.482 (0) Googledrive chunked upload: 18.5 % uploaded (69206016)
+0106.621 (0) Googledrive chunked upload: 18.8 % uploaded (70254592)
+0106.784 (0) Googledrive chunked upload: 19.1 % uploaded (71303168)
+0106.992 (0) Googledrive chunked upload: 19.4 % uploaded (72351744)
+0107.158 (0) Googledrive chunked upload: 19.7 % uploaded (73400320)
+0107.323 (0) Googledrive chunked upload: 19.9 % uploaded (74448896)
+0107.478 (0) Googledrive chunked upload: 20.2 % uploaded (75497472)
+0107.630 (0) Googledrive chunked upload: 20.5 % uploaded (76546048)
+0107.807 (0) Googledrive chunked upload: 20.8 % uploaded (77594624)
+0107.963 (0) Googledrive chunked upload: 21.1 % uploaded (78643200)
+0108.195 (0) Googledrive chunked upload: 21.3 % uploaded (79691776)
+0108.337 (0) Googledrive chunked upload: 21.6 % uploaded (80740352)
+0108.508 (0) Googledrive chunked upload: 21.9 % uploaded (81788928)
+0108.706 (0) Googledrive chunked upload: 22.2 % uploaded (82837504)
+0108.856 (0) Googledrive chunked upload: 22.5 % uploaded (83886080)
+0109.015 (0) Googledrive chunked upload: 22.7 % uploaded (84934656)
+0109.159 (0) Googledrive chunked upload: 23 % uploaded (85983232)
+0109.333 (0) Googledrive chunked upload: 23.3 % uploaded (87031808)
+0109.517 (0) Googledrive chunked upload: 23.6 % uploaded (88080384)
+0109.683 (0) Googledrive chunked upload: 23.9 % uploaded (89128960)
+0109.817 (0) Googledrive chunked upload: 24.1 % uploaded (90177536)
+0109.984 (0) Googledrive chunked upload: 24.4 % uploaded (91226112)
+0110.168 (0) Googledrive chunked upload: 24.7 % uploaded (92274688)
+0110.336 (0) Googledrive chunked upload: 25 % uploaded (93323264)
+0110.503 (0) Googledrive chunked upload: 25.3 % uploaded (94371840)
+0110.651 (0) Googledrive chunked upload: 25.5 % uploaded (95420416)
+0110.826 (0) Googledrive chunked upload: 25.8 % uploaded (96468992)
+0110.990 (0) Googledrive chunked upload: 26.1 % uploaded (97517568)
+0111.185 (0) Googledrive chunked upload: 26.4 % uploaded (98566144)
+0111.343 (0) Googledrive chunked upload: 26.7 % uploaded (99614720)
+0111.501 (0) Googledrive chunked upload: 27 % uploaded (100663296)
+0111.676 (0) Googledrive chunked upload: 27.2 % uploaded (101711872)
+0111.829 (0) Googledrive chunked upload: 27.5 % uploaded (102760448)
+0111.971 (0) Googledrive chunked upload: 27.8 % uploaded (103809024)
+0112.136 (0) Googledrive chunked upload: 28.1 % uploaded (104857600)
+0112.295 (0) Googledrive chunked upload: 28.4 % uploaded (105906176)
+0112.455 (0) Googledrive chunked upload: 28.6 % uploaded (106954752)
+0112.627 (0) Googledrive chunked upload: 28.9 % uploaded (108003328)
+0112.789 (0) Googledrive chunked upload: 29.2 % uploaded (109051904)
+0112.972 (0) Googledrive chunked upload: 29.5 % uploaded (110100480)
+0113.134 (0) Googledrive chunked upload: 29.8 % uploaded (111149056)
+0113.305 (0) Googledrive chunked upload: 30 % uploaded (112197632)
+0113.473 (0) Googledrive chunked upload: 30.3 % uploaded (113246208)
+0113.616 (0) Googledrive chunked upload: 30.6 % uploaded (114294784)
+0113.794 (0) Googledrive chunked upload: 30.9 % uploaded (115343360)
+0113.950 (0) Googledrive chunked upload: 31.2 % uploaded (116391936)
+0114.099 (0) Googledrive chunked upload: 31.4 % uploaded (117440512)
+0114.255 (0) Googledrive chunked upload: 31.7 % uploaded (118489088)
+0114.394 (0) Googledrive chunked upload: 32 % uploaded (119537664)
+0114.551 (0) Googledrive chunked upload: 32.3 % uploaded (120586240)
+0114.742 (0) Googledrive chunked upload: 32.6 % uploaded (121634816)
+0114.926 (0) Googledrive chunked upload: 32.8 % uploaded (122683392)
+0115.096 (0) Googledrive chunked upload: 33.1 % uploaded (123731968)
+0115.249 (0) Googledrive chunked upload: 33.4 % uploaded (124780544)
+0115.400 (0) Googledrive chunked upload: 33.7 % uploaded (125829120)
+0115.573 (0) Googledrive chunked upload: 34 % uploaded (126877696)
+0115.749 (0) Googledrive chunked upload: 34.3 % uploaded (127926272)
+0115.940 (0) Googledrive chunked upload: 34.5 % uploaded (128974848)
+0116.119 (0) Googledrive chunked upload: 34.8 % uploaded (130023424)
+0116.305 (0) Googledrive chunked upload: 35.1 % uploaded (131072000)
+0116.470 (0) Googledrive chunked upload: 35.4 % uploaded (132120576)
+0116.611 (0) Googledrive chunked upload: 35.7 % uploaded (133169152)
+0116.789 (0) Googledrive chunked upload: 35.9 % uploaded (134217728)
+0116.968 (0) Googledrive chunked upload: 36.2 % uploaded (135266304)
+0117.129 (0) Googledrive chunked upload: 36.5 % uploaded (136314880)
+0117.317 (0) Googledrive chunked upload: 36.8 % uploaded (137363456)
+0117.483 (0) Googledrive chunked upload: 37.1 % uploaded (138412032)
+0117.637 (0) Googledrive chunked upload: 37.3 % uploaded (139460608)
+0117.808 (0) Googledrive chunked upload: 37.6 % uploaded (140509184)
+0117.970 (0) Googledrive chunked upload: 37.9 % uploaded (141557760)
+0118.191 (0) Googledrive chunked upload: 38.2 % uploaded (142606336)
+0118.370 (0) Googledrive chunked upload: 38.5 % uploaded (143654912)
+0118.502 (0) Googledrive chunked upload: 38.7 % uploaded (144703488)
+0118.677 (0) Googledrive chunked upload: 39 % uploaded (145752064)
+0118.838 (0) Googledrive chunked upload: 39.3 % uploaded (146800640)
+0118.998 (0) Googledrive chunked upload: 39.6 % uploaded (147849216)
+0119.178 (0) Googledrive chunked upload: 39.9 % uploaded (148897792)
+0119.335 (0) Googledrive chunked upload: 40.1 % uploaded (149946368)
+0119.505 (0) Googledrive chunked upload: 40.4 % uploaded (150994944)
+0119.682 (0) Googledrive chunked upload: 40.7 % uploaded (152043520)
+0119.878 (0) Googledrive chunked upload: 41 % uploaded (153092096)
+0120.022 (0) Googledrive chunked upload: 41.3 % uploaded (154140672)
+0120.185 (0) Googledrive chunked upload: 41.6 % uploaded (155189248)
+0120.330 (0) Googledrive chunked upload: 41.8 % uploaded (156237824)
+0120.473 (0) Googledrive chunked upload: 42.1 % uploaded (157286400)
+0120.653 (0) Googledrive chunked upload: 42.4 % uploaded (158334976)
+0120.819 (0) Googledrive chunked upload: 42.7 % uploaded (159383552)
+0120.974 (0) Googledrive chunked upload: 43 % uploaded (160432128)
+0121.153 (0) Googledrive chunked upload: 43.2 % uploaded (161480704)
+0121.335 (0) Googledrive chunked upload: 43.5 % uploaded (162529280)
+0121.510 (0) Googledrive chunked upload: 43.8 % uploaded (163577856)
+0121.730 (0) Googledrive chunked upload: 44.1 % uploaded (164626432)
+0121.881 (0) Googledrive chunked upload: 44.4 % uploaded (165675008)
+0122.030 (0) Googledrive chunked upload: 44.6 % uploaded (166723584)
+0122.200 (0) Googledrive chunked upload: 44.9 % uploaded (167772160)
+0122.373 (0) Googledrive chunked upload: 45.2 % uploaded (168820736)
+0122.523 (0) Googledrive chunked upload: 45.5 % uploaded (169869312)
+0122.678 (0) Googledrive chunked upload: 45.8 % uploaded (170917888)
+0122.817 (0) Googledrive chunked upload: 46 % uploaded (171966464)
+0122.986 (0) Googledrive chunked upload: 46.3 % uploaded (173015040)
+0123.164 (0) Googledrive chunked upload: 46.6 % uploaded (174063616)
+0123.362 (0) Googledrive chunked upload: 46.9 % uploaded (175112192)
+0123.564 (0) Googledrive chunked upload: 47.2 % uploaded (176160768)
+0123.725 (0) Googledrive chunked upload: 47.4 % uploaded (177209344)
+0123.874 (0) Googledrive chunked upload: 47.7 % uploaded (178257920)
+0124.063 (0) Googledrive chunked upload: 48 % uploaded (179306496)
+0124.206 (0) Googledrive chunked upload: 48.3 % uploaded (180355072)
+0124.373 (0) Googledrive chunked upload: 48.6 % uploaded (181403648)
+0124.547 (0) Googledrive chunked upload: 48.9 % uploaded (182452224)
+0124.758 (0) Googledrive chunked upload: 49.1 % uploaded (183500800)
+0124.933 (0) Googledrive chunked upload: 49.4 % uploaded (184549376)
+0125.099 (0) Googledrive chunked upload: 49.7 % uploaded (185597952)
+0125.271 (0) Googledrive chunked upload: 50 % uploaded (186646528)
+0125.435 (0) Googledrive chunked upload: 50.3 % uploaded (187695104)
+0125.582 (0) Googledrive chunked upload: 50.5 % uploaded (188743680)
+0125.774 (0) Googledrive chunked upload: 50.8 % uploaded (189792256)
+0125.927 (0) Googledrive chunked upload: 51.1 % uploaded (190840832)
+0126.104 (0) Googledrive chunked upload: 51.4 % uploaded (191889408)
+0126.275 (0) Googledrive chunked upload: 51.7 % uploaded (192937984)
+0126.420 (0) Googledrive chunked upload: 51.9 % uploaded (193986560)
+0126.580 (0) Googledrive chunked upload: 52.2 % uploaded (195035136)
+0126.744 (0) Googledrive chunked upload: 52.5 % uploaded (196083712)
+0126.928 (0) Googledrive chunked upload: 52.8 % uploaded (197132288)
+0127.120 (0) Googledrive chunked upload: 53.1 % uploaded (198180864)
+0127.300 (0) Googledrive chunked upload: 53.3 % uploaded (199229440)
+0127.448 (0) Googledrive chunked upload: 53.6 % uploaded (200278016)
+0127.622 (0) Googledrive chunked upload: 53.9 % uploaded (201326592)
+0127.791 (0) Googledrive chunked upload: 54.2 % uploaded (202375168)
+0128.013 (0) Googledrive chunked upload: 54.5 % uploaded (203423744)
+0128.153 (0) Googledrive chunked upload: 54.7 % uploaded (204472320)
+0128.316 (0) Googledrive chunked upload: 55 % uploaded (205520896)
+0128.481 (0) Googledrive chunked upload: 55.3 % uploaded (206569472)
+0128.630 (0) Googledrive chunked upload: 55.6 % uploaded (207618048)
+0128.798 (0) Googledrive chunked upload: 55.9 % uploaded (208666624)
+0128.951 (0) Googledrive chunked upload: 56.2 % uploaded (209715200)
+0129.098 (0) Googledrive chunked upload: 56.4 % uploaded (210763776)
+0129.286 (0) Googledrive chunked upload: 56.7 % uploaded (211812352)
+0129.437 (0) Googledrive chunked upload: 57 % uploaded (212860928)
+0129.614 (0) Googledrive chunked upload: 57.3 % uploaded (213909504)
+0129.754 (0) Googledrive chunked upload: 57.6 % uploaded (214958080)
+0129.945 (0) Googledrive chunked upload: 57.8 % uploaded (216006656)
+0130.095 (0) Googledrive chunked upload: 58.1 % uploaded (217055232)
+0130.324 (0) Googledrive chunked upload: 58.4 % uploaded (218103808)
+0130.467 (0) Googledrive chunked upload: 58.7 % uploaded (219152384)
+0130.648 (0) Googledrive chunked upload: 59 % uploaded (220200960)
+0130.799 (0) Googledrive chunked upload: 59.2 % uploaded (221249536)
+0130.965 (0) Googledrive chunked upload: 59.5 % uploaded (222298112)
+0131.127 (0) Googledrive chunked upload: 59.8 % uploaded (223346688)
+0131.320 (0) Googledrive chunked upload: 60.1 % uploaded (224395264)
+0131.499 (0) Googledrive chunked upload: 60.4 % uploaded (225443840)
+0131.665 (0) Googledrive chunked upload: 60.6 % uploaded (226492416)
+0131.807 (0) Googledrive chunked upload: 60.9 % uploaded (227540992)
+0131.989 (0) Googledrive chunked upload: 61.2 % uploaded (228589568)
+0132.148 (0) Googledrive chunked upload: 61.5 % uploaded (229638144)
+0132.344 (0) Googledrive chunked upload: 61.8 % uploaded (230686720)
+0132.522 (0) Googledrive chunked upload: 62 % uploaded (231735296)
+0132.675 (0) Googledrive chunked upload: 62.3 % uploaded (232783872)
+0132.812 (0) Googledrive chunked upload: 62.6 % uploaded (233832448)
+0133.024 (0) Googledrive chunked upload: 62.9 % uploaded (234881024)
+0133.208 (0) Googledrive chunked upload: 63.2 % uploaded (235929600)
+0133.360 (0) Googledrive chunked upload: 63.5 % uploaded (236978176)
+0133.533 (0) Googledrive chunked upload: 63.7 % uploaded (238026752)
+0133.694 (0) Googledrive chunked upload: 64 % uploaded (239075328)
+0133.857 (0) Googledrive chunked upload: 64.3 % uploaded (240123904)
+0134.007 (0) Googledrive chunked upload: 64.6 % uploaded (241172480)
+0134.181 (0) Googledrive chunked upload: 64.9 % uploaded (242221056)
+0134.384 (0) Googledrive chunked upload: 65.1 % uploaded (243269632)
+0134.559 (0) Googledrive chunked upload: 65.4 % uploaded (244318208)
+0134.701 (0) Googledrive chunked upload: 65.7 % uploaded (245366784)
+0134.836 (0) Googledrive chunked upload: 66 % uploaded (246415360)
+0135.010 (0) Googledrive chunked upload: 66.3 % uploaded (247463936)
+0135.168 (0) Googledrive chunked upload: 66.5 % uploaded (248512512)
+0135.400 (0) Googledrive chunked upload: 66.8 % uploaded (249561088)
+0135.563 (0) Googledrive chunked upload: 67.1 % uploaded (250609664)
+0135.732 (0) Googledrive chunked upload: 67.4 % uploaded (251658240)
+0135.899 (0) Googledrive chunked upload: 67.7 % uploaded (252706816)
+0136.064 (0) Googledrive chunked upload: 67.9 % uploaded (253755392)
+0136.208 (0) Googledrive chunked upload: 68.2 % uploaded (254803968)
+0136.352 (0) Googledrive chunked upload: 68.5 % uploaded (255852544)
+0136.506 (0) Googledrive chunked upload: 68.8 % uploaded (256901120)
+0136.662 (0) Googledrive chunked upload: 69.1 % uploaded (257949696)
+0136.839 (0) Googledrive chunked upload: 69.3 % uploaded (258998272)
+0136.998 (0) Googledrive chunked upload: 69.6 % uploaded (260046848)
+0137.169 (0) Googledrive chunked upload: 69.9 % uploaded (261095424)
+0137.361 (0) Googledrive chunked upload: 70.2 % uploaded (262144000)
+0137.520 (0) Googledrive chunked upload: 70.5 % uploaded (263192576)
+0137.684 (0) Googledrive chunked upload: 70.8 % uploaded (264241152)
+0137.862 (0) Googledrive chunked upload: 71 % uploaded (265289728)
+0138.013 (0) Googledrive chunked upload: 71.3 % uploaded (266338304)
+0138.187 (0) Googledrive chunked upload: 71.6 % uploaded (267386880)
+0138.357 (0) Googledrive chunked upload: 71.9 % uploaded (268435456)
+0138.530 (0) Googledrive chunked upload: 72.2 % uploaded (269484032)
+0138.678 (0) Googledrive chunked upload: 72.4 % uploaded (270532608)
+0138.824 (0) Googledrive chunked upload: 72.7 % uploaded (271581184)
+0139.022 (0) Googledrive chunked upload: 73 % uploaded (272629760)
+0139.179 (0) Googledrive chunked upload: 73.3 % uploaded (273678336)
+0139.349 (0) Googledrive chunked upload: 73.6 % uploaded (274726912)
+0139.512 (0) Googledrive chunked upload: 73.8 % uploaded (275775488)
+0139.658 (0) Googledrive chunked upload: 74.1 % uploaded (276824064)
+0139.832 (0) Googledrive chunked upload: 74.4 % uploaded (277872640)
+0139.997 (0) Googledrive chunked upload: 74.7 % uploaded (278921216)
+0140.164 (0) Googledrive chunked upload: 75 % uploaded (279969792)
+0140.307 (0) Googledrive chunked upload: 75.2 % uploaded (281018368)
+0140.485 (0) Googledrive chunked upload: 75.5 % uploaded (282066944)
+0140.656 (0) Googledrive chunked upload: 75.8 % uploaded (283115520)
+0140.822 (0) Googledrive chunked upload: 76.1 % uploaded (284164096)
+0140.985 (0) Googledrive chunked upload: 76.4 % uploaded (285212672)
+0141.134 (0) Googledrive chunked upload: 76.6 % uploaded (286261248)
+0141.315 (0) Googledrive chunked upload: 76.9 % uploaded (287309824)
+0141.474 (0) Googledrive chunked upload: 77.2 % uploaded (288358400)
+0141.617 (0) Googledrive chunked upload: 77.5 % uploaded (289406976)
+0141.780 (0) Googledrive chunked upload: 77.8 % uploaded (290455552)
+0141.923 (0) Googledrive chunked upload: 78.1 % uploaded (291504128)
+0142.100 (0) Googledrive chunked upload: 78.3 % uploaded (292552704)
+0142.274 (0) Googledrive chunked upload: 78.6 % uploaded (293601280)
+0142.442 (0) Googledrive chunked upload: 78.9 % uploaded (294649856)
+0142.625 (0) Googledrive chunked upload: 79.2 % uploaded (295698432)
+0142.789 (0) Googledrive chunked upload: 79.5 % uploaded (296747008)
+0142.940 (0) Googledrive chunked upload: 79.7 % uploaded (297795584)
+0143.089 (0) Googledrive chunked upload: 80 % uploaded (298844160)
+0143.252 (0) Googledrive chunked upload: 80.3 % uploaded (299892736)
+0143.403 (0) Googledrive chunked upload: 80.6 % uploaded (300941312)
+0143.544 (0) Googledrive chunked upload: 80.9 % uploaded (301989888)
+0143.715 (0) Googledrive chunked upload: 81.1 % uploaded (303038464)
+0143.884 (0) Googledrive chunked upload: 81.4 % uploaded (304087040)
+0144.071 (0) Googledrive chunked upload: 81.7 % uploaded (305135616)
+0144.240 (0) Googledrive chunked upload: 82 % uploaded (306184192)
+0144.413 (0) Googledrive chunked upload: 82.3 % uploaded (307232768)
+0144.560 (0) Googledrive chunked upload: 82.5 % uploaded (308281344)
+0144.708 (0) Googledrive chunked upload: 82.8 % uploaded (309329920)
+0144.890 (0) Googledrive chunked upload: 83.1 % uploaded (310378496)
+0145.070 (0) Googledrive chunked upload: 83.4 % uploaded (311427072)
+0145.244 (0) Googledrive chunked upload: 83.7 % uploaded (312475648)
+0145.393 (0) Googledrive chunked upload: 83.9 % uploaded (313524224)
+0145.582 (0) Googledrive chunked upload: 84.2 % uploaded (314572800)
+0145.772 (0) Googledrive chunked upload: 84.5 % uploaded (315621376)
+0145.942 (0) Googledrive chunked upload: 84.8 % uploaded (316669952)
+0146.122 (0) Googledrive chunked upload: 85.1 % uploaded (317718528)
+0146.265 (0) Googledrive chunked upload: 85.4 % uploaded (318767104)
+0146.416 (0) Googledrive chunked upload: 85.6 % uploaded (319815680)
+0146.554 (0) Googledrive chunked upload: 85.9 % uploaded (320864256)
+0146.728 (0) Googledrive chunked upload: 86.2 % uploaded (321912832)
+0146.869 (0) Googledrive chunked upload: 86.5 % uploaded (322961408)
+0147.051 (0) Googledrive chunked upload: 86.8 % uploaded (324009984)
+0147.222 (0) Googledrive chunked upload: 87 % uploaded (325058560)
+0147.411 (0) Googledrive chunked upload: 87.3 % uploaded (326107136)
+0147.601 (0) Googledrive chunked upload: 87.6 % uploaded (327155712)
+0147.788 (0) Googledrive chunked upload: 87.9 % uploaded (328204288)
+0147.937 (0) Googledrive chunked upload: 88.2 % uploaded (329252864)
+0148.144 (0) Googledrive chunked upload: 88.4 % uploaded (330301440)
+0148.308 (0) Googledrive chunked upload: 88.7 % uploaded (331350016)
+0148.457 (0) Googledrive chunked upload: 89 % uploaded (332398592)
+0148.625 (0) Googledrive chunked upload: 89.3 % uploaded (333447168)
+0148.783 (0) Googledrive chunked upload: 89.6 % uploaded (334495744)
+0148.926 (0) Googledrive chunked upload: 89.8 % uploaded (335544320)
+0149.071 (0) Googledrive chunked upload: 90.1 % uploaded (336592896)
+0149.223 (0) Googledrive chunked upload: 90.4 % uploaded (337641472)
+0149.395 (0) Googledrive chunked upload: 90.7 % uploaded (338690048)
+0149.532 (0) Googledrive chunked upload: 91 % uploaded (339738624)
+0149.681 (0) Googledrive chunked upload: 91.2 % uploaded (340787200)
+0149.835 (0) Googledrive chunked upload: 91.5 % uploaded (341835776)
+0150.005 (0) Googledrive chunked upload: 91.8 % uploaded (342884352)
+0150.168 (0) Googledrive chunked upload: 92.1 % uploaded (343932928)
+0150.349 (0) Googledrive chunked upload: 92.4 % uploaded (344981504)
+0150.514 (0) Googledrive chunked upload: 92.7 % uploaded (346030080)
+0150.673 (0) Googledrive chunked upload: 92.9 % uploaded (347078656)
+0150.841 (0) Googledrive chunked upload: 93.2 % uploaded (348127232)
+0150.993 (0) Googledrive chunked upload: 93.5 % uploaded (349175808)
+0151.179 (0) Googledrive chunked upload: 93.8 % uploaded (350224384)
+0151.364 (0) Googledrive chunked upload: 94.1 % uploaded (351272960)
+0151.537 (0) Googledrive chunked upload: 94.3 % uploaded (352321536)
+0151.678 (0) Googledrive chunked upload: 94.6 % uploaded (353370112)
+0151.854 (0) Googledrive chunked upload: 94.9 % uploaded (354418688)
+0152.056 (0) Googledrive chunked upload: 95.2 % uploaded (355467264)
+0152.206 (0) Googledrive chunked upload: 95.5 % uploaded (356515840)
+0152.357 (0) Googledrive chunked upload: 95.7 % uploaded (357564416)
+0152.508 (0) Googledrive chunked upload: 96 % uploaded (358612992)
+0152.667 (0) Googledrive chunked upload: 96.3 % uploaded (359661568)
+0152.834 (0) Googledrive chunked upload: 96.6 % uploaded (360710144)
+0153.004 (0) Googledrive chunked upload: 96.9 % uploaded (361758720)
+0153.170 (0) Googledrive chunked upload: 97.1 % uploaded (362807296)
+0153.326 (0) Googledrive chunked upload: 97.4 % uploaded (363855872)
+0153.515 (0) Googledrive chunked upload: 97.7 % uploaded (364904448)
+0153.691 (0) Googledrive chunked upload: 98 % uploaded (365953024)
+0153.892 (0) Googledrive chunked upload: 98.3 % uploaded (367001600)
+0154.035 (0) Googledrive chunked upload: 98.5 % uploaded (368050176)
+0154.205 (0) Googledrive chunked upload: 98.8 % uploaded (369098752)
+0154.341 (0) Googledrive chunked upload: 99.1 % uploaded (370147328)
+0154.512 (0) Googledrive chunked upload: 99.4 % uploaded (371195904)
+0154.684 (0) Googledrive chunked upload: 99.7 % uploaded (372244480)
+0154.829 (0) Googledrive chunked upload: 100 % uploaded (373293056)
+0155.671 (0) Googledrive chunked upload: 100 % uploaded (373293056)
+0155.672 (0) OK: Archive backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip uploaded to Google Drive in 60.22 seconds
+0155.673 (0) Recording as successfully uploaded: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip
+0155.730 (0) Deleting local file: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip: OK
+0155.967 (0) Google Drive quota usage: used=5690.4 MB, total=15360 MB, available=9669.6 MB
+0155.968 (0) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip: Attempting to upload to Google Drive (into folder id: 1klbGikthAueBd5KN4qLZ35qgYYOYrhab)
+0156.328 (0) Googledrive chunked upload: 0.3 % uploaded (1048576)
+0156.501 (0) Googledrive chunked upload: 0.7 % uploaded (2097152)
+0156.645 (0) Googledrive chunked upload: 1 % uploaded (3145728)
+0156.815 (0) Googledrive chunked upload: 1.3 % uploaded (4194304)
+0156.994 (0) Googledrive chunked upload: 1.6 % uploaded (5242880)
+0157.175 (0) Googledrive chunked upload: 2 % uploaded (6291456)
+0157.333 (0) Googledrive chunked upload: 2.3 % uploaded (7340032)
+0157.534 (0) Googledrive chunked upload: 2.6 % uploaded (8388608)
+0157.701 (0) Googledrive chunked upload: 3 % uploaded (9437184)
+0157.877 (0) Googledrive chunked upload: 3.3 % uploaded (10485760)
+0158.040 (0) Googledrive chunked upload: 3.6 % uploaded (11534336)
+0158.223 (0) Googledrive chunked upload: 3.9 % uploaded (12582912)
+0158.381 (0) Googledrive chunked upload: 4.3 % uploaded (13631488)
+0158.555 (0) Googledrive chunked upload: 4.6 % uploaded (14680064)
+0158.748 (0) Googledrive chunked upload: 4.9 % uploaded (15728640)
+0158.911 (0) Googledrive chunked upload: 5.3 % uploaded (16777216)
+0159.054 (0) Googledrive chunked upload: 5.6 % uploaded (17825792)
+0159.221 (0) Googledrive chunked upload: 5.9 % uploaded (18874368)
+0159.400 (0) Googledrive chunked upload: 6.2 % uploaded (19922944)
+0159.581 (0) Googledrive chunked upload: 6.6 % uploaded (20971520)
+0159.739 (0) Googledrive chunked upload: 6.9 % uploaded (22020096)
+0159.893 (0) Googledrive chunked upload: 7.2 % uploaded (23068672)
+0160.080 (0) Googledrive chunked upload: 7.5 % uploaded (24117248)
+0160.249 (0) Googledrive chunked upload: 7.9 % uploaded (25165824)
+0160.398 (0) Googledrive chunked upload: 8.2 % uploaded (26214400)
+0160.571 (0) Googledrive chunked upload: 8.5 % uploaded (27262976)
+0160.747 (0) Googledrive chunked upload: 8.9 % uploaded (28311552)
+0160.891 (0) Googledrive chunked upload: 9.2 % uploaded (29360128)
+0161.066 (0) Googledrive chunked upload: 9.5 % uploaded (30408704)
+0161.227 (0) Googledrive chunked upload: 9.8 % uploaded (31457280)
+0161.387 (0) Googledrive chunked upload: 10.2 % uploaded (32505856)
+0161.544 (0) Googledrive chunked upload: 10.5 % uploaded (33554432)
+0161.675 (0) Googledrive chunked upload: 10.8 % uploaded (34603008)
+0161.838 (0) Googledrive chunked upload: 11.2 % uploaded (35651584)
+0161.996 (0) Googledrive chunked upload: 11.5 % uploaded (36700160)
+0162.204 (0) Googledrive chunked upload: 11.8 % uploaded (37748736)
+0162.452 (0) Googledrive chunked upload: 12.1 % uploaded (38797312)
+0162.591 (0) Googledrive chunked upload: 12.5 % uploaded (39845888)
+0162.757 (0) Googledrive chunked upload: 12.8 % uploaded (40894464)
+0162.909 (0) Googledrive chunked upload: 13.1 % uploaded (41943040)
+0163.070 (0) Googledrive chunked upload: 13.5 % uploaded (42991616)
+0163.243 (0) Googledrive chunked upload: 13.8 % uploaded (44040192)
+0163.454 (0) Googledrive chunked upload: 14.1 % uploaded (45088768)
+0163.649 (0) Googledrive chunked upload: 14.4 % uploaded (46137344)
+0163.803 (0) Googledrive chunked upload: 14.8 % uploaded (47185920)
+0163.991 (0) Googledrive chunked upload: 15.1 % uploaded (48234496)
+0164.147 (0) Googledrive chunked upload: 15.4 % uploaded (49283072)
+0164.340 (0) Googledrive chunked upload: 15.8 % uploaded (50331648)
+0164.511 (0) Googledrive chunked upload: 16.1 % uploaded (51380224)
+0164.680 (0) Googledrive chunked upload: 16.4 % uploaded (52428800)
+0164.826 (0) Googledrive chunked upload: 16.7 % uploaded (53477376)
+0164.975 (0) Googledrive chunked upload: 17.1 % uploaded (54525952)
+0165.153 (0) Googledrive chunked upload: 17.4 % uploaded (55574528)
+0165.290 (0) Googledrive chunked upload: 17.7 % uploaded (56623104)
+0165.435 (0) Googledrive chunked upload: 18 % uploaded (57671680)
+0165.613 (0) Googledrive chunked upload: 18.4 % uploaded (58720256)
+0165.782 (0) Googledrive chunked upload: 18.7 % uploaded (59768832)
+0165.939 (0) Googledrive chunked upload: 19 % uploaded (60817408)
+0166.086 (0) Googledrive chunked upload: 19.4 % uploaded (61865984)
+0166.237 (0) Googledrive chunked upload: 19.7 % uploaded (62914560)
+0166.405 (0) Googledrive chunked upload: 20 % uploaded (63963136)
+0166.576 (0) Googledrive chunked upload: 20.3 % uploaded (65011712)
+0166.739 (0) Googledrive chunked upload: 20.7 % uploaded (66060288)
+0166.909 (0) Googledrive chunked upload: 21 % uploaded (67108864)
+0167.081 (0) Googledrive chunked upload: 21.3 % uploaded (68157440)
+0167.254 (0) Googledrive chunked upload: 21.7 % uploaded (69206016)
+0167.402 (0) Googledrive chunked upload: 22 % uploaded (70254592)
+0167.555 (0) Googledrive chunked upload: 22.3 % uploaded (71303168)
+0167.722 (0) Googledrive chunked upload: 22.6 % uploaded (72351744)
+0167.879 (0) Googledrive chunked upload: 23 % uploaded (73400320)
+0168.052 (0) Googledrive chunked upload: 23.3 % uploaded (74448896)
+0168.204 (0) Googledrive chunked upload: 23.6 % uploaded (75497472)
+0168.358 (0) Googledrive chunked upload: 24 % uploaded (76546048)
+0168.523 (0) Googledrive chunked upload: 24.3 % uploaded (77594624)
+0168.683 (0) Googledrive chunked upload: 24.6 % uploaded (78643200)
+0168.845 (0) Googledrive chunked upload: 24.9 % uploaded (79691776)
+0169.021 (0) Googledrive chunked upload: 25.3 % uploaded (80740352)
+0169.173 (0) Googledrive chunked upload: 25.6 % uploaded (81788928)
+0169.324 (0) Googledrive chunked upload: 25.9 % uploaded (82837504)
+0169.554 (0) Googledrive chunked upload: 26.3 % uploaded (83886080)
+0169.709 (0) Googledrive chunked upload: 26.6 % uploaded (84934656)
+0169.863 (0) Googledrive chunked upload: 26.9 % uploaded (85983232)
+0170.004 (0) Googledrive chunked upload: 27.2 % uploaded (87031808)
+0170.173 (0) Googledrive chunked upload: 27.6 % uploaded (88080384)
+0170.327 (0) Googledrive chunked upload: 27.9 % uploaded (89128960)
+0170.484 (0) Googledrive chunked upload: 28.2 % uploaded (90177536)
+0170.704 (0) Googledrive chunked upload: 28.5 % uploaded (91226112)
+0170.879 (0) Googledrive chunked upload: 28.9 % uploaded (92274688)
+0171.040 (0) Googledrive chunked upload: 29.2 % uploaded (93323264)
+0171.195 (0) Googledrive chunked upload: 29.5 % uploaded (94371840)
+0171.361 (0) Googledrive chunked upload: 29.9 % uploaded (95420416)
+0171.500 (0) Googledrive chunked upload: 30.2 % uploaded (96468992)
+0171.665 (0) Googledrive chunked upload: 30.5 % uploaded (97517568)
+0171.856 (0) Googledrive chunked upload: 30.8 % uploaded (98566144)
+0172.041 (0) Googledrive chunked upload: 31.2 % uploaded (99614720)
+0172.191 (0) Googledrive chunked upload: 31.5 % uploaded (100663296)
+0172.371 (0) Googledrive chunked upload: 31.8 % uploaded (101711872)
+0172.563 (0) Googledrive chunked upload: 32.2 % uploaded (102760448)
+0172.735 (0) Googledrive chunked upload: 32.5 % uploaded (103809024)
+0172.885 (0) Googledrive chunked upload: 32.8 % uploaded (104857600)
+0173.059 (0) Googledrive chunked upload: 33.1 % uploaded (105906176)
+0173.270 (0) Googledrive chunked upload: 33.5 % uploaded (106954752)
+0173.437 (0) Googledrive chunked upload: 33.8 % uploaded (108003328)
+0173.626 (0) Googledrive chunked upload: 34.1 % uploaded (109051904)
+0173.806 (0) Googledrive chunked upload: 34.5 % uploaded (110100480)
+0173.954 (0) Googledrive chunked upload: 34.8 % uploaded (111149056)
+0174.104 (0) Googledrive chunked upload: 35.1 % uploaded (112197632)
+0174.263 (0) Googledrive chunked upload: 35.4 % uploaded (113246208)
+0174.423 (0) Googledrive chunked upload: 35.8 % uploaded (114294784)
+0174.597 (0) Googledrive chunked upload: 36.1 % uploaded (115343360)
+0174.741 (0) Googledrive chunked upload: 36.4 % uploaded (116391936)
+0174.902 (0) Googledrive chunked upload: 36.8 % uploaded (117440512)
+0175.091 (0) Googledrive chunked upload: 37.1 % uploaded (118489088)
+0175.260 (0) Googledrive chunked upload: 37.4 % uploaded (119537664)
+0175.404 (0) Googledrive chunked upload: 37.7 % uploaded (120586240)
+0175.586 (0) Googledrive chunked upload: 38.1 % uploaded (121634816)
+0175.762 (0) Googledrive chunked upload: 38.4 % uploaded (122683392)
+0175.926 (0) Googledrive chunked upload: 38.7 % uploaded (123731968)
+0176.072 (0) Googledrive chunked upload: 39 % uploaded (124780544)
+0176.266 (0) Googledrive chunked upload: 39.4 % uploaded (125829120)
+0176.406 (0) Googledrive chunked upload: 39.7 % uploaded (126877696)
+0176.580 (0) Googledrive chunked upload: 40 % uploaded (127926272)
+0176.722 (0) Googledrive chunked upload: 40.4 % uploaded (128974848)
+0176.892 (0) Googledrive chunked upload: 40.7 % uploaded (130023424)
+0177.071 (0) Googledrive chunked upload: 41 % uploaded (131072000)
+0177.258 (0) Googledrive chunked upload: 41.3 % uploaded (132120576)
+0177.416 (0) Googledrive chunked upload: 41.7 % uploaded (133169152)
+0177.581 (0) Googledrive chunked upload: 42 % uploaded (134217728)
+0177.725 (0) Googledrive chunked upload: 42.3 % uploaded (135266304)
+0177.881 (0) Googledrive chunked upload: 42.7 % uploaded (136314880)
+0178.082 (0) Googledrive chunked upload: 43 % uploaded (137363456)
+0178.254 (0) Googledrive chunked upload: 43.3 % uploaded (138412032)
+0302.221 (1) Opened log file at time: Tue, 07 May 2019 05:10:05 +0000 on https://www.holycosmetics.co
+0302.222 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.16.5.24 WP: 5.1.1 PHP: 7.0.33 (cgi-fcgi, Linux box5694.bluehost.com 4.14.94-164.ELK.el7.x86_64 #1 SMP Wed Jan 16 17:14:35 CST 2019 x86_64) MySQL: 5.7.23-23 WPLANG: es_ES Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 72.2M | 76M) multisite: N openssl: OpenSSL 1.0.2r  26 Feb 2019 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0302.252 (1) Free space on disk containing Updraft's temporary directory: 1309349.9 MB
+0302.254 (1) Backup run: resumption=1, nonce=b1544f6ea0cb, file_nonce=b1544f6ea0cb begun at=1557205503 (302s ago), job type=backup, previous check-in=178.3s
+0302.255 (1) Scheduling a resumption (2) after 300 seconds (1557206105) in case this run gets aborted
+0302.263 (1) Checking if we have a zip executable available
+0302.263 (1) Zip engine: found/will use a binary zip: /usr/bin/zip
+0302.263 (1) Creation of backups of directories: already finished
+0302.264 (1) Saving backup status to database (elements: 10)
+0302.268 (1) Database dump (WordPress DB): Creation was completed already
+0302.272 (1) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-plugins.zip: plugins: This file has already been successfully uploaded
+0302.273 (1) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-themes.zip: themes: This file has already been successfully uploaded
+0302.274 (1) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-uploads.zip: uploads: This file has already been successfully uploaded
+0302.274 (1) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip: wpcore: This file has not yet been successfully uploaded: will queue
+0302.275 (1) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-others.zip: others: This file has not yet been successfully uploaded: will queue
+0302.275 (1) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db.gz: db: This file has not yet been successfully uploaded: will queue
+0302.276 (1) Saving backup history. Total backup size: 742.5 MB
+0302.279 (1) Requesting upload of the files that have not yet been successfully uploaded (3)
+0302.279 (1) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0302.280 (1) Beginning dispatch of backup to remote (googledrive) (instance identifier s-ea0d1525625063da2f54e553f6f56d3e)
+0302.930 (1) Google Drive quota usage: used=6046.6 MB, total=15360 MB, available=9313.4 MB
+0302.931 (1) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip: Attempting to upload to Google Drive (into folder id: 1klbGikthAueBd5KN4qLZ35qgYYOYrhab)
+0302.984 (1) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip: upload already began; attempting to resume from byte 138412031
+0303.155 (1) Googledrive chunked upload: 43.6 % uploaded (139460608)
+0303.324 (1) Googledrive chunked upload: 44 % uploaded (140509184)
+0303.493 (1) Googledrive chunked upload: 44.3 % uploaded (141557760)
+0303.631 (1) Googledrive chunked upload: 44.6 % uploaded (142606336)
+0303.822 (1) Googledrive chunked upload: 45 % uploaded (143654912)
+0303.995 (1) Googledrive chunked upload: 45.3 % uploaded (144703488)
+0304.173 (1) Googledrive chunked upload: 45.6 % uploaded (145752064)
+0304.331 (1) Googledrive chunked upload: 45.9 % uploaded (146800640)
+0304.502 (1) Googledrive chunked upload: 46.3 % uploaded (147849216)
+0304.683 (1) Googledrive chunked upload: 46.6 % uploaded (148897792)
+0304.853 (1) Googledrive chunked upload: 46.9 % uploaded (149946368)
+0305.038 (1) Googledrive chunked upload: 47.3 % uploaded (150994944)
+0305.244 (1) Googledrive chunked upload: 47.6 % uploaded (152043520)
+0305.414 (1) Googledrive chunked upload: 47.9 % uploaded (153092096)
+0305.594 (1) Googledrive chunked upload: 48.2 % uploaded (154140672)
+0305.860 (1) Googledrive chunked upload: 48.6 % uploaded (155189248)
+0306.007 (1) Googledrive chunked upload: 48.9 % uploaded (156237824)
+0306.164 (1) Googledrive chunked upload: 49.2 % uploaded (157286400)
+0306.319 (1) Googledrive chunked upload: 49.5 % uploaded (158334976)
+0306.507 (1) Googledrive chunked upload: 49.9 % uploaded (159383552)
+0306.672 (1) Googledrive chunked upload: 50.2 % uploaded (160432128)
+0306.827 (1) Googledrive chunked upload: 50.5 % uploaded (161480704)
+0307.006 (1) Googledrive chunked upload: 50.9 % uploaded (162529280)
+0307.160 (1) Googledrive chunked upload: 51.2 % uploaded (163577856)
+0307.298 (1) Googledrive chunked upload: 51.5 % uploaded (164626432)
+0307.467 (1) Googledrive chunked upload: 51.8 % uploaded (165675008)
+0307.625 (1) Googledrive chunked upload: 52.2 % uploaded (166723584)
+0307.761 (1) Googledrive chunked upload: 52.5 % uploaded (167772160)
+0307.913 (1) Googledrive chunked upload: 52.8 % uploaded (168820736)
+0308.088 (1) Googledrive chunked upload: 53.2 % uploaded (169869312)
+0308.290 (1) Googledrive chunked upload: 53.5 % uploaded (170917888)
+0308.456 (1) Googledrive chunked upload: 53.8 % uploaded (171966464)
+0308.603 (1) Googledrive chunked upload: 54.1 % uploaded (173015040)
+0308.774 (1) Googledrive chunked upload: 54.5 % uploaded (174063616)
+0308.934 (1) Googledrive chunked upload: 54.8 % uploaded (175112192)
+0309.130 (1) Googledrive chunked upload: 55.1 % uploaded (176160768)
+0309.294 (1) Googledrive chunked upload: 55.5 % uploaded (177209344)
+0309.477 (1) Googledrive chunked upload: 55.8 % uploaded (178257920)
+0309.634 (1) Googledrive chunked upload: 56.1 % uploaded (179306496)
+0309.796 (1) Googledrive chunked upload: 56.4 % uploaded (180355072)
+0309.974 (1) Googledrive chunked upload: 56.8 % uploaded (181403648)
+0310.125 (1) Googledrive chunked upload: 57.1 % uploaded (182452224)
+0310.285 (1) Googledrive chunked upload: 57.4 % uploaded (183500800)
+0310.428 (1) Googledrive chunked upload: 57.8 % uploaded (184549376)
+0310.625 (1) Googledrive chunked upload: 58.1 % uploaded (185597952)
+0310.778 (1) Googledrive chunked upload: 58.4 % uploaded (186646528)
+0310.951 (1) Googledrive chunked upload: 58.7 % uploaded (187695104)
+0311.121 (1) Googledrive chunked upload: 59.1 % uploaded (188743680)
+0311.331 (1) Googledrive chunked upload: 59.4 % uploaded (189792256)
+0311.480 (1) Googledrive chunked upload: 59.7 % uploaded (190840832)
+0311.622 (1) Googledrive chunked upload: 60.1 % uploaded (191889408)
+0311.803 (1) Googledrive chunked upload: 60.4 % uploaded (192937984)
+0311.951 (1) Googledrive chunked upload: 60.7 % uploaded (193986560)
+0312.131 (1) Googledrive chunked upload: 61 % uploaded (195035136)
+0312.300 (1) Googledrive chunked upload: 61.4 % uploaded (196083712)
+0312.444 (1) Googledrive chunked upload: 61.7 % uploaded (197132288)
+0312.601 (1) Googledrive chunked upload: 62 % uploaded (198180864)
+0312.764 (1) Googledrive chunked upload: 62.3 % uploaded (199229440)
+0312.916 (1) Googledrive chunked upload: 62.7 % uploaded (200278016)
+0313.081 (1) Googledrive chunked upload: 63 % uploaded (201326592)
+0313.229 (1) Googledrive chunked upload: 63.3 % uploaded (202375168)
+0313.398 (1) Googledrive chunked upload: 63.7 % uploaded (203423744)
+0313.564 (1) Googledrive chunked upload: 64 % uploaded (204472320)
+0313.734 (1) Googledrive chunked upload: 64.3 % uploaded (205520896)
+0313.896 (1) Googledrive chunked upload: 64.6 % uploaded (206569472)
+0314.070 (1) Googledrive chunked upload: 65 % uploaded (207618048)
+0314.222 (1) Googledrive chunked upload: 65.3 % uploaded (208666624)
+0314.381 (1) Googledrive chunked upload: 65.6 % uploaded (209715200)
+0314.592 (1) Googledrive chunked upload: 66 % uploaded (210763776)
+0314.803 (1) Googledrive chunked upload: 66.3 % uploaded (211812352)
+0314.957 (1) Googledrive chunked upload: 66.6 % uploaded (212860928)
+0315.131 (1) Googledrive chunked upload: 66.9 % uploaded (213909504)
+0315.285 (1) Googledrive chunked upload: 67.3 % uploaded (214958080)
+0315.440 (1) Googledrive chunked upload: 67.6 % uploaded (216006656)
+0315.607 (1) Googledrive chunked upload: 67.9 % uploaded (217055232)
+0315.756 (1) Googledrive chunked upload: 68.3 % uploaded (218103808)
+0315.909 (1) Googledrive chunked upload: 68.6 % uploaded (219152384)
+0316.095 (1) Googledrive chunked upload: 68.9 % uploaded (220200960)
+0316.249 (1) Googledrive chunked upload: 69.2 % uploaded (221249536)
+0316.420 (1) Googledrive chunked upload: 69.6 % uploaded (222298112)
+0316.599 (1) Googledrive chunked upload: 69.9 % uploaded (223346688)
+0316.778 (1) Googledrive chunked upload: 70.2 % uploaded (224395264)
+0316.961 (1) Googledrive chunked upload: 70.6 % uploaded (225443840)
+0317.105 (1) Googledrive chunked upload: 70.9 % uploaded (226492416)
+0317.294 (1) Googledrive chunked upload: 71.2 % uploaded (227540992)
+0317.498 (1) Googledrive chunked upload: 71.5 % uploaded (228589568)
+0317.654 (1) Googledrive chunked upload: 71.9 % uploaded (229638144)
+0317.812 (1) Googledrive chunked upload: 72.2 % uploaded (230686720)
+0317.996 (1) Googledrive chunked upload: 72.5 % uploaded (231735296)
+0318.153 (1) Googledrive chunked upload: 72.8 % uploaded (232783872)
+0318.310 (1) Googledrive chunked upload: 73.2 % uploaded (233832448)
+0318.484 (1) Googledrive chunked upload: 73.5 % uploaded (234881024)
+0318.638 (1) Googledrive chunked upload: 73.8 % uploaded (235929600)
+0318.798 (1) Googledrive chunked upload: 74.2 % uploaded (236978176)
+0318.945 (1) Googledrive chunked upload: 74.5 % uploaded (238026752)
+0319.124 (1) Googledrive chunked upload: 74.8 % uploaded (239075328)
+0319.308 (1) Googledrive chunked upload: 75.1 % uploaded (240123904)
+0319.480 (1) Googledrive chunked upload: 75.5 % uploaded (241172480)
+0319.628 (1) Googledrive chunked upload: 75.8 % uploaded (242221056)
+0319.770 (1) Googledrive chunked upload: 76.1 % uploaded (243269632)
+0319.915 (1) Googledrive chunked upload: 76.5 % uploaded (244318208)
+0320.072 (1) Googledrive chunked upload: 76.8 % uploaded (245366784)
+0320.232 (1) Googledrive chunked upload: 77.1 % uploaded (246415360)
+0320.394 (1) Googledrive chunked upload: 77.4 % uploaded (247463936)
+0320.535 (1) Googledrive chunked upload: 77.8 % uploaded (248512512)
+0320.706 (1) Googledrive chunked upload: 78.1 % uploaded (249561088)
+0320.862 (1) Googledrive chunked upload: 78.4 % uploaded (250609664)
+0321.046 (1) Googledrive chunked upload: 78.8 % uploaded (251658240)
+0321.205 (1) Googledrive chunked upload: 79.1 % uploaded (252706816)
+0321.358 (1) Googledrive chunked upload: 79.4 % uploaded (253755392)
+0321.495 (1) Googledrive chunked upload: 79.7 % uploaded (254803968)
+0321.645 (1) Googledrive chunked upload: 80.1 % uploaded (255852544)
+0321.805 (1) Googledrive chunked upload: 80.4 % uploaded (256901120)
+0321.965 (1) Googledrive chunked upload: 80.7 % uploaded (257949696)
+0322.115 (1) Googledrive chunked upload: 81.1 % uploaded (258998272)
+0322.306 (1) Googledrive chunked upload: 81.4 % uploaded (260046848)
+0322.484 (1) Googledrive chunked upload: 81.7 % uploaded (261095424)
+0322.646 (1) Googledrive chunked upload: 82 % uploaded (262144000)
+0322.848 (1) Googledrive chunked upload: 82.4 % uploaded (263192576)
+0323.031 (1) Googledrive chunked upload: 82.7 % uploaded (264241152)
+0323.192 (1) Googledrive chunked upload: 83 % uploaded (265289728)
+0323.325 (1) Googledrive chunked upload: 83.3 % uploaded (266338304)
+0323.511 (1) Googledrive chunked upload: 83.7 % uploaded (267386880)
+0323.697 (1) Googledrive chunked upload: 84 % uploaded (268435456)
+0323.869 (1) Googledrive chunked upload: 84.3 % uploaded (269484032)
+0324.031 (1) Googledrive chunked upload: 84.7 % uploaded (270532608)
+0324.203 (1) Googledrive chunked upload: 85 % uploaded (271581184)
+0324.359 (1) Googledrive chunked upload: 85.3 % uploaded (272629760)
+0324.510 (1) Googledrive chunked upload: 85.6 % uploaded (273678336)
+0324.669 (1) Googledrive chunked upload: 86 % uploaded (274726912)
+0324.838 (1) Googledrive chunked upload: 86.3 % uploaded (275775488)
+0325.015 (1) Googledrive chunked upload: 86.6 % uploaded (276824064)
+0325.200 (1) Googledrive chunked upload: 87 % uploaded (277872640)
+0325.346 (1) Googledrive chunked upload: 87.3 % uploaded (278921216)
+0325.521 (1) Googledrive chunked upload: 87.6 % uploaded (279969792)
+0325.718 (1) Googledrive chunked upload: 87.9 % uploaded (281018368)
+0325.863 (1) Googledrive chunked upload: 88.3 % uploaded (282066944)
+0326.047 (1) Googledrive chunked upload: 88.6 % uploaded (283115520)
+0326.195 (1) Googledrive chunked upload: 88.9 % uploaded (284164096)
+0326.372 (1) Googledrive chunked upload: 89.3 % uploaded (285212672)
+0326.553 (1) Googledrive chunked upload: 89.6 % uploaded (286261248)
+0326.705 (1) Googledrive chunked upload: 89.9 % uploaded (287309824)
+0326.870 (1) Googledrive chunked upload: 90.2 % uploaded (288358400)
+0327.054 (1) Googledrive chunked upload: 90.6 % uploaded (289406976)
+0327.217 (1) Googledrive chunked upload: 90.9 % uploaded (290455552)
+0327.379 (1) Googledrive chunked upload: 91.2 % uploaded (291504128)
+0327.550 (1) Googledrive chunked upload: 91.6 % uploaded (292552704)
+0327.733 (1) Googledrive chunked upload: 91.9 % uploaded (293601280)
+0327.904 (1) Googledrive chunked upload: 92.2 % uploaded (294649856)
+0328.096 (1) Googledrive chunked upload: 92.5 % uploaded (295698432)
+0328.249 (1) Googledrive chunked upload: 92.9 % uploaded (296747008)
+0328.438 (1) Googledrive chunked upload: 93.2 % uploaded (297795584)
+0328.588 (1) Googledrive chunked upload: 93.5 % uploaded (298844160)
+0328.755 (1) Googledrive chunked upload: 93.8 % uploaded (299892736)
+0328.899 (1) Googledrive chunked upload: 94.2 % uploaded (300941312)
+0329.060 (1) Googledrive chunked upload: 94.5 % uploaded (301989888)
+0329.226 (1) Googledrive chunked upload: 94.8 % uploaded (303038464)
+0329.437 (1) Googledrive chunked upload: 95.2 % uploaded (304087040)
+0329.580 (1) Googledrive chunked upload: 95.5 % uploaded (305135616)
+0329.753 (1) Googledrive chunked upload: 95.8 % uploaded (306184192)
+0329.936 (1) Googledrive chunked upload: 96.1 % uploaded (307232768)
+0330.108 (1) Googledrive chunked upload: 96.5 % uploaded (308281344)
+0330.265 (1) Googledrive chunked upload: 96.8 % uploaded (309329920)
+0330.441 (1) Googledrive chunked upload: 97.1 % uploaded (310378496)
+0330.608 (1) Googledrive chunked upload: 97.5 % uploaded (311427072)
+0330.790 (1) Googledrive chunked upload: 97.8 % uploaded (312475648)
+0330.933 (1) Googledrive chunked upload: 98.1 % uploaded (313524224)
+0331.084 (1) Googledrive chunked upload: 98.4 % uploaded (314572800)
+0331.261 (1) Googledrive chunked upload: 98.8 % uploaded (315621376)
+0331.401 (1) Googledrive chunked upload: 99.1 % uploaded (316669952)
+0331.555 (1) Googledrive chunked upload: 99.4 % uploaded (317718528)
+0331.694 (1) Googledrive chunked upload: 99.8 % uploaded (318767104)
+0332.709 (1) Googledrive chunked upload: 100 % uploaded (318767104)
+0332.711 (1) OK: Archive backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip uploaded to Google Drive in 29.78 seconds
+0332.712 (1) Recording as successfully uploaded: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip
+0332.762 (1) Deleting local file: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-wpcore.zip: OK
+0333.006 (1) Google Drive quota usage: used=6351.3 MB, total=15360 MB, available=9008.7 MB
+0333.007 (1) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-others.zip: Attempting to upload to Google Drive (into folder id: 1klbGikthAueBd5KN4qLZ35qgYYOYrhab)
+0333.445 (1) Googledrive chunked upload: 23.6 % uploaded (1048576)
+0333.579 (1) Googledrive chunked upload: 47.3 % uploaded (2097152)
+0333.736 (1) Googledrive chunked upload: 70.9 % uploaded (3145728)
+0333.896 (1) Googledrive chunked upload: 94.6 % uploaded (4194304)
+0334.672 (1) Googledrive chunked upload: 100 % uploaded (4194304)
+0334.674 (1) OK: Archive backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-others.zip uploaded to Google Drive in 1.67 seconds
+0334.675 (1) Recording as successfully uploaded: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-others.zip
+0334.677 (1) Deleting local file: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-others.zip: OK
+0334.812 (1) Google Drive quota usage: used=6355.5 MB, total=15360 MB, available=9004.5 MB
+0334.813 (1) backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db.gz: Attempting to upload to Google Drive (into folder id: 1klbGikthAueBd5KN4qLZ35qgYYOYrhab)
+0335.235 (1) Googledrive chunked upload: 4.4 % uploaded (1048576)
+0335.379 (1) Googledrive chunked upload: 8.8 % uploaded (2097152)
+0335.581 (1) Googledrive chunked upload: 13.2 % uploaded (3145728)
+0335.751 (1) Googledrive chunked upload: 17.7 % uploaded (4194304)
+0335.914 (1) Googledrive chunked upload: 22.1 % uploaded (5242880)
+0336.072 (1) Googledrive chunked upload: 26.5 % uploaded (6291456)
+0336.309 (1) Googledrive chunked upload: 30.9 % uploaded (7340032)
+0336.453 (1) Googledrive chunked upload: 35.3 % uploaded (8388608)
+0336.625 (1) Googledrive chunked upload: 39.7 % uploaded (9437184)
+0336.767 (1) Googledrive chunked upload: 44.2 % uploaded (10485760)
+0336.914 (1) Googledrive chunked upload: 48.6 % uploaded (11534336)
+0337.096 (1) Googledrive chunked upload: 53 % uploaded (12582912)
+0337.237 (1) Googledrive chunked upload: 57.4 % uploaded (13631488)
+0337.434 (1) Googledrive chunked upload: 61.8 % uploaded (14680064)
+0337.598 (1) Googledrive chunked upload: 66.2 % uploaded (15728640)
+0337.776 (1) Googledrive chunked upload: 70.7 % uploaded (16777216)
+0337.957 (1) Googledrive chunked upload: 75.1 % uploaded (17825792)
+0338.146 (1) Googledrive chunked upload: 79.5 % uploaded (18874368)
+0338.318 (1) Googledrive chunked upload: 83.9 % uploaded (19922944)
+0338.515 (1) Googledrive chunked upload: 88.3 % uploaded (20971520)
+0338.668 (1) Googledrive chunked upload: 92.7 % uploaded (22020096)
+0338.849 (1) Googledrive chunked upload: 97.2 % uploaded (23068672)
+0339.699 (1) Googledrive chunked upload: 100 % uploaded (23068672)
+0339.702 (1) OK: Archive backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db.gz uploaded to Google Drive in 4.89 seconds
+0339.702 (1) Recording as successfully uploaded: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db.gz
+0339.708 (1) Deleting local file: backup_2019-05-07-0005_Holy_Cosmetics_b1544f6ea0cb-db.gz: OK
+0339.709 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0339.710 (1) Number of backup sets in history: 4; groups (db): 1
+0339.710 (1) Examining (for databases) backup set with group_id=0, nonce=b1544f6ea0cb, datestamp=1557205503 (May 07 2019 05:05:03)
+0339.711 (1) This backup set is the backup set just made, so will not be deleted.
+0339.711 (1) Examining (for databases) backup set with group_id=0, nonce=0060c29cce44, datestamp=1557119108 (May 06 2019 05:05:08)
+0339.711 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0339.711 (1) Examining (for databases) backup set with group_id=0, nonce=1f4b21a79549, datestamp=1557032707 (May 05 2019 05:05:07)
+0339.711 (1) 1557032707: db: this set includes a database (backup_2019-05-05-0005_Holy_Cosmetics_1f4b21a79549-db.gz); db count is now 2
+0339.711 (1) 1557032707: db: over retain limit (2); will delete this database
+0339.711 (1) Delete file: backup_2019-05-05-0005_Holy_Cosmetics_1f4b21a79549-db.gz, service=googledrive
+0340.617 (1) backup_2019-05-05-0005_Holy_Cosmetics_1f4b21a79549-db.gz: Deletion successful
+0340.619 (1) This backup set remains non-empty (f=1/d=0); will retain in history
+0340.619 (1) Examining (for databases) backup set with group_id=0, nonce=342e4f4d01c7, datestamp=1549827904 (Feb 10 2019 19:45:04)
+0340.619 (1) This backup set (1549827904) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0340.619 (1) Number of backup sets in history: 4; groups (files): 1
+0340.620 (1) Examining (for files) backup set with nonce=b1544f6ea0cb, datestamp=1557205503 (May 07 2019 05:05:03)
+0340.620 (1) This backup set is the backup set just made, so will not be deleted.
+0340.620 (1) This backup set is the backup set just made, so will not be deleted.
+0340.620 (1) This backup set is the backup set just made, so will not be deleted.
+0340.620 (1) This backup set is the backup set just made, so will not be deleted.
+0340.620 (1) This backup set is the backup set just made, so will not be deleted.
+0340.620 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0340.621 (1) Examining (for files) backup set with nonce=0060c29cce44, datestamp=1557119108 (May 06 2019 05:05:08)
+0340.621 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0340.621 (1) Examining (for files) backup set with nonce=1f4b21a79549, datestamp=1557032707 (May 05 2019 05:05:07)
+0340.621 (1) plugins: over retain limit (2); will delete this file entity
+0340.621 (1) themes: over retain limit (2); will delete this file entity
+0340.621 (1) uploads: over retain limit (2); will delete this file entity
+0340.621 (1) wpcore: over retain limit (2); will delete this file entity
+0340.621 (1) others: over retain limit (2); will delete this file entity
+0340.621 (1) Delete file: backup_2019-05-05-0005_Holy_Cosmetics_1f4b21a79549-plugins.zip, service=googledrive
+0340.621 (1) Delete file: backup_2019-05-05-0005_Holy_Cosmetics_1f4b21a79549-themes.zip, service=googledrive
+0340.622 (1) Delete file: backup_2019-05-05-0005_Holy_Cosmetics_1f4b21a79549-uploads.zip, service=googledrive
+0340.622 (1) Delete file: backup_2019-05-05-0005_Holy_Cosmetics_1f4b21a79549-wpcore.zip, service=googledrive
+0340.623 (1) Delete file: backup_2019-05-05-0005_Holy_Cosmetics_1f4b21a79549-others.zip, service=googledrive
+0341.553 (1) backup_2019-05-05-0005_Holy_Cosmetics_1f4b21a79549-others.zip: Deletion successful
+0342.123 (1) backup_2019-05-05-0005_Holy_Cosmetics_1f4b21a79549-wpcore.zip: Deletion successful
+0342.600 (1) backup_2019-05-05-0005_Holy_Cosmetics_1f4b21a79549-uploads.zip: Deletion successful
+0343.218 (1) backup_2019-05-05-0005_Holy_Cosmetics_1f4b21a79549-themes.zip: Deletion successful
+0343.819 (1) backup_2019-05-05-0005_Holy_Cosmetics_1f4b21a79549-plugins.zip: Deletion successful
+0343.822 (1) This backup set is now empty; will remove from history
+0343.822 (1) Deleting log file (log.1f4b21a79549.txt)
+0343.823 (1) Examining (for files) backup set with nonce=342e4f4d01c7, datestamp=1549827904 (Feb 10 2019 19:45:04)
+0343.823 (1) This backup set (1549827904) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0343.823 (1) This backup set (1549827904) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0343.823 (1) This backup set (1549827904) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0343.823 (1) This backup set (1549827904) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0343.823 (1) This backup set (1549827904) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0343.824 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0343.824 (1) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0343.826 (1) Resume backup (b1544f6ea0cb, 1): finish run
+0343.827 (1) There were no errors in the uploads, so the 'resume' event (2) is being unscheduled
+0343.829 (1) The backup apparently succeeded and is now complete
+0343.830 (1) No email will/can be sent - the user has not configured an email address.
+0343.830 (1) El respaldo parece haber tenido éxito y ahora está completado

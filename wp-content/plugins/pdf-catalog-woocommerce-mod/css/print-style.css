@@ -1,0 +1,56 @@
+body{
+	font-family: 'Helvetica';
+	margin:0;
+	padding:10px 20px;
+}
+html{
+	margin:0;
+	padding:0;
+}
+.leftimage{
+	width:40%;
+	float: left; 
+}
+.leftimage img{
+	max-width: 100%;
+
+}
+.rightimage{
+	width: 60%;
+	float: right;
+}
+.innerrightimage h2{
+	margin-top: 0;
+}
+
+.fullwdithimag h3{
+	margin-top: 0;
+}
+.innerrightimage{
+	margin-left: 20px;
+}
+.upperdivs{
+	display: inline-block;
+	width: 100%;
+
+
+}
+.fullwdithimag{
+	display: block;
+	width: 100%;
+}
+.spacea{
+	display: block;
+	height: 5px;
+	clear: both;
+}
+.spacear{
+	display: block;
+	height: 25px;
+	clear: both;
+}
+.main{
+	border-bottom: 1px solid #000;
+	display: block;
+	width: 100%;
+}

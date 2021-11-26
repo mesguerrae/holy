@@ -1,0 +1,25 @@
+{
+  "name": "affiliate-suite",
+  "version": "1.0.0",
+  "description": "Run an affiliate marketing program on WordPress",
+  "main": "index.js",
+  "dependencies": {
+    "chart.js": "^2.7.2",
+    "flatpickr": "^4.5.0",
+    "moment": "^2.22.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/isubero/affiliate-suite.git"
+  },
+  "author": "Isaías Subero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/isubero/affiliate-suite/issues"
+  },
+  "homepage": "https://gitlab.com/isubero/affiliate-suite#README"
+}
