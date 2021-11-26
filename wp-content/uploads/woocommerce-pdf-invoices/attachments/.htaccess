@@ -1,0 +1,4 @@
+#deny from all
+#allow from 186.31.108.130
+#allow from 35.222.133.70
+#allow from 104.31.69.210

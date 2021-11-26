@@ -1,0 +1,620 @@
+11-24-2021 @ 19:11:46 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.23963s
+
+11-24-2021 @ 19:11:46 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.24051s
+
+11-24-2021 @ 19:11:46 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-24-2021 @ 19:11:46 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-24-2021 @ 20:11:48 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.15771s
+
+11-24-2021 @ 20:11:48 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-24-2021 @ 21:11:53 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.19439s
+
+11-24-2021 @ 21:11:53 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-24-2021 @ 22:11:54 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.14993s
+
+11-24-2021 @ 22:11:54 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-24-2021 @ 23:11:55 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.19055s
+
+11-24-2021 @ 23:11:55 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 00:11:57 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.18639s
+
+11-25-2021 @ 00:11:57 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 00:11:57 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.19366s
+
+11-25-2021 @ 00:11:57 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 01:12:01 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.17339s
+
+11-25-2021 @ 01:12:01 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 02:12:11 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.21247s
+
+11-25-2021 @ 02:12:11 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 03:12:12 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.12694s
+
+11-25-2021 @ 03:12:12 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 03:42:56 - Request
+uri: https://graph.facebook.com/v11.0/136874767260241/?fields=connect_woo
+timeout: 500
+
+11-25-2021 @ 03:42:56 - Response
+code: 400
+message: Bad Request
+body: {"error":{"message":"Unsupported get request. Object with ID '136874767260241' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\/\/developers.facebook.com\/docs\/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"A9BWrY_FAv2oB8Fsteyjad6"}}
+
+11-25-2021 @ 03:42:57 - Request
+uri: https://graph.facebook.com/v11.0/136874767260241/log_events
+body: Array
+(
+    [message] => {"message":"Failed to get AYMT tip info via API.","object":{"response":{"headers":{},"body":"{\"error\":{\"message\":\"Unsupported get request. Object with ID '136874767260241' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\\/\\\/developers.facebook.com\\\/docs\\\/graph-api\",\"type\":\"GraphMethodException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"A9BWrY_FAv2oB8Fsteyjad6\"}}","response":{"code":400,"message":"Bad Request"},"cookies":[],"filename":null,"http_response":{"data":null,"headers":null,"status":null}},"error_type":"Non-200 error code from FB","plugin_version":"2.6.7","php_version":"7.4.25"}}
+    [error] => 1
+)
+timeout: 500
+method: POST
+
+11-25-2021 @ 03:42:57 - Response
+code: 400
+message: Bad Request
+body: {"error":{"message":"Unsupported post request. Object with ID '136874767260241' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\/\/developers.facebook.com\/docs\/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"AfatVmmrvD6z7bTKr2l_E18"}}
+
+11-25-2021 @ 04:12:14 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.14103s
+
+11-25-2021 @ 04:12:14 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 05:12:17 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.30886s
+
+11-25-2021 @ 05:12:17 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 06:12:20 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.08474s
+
+11-25-2021 @ 06:12:20 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 07:07:16 - Request
+method: POST
+uri: https://graph.facebook.com/v11.0/2233203590301363/items_batch
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body: {"allow_upsert":true,"requests":[{"method":"UPDATE","data":{"title":"PESTA\u00d1INA TR\u00d3PICO LENGTH & VOLUME (Longitud y volumen)","description":"Precauciones y advertencias: \n-Si observa alguna reacci\u00f3n desfavorable suspenda su uso. \n-Mant\u00e9ngase fuera del alcance de los ni\u00f1os. \n-No aplicar sobre los ojos heridos, lastimados o con alg\u00fan tipo de alergia. \n-Uso externo unicamente. \n \nContenido: 5.8Ml","image_link":"https:\/\/www.holycosmetics.com.co\/wp-content\/uploads\/2021\/11\/pestan\u0303ina-tropico-length-y-volume-web-Holy-cosmetics.jpg","additional_image_link":["https:\/\/www.holycosmetics.com.co\/wp-content\/uploads\/2021\/11\/cepillo-pestan\u0303ina-tropico-length-y-volume-web-Holy-cosmetics.jpg"],"link":"https:\/\/www.holycosmetics.com.co\/tienda\/pestanina-tropico-length-volume-longitud-y-volumen\/","brand":"RUBY ROSE","price":"13000 COP","availability":"out of stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/2038-01-17T23:59+00:00","sale_price":"11050 COP","item_group_id":"wc_post_id_378244","condition":"new","id":"wc_post_id_378244"}}],"item_type":"PRODUCT_ITEM"}
+duration: 1.99559s
+
+11-25-2021 @ 07:07:16 - Response
+code: 200
+message: OK
+body: {"handles":["Aczi-QK-NpvdRGM8nlwNHWT5stYyQV7DtL2sTl-fwiUBGre1c4kNwu0ed6K_MD__RB2_A09Octe1VaXkcThdutnH"]}
+
+11-25-2021 @ 07:12:22 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.12571s
+
+11-25-2021 @ 07:12:22 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 07:40:04 - Request
+uri: https://graph.facebook.com/v11.0/2233203590301363
+timeout: 500
+
+11-25-2021 @ 07:40:04 - Response
+code: 200
+message: OK
+body: {"id":"2233203590301363","name":"Holy Cosmetics - WooCommerce"}
+
+11-25-2021 @ 07:40:04 - Request
+uri: https://graph.facebook.com/v11.0/136874767260241/log_events
+body: Array
+(
+    [message] => {"message":"Sync all products using feed","object":[]}
+    [error] => 
+)
+timeout: 500
+method: POST
+
+11-25-2021 @ 07:40:04 - Response
+code: 400
+message: Bad Request
+body: {"error":{"message":"Unsupported post request. Object with ID '136874767260241' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\/\/developers.facebook.com\/docs\/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"AEiO1j2XdysSpMvSGl-YXU-"}}
+
+11-25-2021 @ 07:40:04 - Sync all products using feed
+11-25-2021 @ 07:40:07 - Request
+uri: https://graph.facebook.com/v11.0/136874767260241/log_events
+body: Array
+(
+    [message] => {"message":"Sync all products using feed, feed file generated","object":[]}
+    [error] => 
+)
+timeout: 500
+method: POST
+
+11-25-2021 @ 07:40:07 - Response
+code: 400
+message: Bad Request
+body: {"error":{"message":"Unsupported post request. Object with ID '136874767260241' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\/\/developers.facebook.com\/docs\/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"AVB9PP0oVCLCz8i54KJ14gY"}}
+
+11-25-2021 @ 07:40:07 - Sync all products using feed, feed file generated
+11-25-2021 @ 07:40:07 - Request
+uri: https://graph.facebook.com/v11.0/136874767260241/log_events
+body: Array
+(
+    [message] => {"message":"Sync all products using feed, facebook feed already exists.","object":[]}
+    [error] => 
+)
+timeout: 500
+method: POST
+
+11-25-2021 @ 07:40:07 - Response
+code: 400
+message: Bad Request
+body: {"error":{"message":"Unsupported post request. Object with ID '136874767260241' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\/\/developers.facebook.com\/docs\/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"A2QTTWyXfvBjp-Pc0L5kuy0"}}
+
+11-25-2021 @ 07:40:07 - Sync all products using feed, facebook feed already exists.
+11-25-2021 @ 07:40:07 - Request
+uri: https://graph.facebook.com/v11.0/136874767260241/log_events
+body: Array
+(
+    [message] => {"message":"{\"error\":{\"message\":\"Unsupported post request. Object with ID '2244530918901531' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\\/\\\/developers.facebook.com\\\/docs\\\/graph-api\",\"type\":\"GraphMethodException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AnBdTnETol2vlyLEwgUpn9U\"}}","object":[]}
+    [error] => 
+)
+timeout: 500
+method: POST
+
+11-25-2021 @ 07:40:07 - Response
+code: 400
+message: Bad Request
+body: {"error":{"message":"Unsupported post request. Object with ID '136874767260241' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\/\/developers.facebook.com\/docs\/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"A9XNu-FzZHPzCHn96nUVkli"}}
+
+11-25-2021 @ 07:40:07 - {"error":{"message":"Unsupported post request. Object with ID '2244530918901531' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\/\/developers.facebook.com\/docs\/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"AnBdTnETol2vlyLEwgUpn9U"}}
+11-25-2021 @ 07:40:07 - Request
+uri: https://graph.facebook.com/v11.0/136874767260241/log_events
+body: Array
+(
+    [message] => {"message":"Failure - Sync all products using feed, facebook upload not created","object":[]}
+    [error] => 
+)
+timeout: 500
+method: POST
+
+11-25-2021 @ 07:40:07 - Response
+code: 400
+message: Bad Request
+body: {"error":{"message":"Unsupported post request. Object with ID '136874767260241' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\/\/developers.facebook.com\/docs\/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"AcnHUjsbo5hBBNIdVBXdsZ4"}}
+
+11-25-2021 @ 07:40:07 - Failure - Sync all products using feed, facebook upload not created
+11-25-2021 @ 07:40:07 - Request
+uri: https://graph.facebook.com/v11.0/136874767260241/log_events
+body: Array
+(
+    [message] => {"message":"Sync all products using feed, curl failed","object":{"plugin_version":"2.6.7","php_version":"7.4.25"}}
+    [error] => 1
+)
+timeout: 500
+method: POST
+
+11-25-2021 @ 07:40:07 - Response
+code: 400
+message: Bad Request
+body: {"error":{"message":"Unsupported post request. Object with ID '136874767260241' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\/\/developers.facebook.com\/docs\/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"AMkwJqabyqQJf50dVClCj8j"}}
+
+11-25-2021 @ 08:12:23 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.08489s
+
+11-25-2021 @ 08:12:23 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 09:12:24 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.12687s
+
+11-25-2021 @ 09:12:24 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 10:12:25 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.09072s
+
+11-25-2021 @ 10:12:25 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.09217s
+
+11-25-2021 @ 10:12:25 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 10:12:25 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 11:12:28 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.13663s
+
+11-25-2021 @ 11:12:28 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 11:12:28 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.09296s
+
+11-25-2021 @ 11:12:28 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 12:12:30 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.09177s
+
+11-25-2021 @ 12:12:30 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 13:12:32 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.12712s
+
+11-25-2021 @ 13:12:32 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 13:19:40 - Generating a fresh product feed file
+11-25-2021 @ 13:19:42 - Product feed file generated
+11-25-2021 @ 13:31:01 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business/fbe_installs?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.08609s
+
+11-25-2021 @ 13:31:01 - Response
+code: 200
+message: OK
+body: {"data":[{"business_manager_id":"163201634597011","onsite_eligible":false,"pixel_id":"330662087669646","ad_account_id":"0","catalog_id":"2233203590301363","token_type":"User"}]}
+
+11-25-2021 @ 13:31:01 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business/fbe_installs?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.09113s
+
+11-25-2021 @ 13:31:01 - Response
+code: 200
+message: OK
+body: {"data":[{"business_manager_id":"163201634597011","onsite_eligible":false,"pixel_id":"330662087669646","ad_account_id":"0","catalog_id":"2233203590301363","token_type":"User"}]}
+
+11-25-2021 @ 14:12:33 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.11551s
+
+11-25-2021 @ 14:12:33 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 15:11:42 - Request
+uri: https://graph.facebook.com/v11.0/2233203590301363/product_feeds
+timeout: 500
+
+11-25-2021 @ 15:11:42 - Response
+code: 200
+message: OK
+body: {"data":[]}
+
+11-25-2021 @ 15:11:42 - Unable to detect valid feed configuration: No feed nodes for catalog
+11-25-2021 @ 15:12:38 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.12019s
+
+11-25-2021 @ 15:12:38 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 16:12:40 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.0809s
+
+11-25-2021 @ 16:12:40 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.08226s
+
+11-25-2021 @ 16:12:40 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 16:12:40 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 16:56:29 - Request
+uri: https://graph.facebook.com/v11.0/catalog:2233203590301363:d2NfcG9zdF9pZF8zNzgyNDQ=/?fields=id,product_group{id}
+timeout: 500
+
+11-25-2021 @ 16:56:29 - Response
+code: 200
+message: OK
+body: {"id":"4405173039538088","product_group":{"id":"4405173002871425"}}
+
+11-25-2021 @ 16:56:30 - Request
+uri: https://graph.facebook.com/v11.0/4405173039538088
+body: Array
+(
+    [visibility] => staging
+)
+timeout: 500
+method: POST
+
+11-25-2021 @ 16:56:30 - Response
+code: 200
+message: OK
+body: {"success":true}
+
+11-25-2021 @ 16:57:04 - Request
+uri: https://graph.facebook.com/v11.0/4405173039538088
+body: Array
+(
+    [name] => PESTAÑINA TRÓPICO LENGTH & VOLUME (Longitud y volumen)
+    [description] => Precauciones y advertencias: 
+-Si observa alguna reacción desfavorable suspenda su uso. 
+-Manténgase fuera del alcance de los niños. 
+-No aplicar sobre los ojos heridos, lastimados o con algún tipo de alergia. 
+-Uso externo unicamente. 
+ 
+Contenido: 5.8Ml
+    [image_url] => https://www.holycosmetics.com.co/wp-content/uploads/2021/11/pestañina-tropico-length-y-volume-web-Holy-cosmetics.jpg
+    [additional_image_urls] => Array
+        (
+            [0] => https://www.holycosmetics.com.co/wp-content/uploads/2021/11/cepillo-pestañina-tropico-length-y-volume-web-Holy-cosmetics.jpg
+        )
+
+    [url] => https://www.holycosmetics.com.co/tienda/pestanina-tropico-length-volume-longitud-y-volumen/
+    [category] => OJOS, Pestañinas
+    [brand] => RUBY ROSE
+    [retailer_id] => wc_post_id_378244
+    [price] => 1300000
+    [currency] => COP
+    [availability] => out of stock
+    [visibility] => published
+    [sale_price_start_date] => 1970-01-29T00:00+00:00
+    [sale_price_end_date] => 2038-01-17T23:59+00:00
+    [sale_price] => 1105000
+)
+timeout: 500
+method: POST
+
+11-25-2021 @ 16:57:04 - Response
+code: 200
+message: OK
+body: {"success":true}
+
+11-25-2021 @ 16:57:19 - Request
+uri: https://graph.facebook.com/v11.0/catalog:2233203590301363:d2NfcG9zdF9pZF8zNzgyNDQ=/?fields=id,product_group{id}
+timeout: 500
+
+11-25-2021 @ 16:57:19 - Response
+code: 200
+message: OK
+body: {"id":"4405173039538088","product_group":{"id":"4405173002871425"}}
+
+11-25-2021 @ 16:57:19 - Request
+uri: https://graph.facebook.com/v11.0/4405173039538088
+body: Array
+(
+    [visibility] => staging
+)
+timeout: 500
+method: POST
+
+11-25-2021 @ 16:57:19 - Response
+code: 200
+message: OK
+body: {"success":true}
+
+11-25-2021 @ 17:12:42 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.11727s
+
+11-25-2021 @ 17:12:42 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 17:12:42 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.12319s
+
+11-25-2021 @ 17:12:42 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+11-25-2021 @ 18:12:43 - Request
+method: GET
+uri: https://graph.facebook.com/v11.0/fbe_business?fbe_external_business_id=holy-cosmetics-5f3c178deeb0f
+user-agent: Facebook-for-WooCommerce/2.6.7 (WooCommerce/5.9.0; WordPress/5.8.2)
+body:
+duration: 0.09263s
+
+11-25-2021 @ 18:12:43 - Response
+code: 200
+message: OK
+body: {"business":{"name":"Holy Cosmetics"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+

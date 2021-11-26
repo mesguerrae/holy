@@ -1,0 +1,8 @@
+2021-11-17T05:12:35+00:00 CRITICAL Uncaught PayUException: Error inesperado in /home/customer/www/holycosmetics.com.co/public_html/lib/PayU/PayU/util/PayUApiServiceUtil.php:81
+Stack trace:
+#0 /home/customer/www/holycosmetics.com.co/public_html/lib/PayU/PayU/PayUPayments.php(71): PayUApiServiceUtil::sendRequest(Object(stdClass), Object(PayUHttpRequestInfo))
+#1 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/methods/Trasferencia_bancaria.php(124): PayUPayments::getPSEBanks(Array)
+#2 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/methods/Trasferencia_bancaria.php(139): WC_PayU_Trasgerencia_Bancaria_Payment_Gateway->getBanks()
+#3 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/payu-custom-checkout/includes/templates/payment-method.php(12): WC_PayU_Trasgerencia_Bancaria_Payment_Gateway->payment_fields()
+#4 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(34 en /home/customer/www/holycosmetics.com.co/public_html/lib/PayU/PayU/util/PayUApiServiceUtil.php en la línea 81
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<id><![CDATA[313787]]></id>
+		<nombre><![CDATA[ACEITE PARA UÑAS]]></nombre>
+		<publicado><![CDATA[1]]></publicado>
+		<visibilidadenelcatlogo><![CDATA[visible]]></visibilidadenelcatlogo>
+		<nombredelatributo1><![CDATA[MARCA]]></nombredelatributo1>
+		<valoresdelatributo1><![CDATA[OPI]]></valoresdelatributo1>
+		<atributovisible1><![CDATA[1]]></atributovisible1>
+		<atributoglobal1><![CDATA[0]]></atributoglobal1>
+		<nombredelatributo2><![CDATA[EDAD]]></nombredelatributo2>
+		<valoresdelatributo2><![CDATA[35-45, 45 en adelante]]></valoresdelatributo2>
+		<atributovisible2><![CDATA[1]]></atributovisible2>
+		<atributoglobal2><![CDATA[1]]></atributoglobal2>
+		<atributopordefecto2><![CDATA[]]></atributopordefecto2>
+	</node>
+</data>
