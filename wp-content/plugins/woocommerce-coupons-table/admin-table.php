@@ -20,7 +20,7 @@ class WC_Admin_List_Orders_Table_Orders extends \WP_List_Table {
     private $resume_data;
     private $net_revenue;
     private $avg_order_value;
-    private $base_url = 'https://www.holycosmetics.com.co/';
+    private $base_url = 'http://local.holy.com/';
     //private $base_url = 'http://holycosmetics.local.com:8080/';
    
     private $first_key  = 'ck_526e99a0813b843ad45cc62c0b3c248623c8e4cd';
