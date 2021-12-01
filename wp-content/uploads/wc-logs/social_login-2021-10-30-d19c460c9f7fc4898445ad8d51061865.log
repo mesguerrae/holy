@@ -1,2 +1,0 @@
-10-29-2021 @ 20:01:58 - Error: Authentication failed! facebook returned an error: access_denied
-10-30-2021 @ 16:51:09 - HybridAuth Error: Endpoint: Error while trying to init Hybrid_Auth: User profile request failed! google returned an error: The Authorization Service has return: invalid_request
