@@ -22,19 +22,19 @@
 /** The name of the database for WordPress */
 //  include "../inc/dbinfo.inc"; 
 
-define( 'WP_HOME', 'https://www.holycosmetics.com.co' );
-define( 'WP_SITEURL', 'https://www.holycosmetics.com.co' );
+define( 'WP_HOME', 'http://local.holy.com' );
+define( 'WP_SITEURL', 'http://local.holy.com' );
 define('ENABLE_CACHE', true);
 //define('WP_REDIS_HOST', '127.0.0.1');
 //define('WP_REDIS_HOST', 'holy-redis-cache.sygh2h.ng.0001.use2.cache.amazonaws.com');
 //echo $db_name. " ".$db_host." ".$db_username." ".$db_password;exit;
-define('DB_NAME','holycosm_wp_holy');
+define('DB_NAME','holy');
 
 /** MySQL database username */
-define('DB_USER', 'holycosm_iuh23r');
+define('DB_USER', 'mauricio');
 
 /** MySQL database password */
-define('DB_PASSWORD', '^PeGs1XsiZTk');
+define('DB_PASSWORD', 'control');
     
 
 /** MySQL hostname */
@@ -125,4 +125,4 @@ elseif (!empty($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED
 
 define('FORCE_SSL_LOGIN', false);
 define('FORCE_SSL_ADMIN', false);
-@include_once('/var/lib/sec/wp-settings.php'); // Added by SiteGround WordPress management system
+//@include_once('/var/lib/sec/wp-settings.php'); // Added by SiteGround WordPress management system

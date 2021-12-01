@@ -30,23 +30,23 @@ $db_username = DB_USERNAME;
 
 $db_password = DB_PASSWORD;
 
-define( 'WP_HOME', 'https://www.holycosmetics.com.co' );
-define( 'WP_SITEURL', 'https://www.holycosmetics.com.co' );
+define( 'WP_HOME', 'http://local.holy.com' );
+define( 'WP_SITEURL', 'http://local.holy.com' );
 define('ENABLE_CACHE', true);
 //define('WP_REDIS_HOST', '127.0.0.1');
-define('WP_REDIS_HOST', 'holy-redis-cache.sygh2h.ng.0001.use2.cache.amazonaws.com');
+//define('WP_REDIS_HOST', 'holy-redis-cache.sygh2h.ng.0001.use2.cache.amazonaws.com');
 //echo $db_name. " ".$db_host." ".$db_username." ".$db_password;exit;
-define('DB_NAME','holycosm_HolyWP');
+define('DB_NAME','holy');
 
 /** MySQL database username */
-define('DB_USER', 'holy_master');
+define('DB_USER', 'mauricio');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'W3t25RTGmDgzXqyt');
+define('DB_PASSWORD', 'control');
     
 
 /** MySQL hostname */
-define('DB_HOST', 'holy-db-instance.cxaimoc4sbcf.us-east-2.rds.amazonaws.com');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
