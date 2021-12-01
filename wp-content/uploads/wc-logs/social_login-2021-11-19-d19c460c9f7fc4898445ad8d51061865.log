@@ -1,2 +1,0 @@
-11-19-2021 @ 13:59:20 - HybridAuth Error: Endpoint: Error while trying to init Hybrid_Auth: User profile request failed! facebook returned an error: The Authorization Service has return: {"message":"Missing redirect_uri parameter.","type":"OAuthException","code":191,"fbtrace_id":"AkkCZFjz5XN24fmzZVdV-xT"}
-11-19-2021 @ 14:53:34 - HybridAuth Error: Endpoint: Error while trying to init Hybrid_Auth: User profile request failed! google returned an error: The Authorization Service has return: invalid_request

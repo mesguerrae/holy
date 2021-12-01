@@ -1,3 +1,0 @@
-11-04-2021 @ 07:07:03 - Error: Authentication failed! google returned an error: access_denied
-11-04-2021 @ 07:58:20 - HybridAuth Error: Endpoint: Error while trying to init Hybrid_Auth: User profile request failed! google returned an error: The Authorization Service has return: invalid_request
-11-04-2021 @ 15:15:41 - Error: User profile request failed! google returned an error: The Authorization Service has return: invalid_request

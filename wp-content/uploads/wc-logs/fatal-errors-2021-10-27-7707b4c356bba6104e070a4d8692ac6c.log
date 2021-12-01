@@ -1,7 +1,0 @@
-2021-10-27T00:20:09+00:00 CRITICAL Uncaught Exception: Job data key "requests" not set in /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/facebook-for-woocommerce/includes/Products/Sync/Background.php:69
-Stack trace:
-#0 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/facebook-for-woocommerce/vendor/skyverge/wc-plugin-framework/woocommerce/utilities/class-sv-wp-background-job-handler.php(588): SkyVerge\WooCommerce\Facebook\Products\Sync\Background->process_job(Object(stdClass))
-#1 /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/facebook-for-woocommerce/vendor/skyverge/wc-plugin-framework/woocommerce/utilities/class-sv-wp-background-job-handler.php(168): SkyVerge\WooCommerce\PluginFramework\v5_10_0\SV_WP_Background_Job_Handler->handle()
-#2 /home/customer/www/holycosmetics.com.co/public_html/wp-includes/class-wp-hook.php(303): SkyVerge\WooCommerce\PluginFramework\v5_10_0\SV_WP_Background_Job_Handler->maybe_handle('')
-#3 /home/customer/www/holycosmetics.com.co/public_html/wp-incl en /home/customer/www/holycosmetics.com.co/public_html/wp-content/plugins/facebook-for-woocommerce/includes/Products/Sync/Background.php en la línea 69
-
