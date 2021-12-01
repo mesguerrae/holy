@@ -1,0 +1,2605 @@
+<!DOCTYPE html>
+<!--[if IE 9 ]> <html lang="es" class="ie9 loading-site no-js"> <![endif]-->
+<!--[if IE 8 ]> <html lang="es" class="ie8 loading-site no-js"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="es" class="loading-site no-js"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://local.holy.com/xmlrpc.php" />
+
+					<script>document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
+			<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Holy Cosmetics - Tienda Dígital</title>
+<script>window._wca = window._wca || [];</script>
+
+<!-- This site is optimized with the Yoast SEO plugin v11.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="La mejor tienda de cosméticos de Colombia, encuentra tu maquillaje preferido con el mejor precio y una calidad que no encontraras en el mercado."/>
+<link rel="canonical" href="http://local.holy.com/" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Holy Cosmetics - Tienda Dígital" />
+<meta property="og:description" content="La mejor tienda de cosméticos de Colombia, encuentra tu maquillaje preferido con el mejor precio y una calidad que no encontraras en el mercado." />
+<meta property="og:url" content="http://local.holy.com/" />
+<meta property="og:site_name" content="Holy Cosmetics" />
+<meta property="og:image" content="http://local.holy.com/wp-content/uploads/2018/11/Holy_Cosmetics_Stroke-1-01-e1547768117248.png" />
+<meta property="og:image:secure_url" content="http://local.holy.com/wp-content/uploads/2018/11/Holy_Cosmetics_Stroke-1-01-e1547768117248.png" />
+<meta property="og:image:width" content="900" />
+<meta property="og:image:height" content="900" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="La mejor tienda de cosméticos de Colombia, encuentra tu maquillaje preferido con el mejor precio y una calidad que no encontraras en el mercado." />
+<meta name="twitter:title" content="Holy Cosmetics - Tienda Dígital" />
+<meta name="twitter:image" content="https://www.holycosmetics.co/wp-content/uploads/2018/11/Holy_Cosmetics_Stroke-1-01-e1547768117248.png" />
+<meta name="google-site-verification" content="n_dpoYArpFhvE-BsFCh3jZel6FhTsWVjdPvr5w0192Y" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://local.holy.com/#website","url":"http://local.holy.com/","name":"Holy Cosmetics","potentialAction":{"@type":"SearchAction","target":"http://local.holy.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"http://local.holy.com/#webpage","url":"http://local.holy.com/","inLanguage":"es","name":"Holy Cosmetics - Tienda D\u00edgital","isPartOf":{"@id":"http://local.holy.com/#website"},"datePublished":"2018-10-05T17:05:31+00:00","dateModified":"2019-06-20T01:41:09+00:00","description":"La mejor tienda de cosm\u00e9ticos de Colombia, encuentra tu maquillaje preferido con el mejor precio y una calidad que no encontraras en el mercado."}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Holy Cosmetics &raquo; Feed" href="http://local.holy.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Holy Cosmetics &raquo; RSS de los comentarios" href="http://local.holy.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.holycosmetics.com.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='mgwb-style-frontend-css'  href='http://local.holy.com/wp-content/plugins/mgwoocommercebrands/css/mgwoocommercebrands.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-main-css'  href='http://local.holy.com/wp-content/plugins/mgwoocommercebrands/js/owl-carousel/owl.carousel.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-theme-css'  href='http://local.holy.com/wp-content/plugins/mgwoocommercebrands/js/owl-carousel/owl.theme.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.1.1/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-components-css'  href='https://c0.wp.com/c/5.1.1/wp-includes/css/dist/components/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='http://local.holy.com/wp-content/plugins/woo-gutenberg-products-block/build/style.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://local.holy.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://local.holy.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='nta-css-popup-css'  href='http://local.holy.com/wp-content/plugins/whatsapp-for-wordpress/assets/css/style.css?ver=5.1.1' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='wpfront-scroll-top-css'  href='http://local.holy.com/wp-content/plugins/wpfront-scroll-top/css/wpfront-scroll-top.min.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-selectBox-css'  href='http://local.holy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-icons-css'  href='http://local.holy.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-woocommerce-wishlist-css'  href='http://local.holy.com/wp-content/themes/flatsome/inc/integrations/wc-yith-wishlist/wishlist.css?ver=3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-main-css'  href='http://local.holy.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-shop-css'  href='http://local.holy.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-style-css'  href='http://local.holy.com/wp-content/themes/flatsome/style.css?ver=3.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-googlefonts-css'  href='//fonts.googleapis.com/css?family=Lato%3Aregular%2C700%2C400%2C700%7CDancing+Script%3Aregular%2Cdefault&#038;ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/7.5.3/css/jetpack.css' type='text/css' media='all' />
+<script type="text/javascript">(function(a,d){if(a._nsl===d){a._nsl=[];var c=function(){if(a.jQuery===d)setTimeout(c,33);else{for(var b=0;b<a._nsl.length;b++)a._nsl[b].call(a,a.jQuery);a._nsl={push:function(b){b.call(a,a.jQuery)}}}};c()}})(window);</script><script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://local.holy.com/wp-content/plugins/zero-bs-crm/js/ZeroBSCRM.public.global.min.js?ver=2.99.8'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/tinymce/tinymce.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/tinymce/plugins/compat3x/plugin.min.js'></script>
+<script type='text/javascript' src='http://local.holy.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8'></script>
+<script type='text/javascript' src='http://local.holy.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ntawaAjax = {"url":"https:\/\/www.holycosmetics.com.co\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://local.holy.com/wp-content/plugins/whatsapp-for-wordpress/assets/js/main.js?ver=5.1.1'></script>
+<link rel='https://api.w.org/' href='http://local.holy.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://local.holy.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://local.holy.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1.1" />
+<meta name="generator" content="WooCommerce 3.6.3" />
+<link rel='shortlink' href='https://wp.me/PaCPHZ-9mn' />
+<link rel="alternate" type="application/json+oembed" href="http://local.holy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.holycosmetics.com.co%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://local.holy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.holycosmetics.com.co%2F&#038;format=xml" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WWCN6W5');</script>
+<!-- End Google Tag Manager -->        <style>
+            .wa__stt_offline{
+                pointer-events: none;
+            }
+
+            .wa__button_text_only_me .wa__btn_txt{
+                padding-top: 16px !important;
+                padding-bottom: 15px !important;
+            }
+
+            .wa__popup_content_item .wa__cs_img_wrap{
+                width: 48px;
+                height: 48px;
+            }
+
+            .wa__popup_chat_box .wa__popup_heading{
+                background: #2db742;
+            }
+
+            .wa__btn_popup .wa__btn_popup_icon{
+                background: #2db742;
+            }
+
+            .wa__popup_chat_box .wa__stt{
+                border-left: 2px solid  #2db742;
+            }
+
+            .wa__popup_chat_box .wa__popup_heading .wa__popup_title{
+                color: #fff;
+            }
+
+            .wa__popup_chat_box .wa__popup_heading .wa__popup_intro{
+                color: #fff;
+                opacity: 0.8;
+            }
+
+            .wa__popup_chat_box .wa__popup_heading .wa__popup_intro strong{
+
+            }
+
+                            .wa__btn_popup{
+                    left: 30px;
+                    right: unset;
+                }
+
+                .wa__btn_popup .wa__btn_popup_txt{
+                    left: 100%;
+                }
+
+                .wa__popup_chat_box{
+                    left: 25px;
+                }
+            
+        </style>
+
+        
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//c0.wp.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><!--[if IE]><link rel="stylesheet" type="text/css" href="http://local.holy.com/wp-content/themes/flatsome/assets/css/ie-fallback.css"><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js"></script><script>var head = document.getElementsByTagName('head')[0],style = document.createElement('style');style.type = 'text/css';style.styleSheet.cssText = ':before,:after{content:none !important';head.appendChild(style);setTimeout(function(){head.removeChild(style);}, 0);</script><script src="http://local.holy.com/wp-content/themes/flatsome/assets/libs/ie-flexibility.js"></script><![endif]-->	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	
+<!-- WooCommerce Facebook Integration Begin -->
+
+<script type='text/javascript'>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+</script>
+
+<script>
+fbq('init', '330662087669646', {}, {
+    "agent": "woocommerce-3.6.3-1.9.12"
+});
+
+fbq('track', 'PageView', {
+    "source": "woocommerce",
+    "version": "3.6.3",
+    "pluginVersion": "1.9.12"
+});
+
+document.addEventListener('DOMContentLoaded', function() {
+  jQuery && jQuery(function($){
+    $('body').on('added_to_cart', function(event) {
+      // Ajax action.
+      $.get('?wc-ajax=fb_inject_add_to_cart_event', function(data) {
+        $('head').append(data);
+      });
+    });
+  });
+}, false);
+
+</script>
+<!-- DO NOT MODIFY -->
+<!-- WooCommerce Facebook Integration end -->
+    <meta name="theme-color" content="#e9b99c"><meta name="msapplication-navbutton-color" content="#e9b99c"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="generator" content="Powered by Slider Revolution 5.4.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="http://local.holy.com/wp-content/uploads/2018/11/cropped-Untitled-1-5-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://local.holy.com/wp-content/uploads/2018/11/cropped-Untitled-1-5-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://local.holy.com/wp-content/uploads/2018/11/cropped-Untitled-1-5-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://local.holy.com/wp-content/uploads/2018/11/cropped-Untitled-1-5-270x270.jpg" />
+<script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+<style id="custom-css" type="text/css">:root {--primary-color: #e7c5a8;}/* Site Width */.header-main{height: 85px}#logo img{max-height: 85px}#logo{width:186px;}#logo img{padding:2px 0;}.header-bottom{min-height: 10px}.header-top{min-height: 45px}.transparent .header-main{height: 500px}.transparent #logo img{max-height: 500px}.has-transparent + .page-title:first-of-type,.has-transparent + #main > .page-title,.has-transparent + #main > div > .page-title,.has-transparent + #main .page-header-wrapper:first-of-type .page-title{padding-top: 580px;}.header.show-on-scroll,.stuck .header-main{height:70px!important}.stuck #logo img{max-height: 70px!important}.search-form{ width: 85%;}.header-bg-color, .header-wrapper {background-color: #ffffff}.header-bottom {background-color: #ffffff}.header-wrapper:not(.stuck) .header-main .header-nav{margin-top: -4px }@media (max-width: 549px) {.header-main{height: 49px}#logo img{max-height: 49px}}.main-menu-overlay{background-color: #bfa584}.nav-dropdown{font-size:100%}.header-top{background-color:#e5c399!important;}/* Color */.accordion-title.active, .has-icon-bg .icon .icon-inner,.logo a, .primary.is-underline, .primary.is-link, .badge-outline .badge-inner, .nav-outline > li.active> a,.nav-outline >li.active > a, .cart-icon strong,[data-color='primary'], .is-outline.primary{color: #e7c5a8;}/* Color !important */[data-text-color="primary"]{color: #e7c5a8!important;}/* Background Color */[data-text-bg="primary"]{background-color: #e7c5a8;}/* Background */.scroll-to-bullets a,.featured-title, .label-new.menu-item > a:after, .nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,button[type="submit"], .button.wc-forward:not(.checkout):not(.checkout-button), .button.submit-button, .button.primary:not(.is-outline),.featured-table .title,.is-outline:hover, .has-icon:hover .icon-label,.nav-dropdown-bold .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold > li > a:hover, .nav-dropdown-bold.dark .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold.dark > li > a:hover, .is-outline:hover, .tagcloud a:hover,.grid-tools a, input[type='submit']:not(.is-form), .box-badge:hover .box-text, input.button.alt,.nav-box > li > a:hover,.nav-box > li.active > a,.nav-pills > li.active > a ,.current-dropdown .cart-icon strong, .cart-icon:hover strong, .nav-line-bottom > li > a:before, .nav-line-grow > li > a:before, .nav-line > li > a:before,.banner, .header-top, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover, .button.primary:not(.is-outline), input[type='submit'].primary, input[type='submit'].primary, input[type='reset'].button, input[type='button'].primary, .badge-inner{background-color: #e7c5a8;}/* Border */.nav-vertical.nav-tabs > li.active > a,.scroll-to-bullets a.active,.nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,.accordion-title.active,.featured-table,.is-outline:hover, .tagcloud a:hover,blockquote, .has-border, .cart-icon strong:after,.cart-icon strong,.blockUI:before, .processing:before,.loading-spin, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover{border-color: #e7c5a8}.nav-tabs > li.active > a{border-top-color: #e7c5a8}.widget_shopping_cart_content .blockUI.blockOverlay:before { border-left-color: #e7c5a8 }.woocommerce-checkout-review-order .blockUI.blockOverlay:before { border-left-color: #e7c5a8 }/* Fill */.slider .flickity-prev-next-button:hover svg,.slider .flickity-prev-next-button:hover .arrow{fill: #e7c5a8;}/* Background Color */[data-icon-label]:after, .secondary.is-underline:hover,.secondary.is-outline:hover,.icon-label,.button.secondary:not(.is-outline),.button.alt:not(.is-outline), .badge-inner.on-sale, .button.checkout, .single_add_to_cart_button{ background-color:#928475; }[data-text-bg="secondary"]{background-color: #928475;}/* Color */.secondary.is-underline,.secondary.is-link, .secondary.is-outline,.stars a.active, .star-rating:before, .woocommerce-page .star-rating:before,.star-rating span:before, .color-secondary{color: #928475}/* Color !important */[data-text-color="secondary"]{color: #928475!important;}/* Border */.secondary.is-outline:hover{border-color:#928475}.success.is-underline:hover,.success.is-outline:hover,.success{background-color: #e7c5a8}.success-color, .success.is-link, .success.is-outline{color: #e7c5a8;}.success-border{border-color: #e7c5a8!important;}/* Color !important */[data-text-color="success"]{color: #e7c5a8!important;}/* Background Color */[data-text-bg="success"]{background-color: #e7c5a8;}.alert.is-underline:hover,.alert.is-outline:hover,.alert{background-color: #e7c5a8}.alert.is-link, .alert.is-outline, .color-alert{color: #e7c5a8;}/* Color !important */[data-text-color="alert"]{color: #e7c5a8!important;}/* Background Color */[data-text-bg="alert"]{background-color: #e7c5a8;}body{font-family:"Lato", sans-serif}body{font-weight: 400}.nav > li > a {font-family:"Lato", sans-serif;}.nav > li > a {font-weight: 700;}h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: "Lato", sans-serif;}h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2{font-weight: 700;}.alt-font{font-family: "Dancing Script", sans-serif;}a{color: #928475;}a:hover{color: #928475;}.tagcloud a:hover{border-color: #928475;background-color: #928475;}.widget a{color: #e7c5a8;}.widget a:hover{color: #e7c5a8;}.widget .tagcloud a:hover{border-color: #e7c5a8; background-color: #e7c5a8;}.pswp__bg,.mfp-bg.mfp-ready{background-color: #e7c5a8}@media screen and (min-width: 550px){.products .box-vertical .box-image{min-width: 247px!important;width: 247px!important;}}.footer-2{background-color: #000000}.absolute-footer, html{background-color: #3a3a3a}button[name='update_cart'] { display: none; }/* Custom CSS */.product-title {text-transform: uppercase;}.widget_price_filter .price_slider_amount {font-size: .8em;}.section-title-bold-center span, .section-title-bold span {border-radius: 30px;}.dark p {text-align: justify;}.label-new.menu-item > a:after{content:"Nuevo";}.label-hot.menu-item > a:after{content:"Caliente";}.label-sale.menu-item > a:after{content:"Oferta";}.label-popular.menu-item > a:after{content:"Popular";}</style><style id="infinite-scroll-css" type="text/css">.page-load-status,.archive .woocommerce-pagination {display: none;}</style><script async src='https://stats.wp.com/s-201931.js'></script>
+</head>
+
+<body class="home page-template page-template-page-blank page-template-page-blank-php page page-id-35983 theme-flatsome woocommerce-no-js lightbox nav-dropdown-has-arrow">
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWCN6W5"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+<div id="wrapper">
+
+<div class="page-loader fixed fill z-top-3 ">
+	<div class="page-loader-inner x50 y50 md-y50 md-x50 lg-y50 lg-x50 absolute">
+		<div class="page-loader-logo" style="padding-bottom: 30px;">
+	    	<!-- Header logo -->
+<a href="http://local.holy.com/" title="Holy Cosmetics - La mejor página de cosméticos de Colombia." rel="home">
+    <img width="186" height="85" src="https://www.holycosmetics.co/wp-content/uploads/2018/11/Holy_Cosmetics_Stroke-1-01.png" class="header_logo header-logo" alt="Holy Cosmetics"/><img  width="186" height="85" src="http://local.holy.com/wp-content/uploads/2018/11/Holy_Cosmetics_Stroke-1-01-e1547768117248.png" class="header-logo-dark" alt="Holy Cosmetics"/></a>
+	    </div>
+		<div class="page-loader-spin"><div class="loading-spin"></div></div>
+	</div>
+	<style scope="scope">
+		.page-loader{opacity: 0; transition: opacity .3s; transition-delay: .3s;
+			background-color: #fff;
+		}
+		.loading-site .page-loader{opacity: .98;}
+		.page-loader-logo{max-width: px; animation: pageLoadZoom 1.3s ease-out; -webkit-animation: pageLoadZoom 1.3s ease-out;}
+		.page-loader-spin{animation: pageLoadZoomSpin 1.3s ease-out;}
+		.page-loader-spin .loading-spin{width: 40px; height: 40px; }
+		@keyframes pageLoadZoom {
+		    0%   {opacity:0; transform: translateY(30px);}
+		    100% {opacity:1; transform: translateY(0);}
+		}
+		@keyframes pageLoadZoomSpin {
+		    0%   {opacity:0; transform: translateY(60px);}
+		    100% {opacity:1; transform: translateY(0);}
+		}
+	</style>
+</div>
+
+<header id="header" class="header has-sticky sticky-jump">
+   <div class="header-wrapper">
+	<div id="top-bar" class="header-top hide-for-sticky nav-dark">
+    <div class="flex-row container">
+      <div class="flex-col hide-for-medium flex-left">
+          <ul class="nav nav-left medium-nav-center nav-small  nav-line-bottom">
+              <li class="html custom html_topbar_left"><strong class="uppercase">La mejor página de cosméticos en Colombia</strong></li>          </ul>
+      </div><!-- flex-col left -->
+
+      <div class="flex-col hide-for-medium flex-center">
+          <ul class="nav nav-center nav-small  nav-line-bottom">
+                        </ul>
+      </div><!-- center -->
+
+      <div class="flex-col hide-for-medium flex-right">
+         <ul class="nav top-bar-nav nav-right nav-small  nav-line-bottom">
+              <li id="menu-item-867" class="menu-item menu-item-type-post_type menu-item-object-page  menu-item-867"><a href="http://local.holy.com/nosotros/" class="nav-top-link">Nosotros</a></li>
+<li id="menu-item-548" class="menu-item menu-item-type-post_type menu-item-object-page  menu-item-548"><a href="http://local.holy.com/datos-personales/" class="nav-top-link">Datos Personales</a></li>
+<li class="html header-social-icons ml-0">
+	<div class="social-icons follow-icons " ><a href="https://www.facebook.com/cosmeticsholy" target="_blank" data-label="Facebook"  rel="noopener noreferrer nofollow" class="icon button circle is-outline facebook tooltip" title="Síguenos en Facebook"><i class="icon-facebook" ></i></a><a href="https://www.instagram.com/holycosmetics" target="_blank" rel="noopener noreferrer nofollow" data-label="Instagram" class="icon button circle is-outline  instagram tooltip" title="Síguenos en Instagram"><i class="icon-instagram" ></i></a><a href="mailto:servicioalclienteholy@gmail.com" data-label="E-mail"  rel="nofollow" class="icon button circle is-outline  email tooltip" title="Envíanos un email"><i class="icon-envelop" ></i></a><a href="tel:+573013156284" target="_blank"  data-label="Phone"  rel="noopener noreferrer nofollow" class="icon button circle is-outline  phone tooltip" title="Call us"><i class="icon-phone" ></i></a></div></li>          </ul>
+      </div><!-- .flex-col right -->
+
+            <div class="flex-col show-for-medium flex-grow">
+          <ul class="nav nav-center nav-small mobile-nav  nav-line-bottom">
+              <li class="html custom html_topbar_left"><strong class="uppercase">La mejor página de cosméticos en Colombia</strong></li>          </ul>
+      </div>
+      
+    </div><!-- .flex-row -->
+</div><!-- #header-top -->
+<div id="masthead" class="header-main ">
+      <div class="header-inner flex-row container logo-left medium-logo-center" role="navigation">
+
+          <!-- Logo -->
+          <div id="logo" class="flex-col logo">
+            <!-- Header logo -->
+<a href="http://local.holy.com/" title="Holy Cosmetics - La mejor página de cosméticos de Colombia." rel="home">
+    <img width="186" height="85" src="https://www.holycosmetics.co/wp-content/uploads/2018/11/Holy_Cosmetics_Stroke-1-01.png" class="header_logo header-logo" alt="Holy Cosmetics"/><img  width="186" height="85" src="http://local.holy.com/wp-content/uploads/2018/11/Holy_Cosmetics_Stroke-1-01-e1547768117248.png" class="header-logo-dark" alt="Holy Cosmetics"/></a>
+          </div>
+
+          <!-- Mobile Left Elements -->
+          <div class="flex-col show-for-medium flex-left">
+            <ul class="mobile-nav nav nav-left ">
+              <li class="nav-icon has-icon">
+  		<a href="#" data-open="#main-menu" data-pos="center" data-bg="main-menu-overlay" data-color="dark" class="is-small" aria-controls="main-menu" aria-expanded="false">
+		
+		  <i class="icon-menu" ></i>
+		  <span class="menu-title uppercase hide-for-small">Menú</span>		</a>
+	</li>            </ul>
+          </div>
+
+          <!-- Left Elements -->
+          <div class="flex-col hide-for-medium flex-left
+            flex-grow">
+            <ul class="header-nav header-nav-main nav nav-left  nav-uppercase" >
+              <li class="header-search-form search-form html relative has-icon">
+	<div class="header-search-form-wrapper">
+		<div class="searchform-wrapper ux-search-box relative form-flat is-normal"><form role="search" method="get" class="searchform" action="http://local.holy.com/">
+		<div class="flex-row relative">
+									<div class="flex-col flex-grow">
+			  <input type="search" class="search-field mb-0" name="s" value="" placeholder="Busca Aquí..." />
+		    <input type="hidden" name="post_type" value="product" />
+        			</div><!-- .flex-col -->
+			<div class="flex-col">
+				<button type="submit" class="ux-search-submit submit-button secondary button icon mb-0">
+					<i class="icon-search" ></i>				</button>
+			</div><!-- .flex-col -->
+		</div><!-- .flex-row -->
+	 <div class="live-search-results text-left z-top"></div>
+</form>
+</div>	</div>
+</li>            </ul>
+          </div>
+
+          <!-- Right Elements -->
+          <div class="flex-col hide-for-medium flex-right">
+            <ul class="header-nav header-nav-main nav nav-right  nav-uppercase">
+              <li class="account-item has-icon
+    "
+>
+
+<a href="http://local.holy.com/mi-cuenta/"
+    class="nav-top-link nav-top-not-logged-in "
+    data-open="#login-form-popup"  >
+    <span>
+    Acceder      </span>
+  
+</a><!-- .account-login-link -->
+
+
+
+</li>
+<li class="header-divider"></li><li class="cart-item has-icon">
+
+	<a href="http://local.holy.com/carrito-de-compras/" class="header-cart-link off-canvas-toggle nav-top-link is-small" data-open="#cart-popup" data-class="off-canvas-cart" title="Carrito" data-pos="right">
+
+<span class="header-cart-title">
+   Carrito   /      <span class="cart-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>0</span></span>
+  </span>
+
+    <span class="cart-icon image-icon">
+    <strong>0</strong>
+  </span>
+  </a>
+
+
+
+  <!-- Cart Sidebar Popup -->
+  <div id="cart-popup" class="mfp-hide widget_shopping_cart">
+  <div class="cart-popup-inner inner-padding">
+      <div class="cart-popup-title text-center">
+          <h4 class="uppercase">Carrito</h4>
+          <div class="is-divider"></div>
+      </div>
+      <div class="widget_shopping_cart_content">
+          
+
+	<p class="woocommerce-mini-cart__empty-message">No hay productos en el carrito.</p>
+
+
+      </div>
+            <div class="cart-sidebar-content relative"></div><div class="payment-icons inline-block"><img src="https://www.holycosmetics.co/wp-content/uploads/2018/08/Metodos-de-pago-PayU-Holy-Cosmetics-La-mejor-página-de-cosmeticos-de-Colombia-1.png" alt="bg_image" /></div>  </div>
+  </div>
+
+</li>
+            </ul>
+          </div>
+
+          <!-- Mobile Right Elements -->
+          <div class="flex-col show-for-medium flex-right">
+            <ul class="mobile-nav nav nav-right ">
+              <li class="cart-item has-icon">
+
+      <a href="http://local.holy.com/carrito-de-compras/" class="header-cart-link off-canvas-toggle nav-top-link is-small" data-open="#cart-popup" data-class="off-canvas-cart" title="Carrito" data-pos="right">
+  
+    <span class="cart-icon image-icon">
+    <strong>0</strong>
+  </span> 
+  </a>
+
+</li>
+            </ul>
+          </div>
+
+      </div><!-- .header-inner -->
+     
+      </div><!-- .header-main --><div id="wide-nav" class="header-bottom wide-nav flex-has-center hide-for-medium">
+    <div class="flex-row container">
+
+            
+                        <div class="flex-col hide-for-medium flex-center">
+                <ul class="nav header-nav header-bottom-nav nav-center  nav-uppercase">
+                    <li id="menu-item-871" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat  menu-item-871"><a href="http://local.holy.com/product-category/labios/" class="nav-top-link">LABIOS</a></li>
+<li id="menu-item-872" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat  menu-item-872"><a href="http://local.holy.com/product-category/rostro/" class="nav-top-link">ROSTRO</a></li>
+<li id="menu-item-870" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat  menu-item-870"><a href="http://local.holy.com/product-category/ojos/" class="nav-top-link">OJOS</a></li>
+<li id="menu-item-132674" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat  menu-item-132674"><a href="http://local.holy.com/product-category/mascarilllas/" class="nav-top-link">MASCARILLLAS</a></li>
+<li id="menu-item-36126" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat  menu-item-36126"><a href="http://local.holy.com/product-category/brochas/" class="nav-top-link">BROCHAS</a></li>
+<li id="menu-item-36007" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat  menu-item-36007"><a href="http://local.holy.com/product-category/combos/" class="nav-top-link">COMBOS</a></li>
+<li id="menu-item-869" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat  menu-item-869"><a href="http://local.holy.com/product-category/accesorios/" class="nav-top-link">ACCESORIOS</a></li>
+<li id="menu-item-264" class="menu-item menu-item-type-post_type menu-item-object-page  menu-item-264"><a href="http://local.holy.com/contacto/" class="nav-top-link">Contacto</a></li>
+                </ul>
+            </div><!-- flex-col -->
+            
+            
+            
+    </div><!-- .flex-row -->
+</div><!-- .header-bottom -->
+
+<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div><!-- .header-bg-container -->   </div><!-- header-wrapper-->
+</header>
+
+
+<main id="main" class="">
+
+
+<div id="content" role="main" class="content-area">
+
+		
+			<div style="max-width: 1500px;" class="ml-slider-3-13-1 metaslider metaslider-responsive metaslider-104659 ml-slider ms-theme-highway">
+    
+    <div id="metaslider_container_104659">
+        <ul id='metaslider_104659' class='rslides'>
+            <li><img src="http://local.holy.com/wp-content/uploads/2019/08/banner-20-off.jpg" height="500" width="1500" alt="" class="slider-104659 slide-127337" title="banner-20-%-off" /></li>
+        </ul>
+        
+    </div>
+</div>
+	<section class="section" id="section_1407191013">
+		<div class="bg section-bg fill bg-fill bg-loaded bg-loaded" >
+
+			
+			
+			
+
+		</div><!-- .section-bg -->
+
+		<div class="section-content relative">
+			
+<div class="row row-divided"  id="row-1380788525">
+<div class="col medium-4 small-12 large-4"  ><div class="col-inner text-center"  >
+
+		<div class="icon-box featured-box icon-box-center text-center"  style="margin:px px px px;">
+					<div class="icon-box-img has-icon-bg" style="width: 90px">
+				<div class="icon">
+					<div class="icon-inner" style="border-width:3px;color:rgb(191, 165, 132);">
+						<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 473.8 473.8" style="enable-background:new 0 0 473.8 473.8;" xml:space="preserve">
+<g>
+	<path d="M454.8,111.7c0-1.8-0.4-3.6-1.2-5.3c-1.6-3.4-4.7-5.7-8.1-6.4L241.8,1.2c-3.3-1.6-7.2-1.6-10.5,0L25.6,100.9
+		c-4,1.9-6.6,5.9-6.8,10.4v0.1c0,0.1,0,0.2,0,0.4V362c0,4.6,2.6,8.8,6.8,10.8l205.7,99.7c0.1,0,0.1,0,0.2,0.1
+		c0.3,0.1,0.6,0.2,0.9,0.4c0.1,0,0.2,0.1,0.4,0.1c0.3,0.1,0.6,0.2,0.9,0.3c0.1,0,0.2,0.1,0.3,0.1c0.3,0.1,0.7,0.1,1,0.2
+		c0.1,0,0.2,0,0.3,0c0.4,0,0.9,0.1,1.3,0.1c0.4,0,0.9,0,1.3-0.1c0.1,0,0.2,0,0.3,0c0.3,0,0.7-0.1,1-0.2c0.1,0,0.2-0.1,0.3-0.1
+		c0.3-0.1,0.6-0.2,0.9-0.3c0.1,0,0.2-0.1,0.4-0.1c0.3-0.1,0.6-0.2,0.9-0.4c0.1,0,0.1,0,0.2-0.1l206.3-100c4.1-2,6.8-6.2,6.8-10.8
+		V112C454.8,111.9,454.8,111.8,454.8,111.7z M236.5,25.3l178.4,86.5l-65.7,31.9L170.8,57.2L236.5,25.3z M236.5,198.3L58.1,111.8
+		l85.2-41.3L321.7,157L236.5,198.3z M42.8,131.1l181.7,88.1v223.3L42.8,354.4V131.1z M248.5,442.5V219.2l85.3-41.4v58.4
+		c0,6.6,5.4,12,12,12s12-5.4,12-12v-70.1l73-35.4V354L248.5,442.5z"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+					</div>
+				</div>
+			</div>
+				<div class="icon-box-text last-reset">
+									
+<h3>Envíos Seguros</h3>
+<p>Nuestros envíos llegan a la puerta de tu casa rápido y sin inconvenientes.</p>
+		</div>
+	</div><!-- .icon-box -->
+	
+	
+</div></div>
+<div class="col medium-4 small-12 large-4"  ><div class="col-inner text-center"  >
+
+		<div class="icon-box featured-box icon-box-center text-center"  style="margin:px px px px;">
+					<div class="icon-box-img has-icon-bg" style="width: 90px">
+				<div class="icon">
+					<div class="icon-inner" style="border-width:3px;color:rgb(191, 165, 132);">
+						<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 201.387 201.387" style="enable-background:new 0 0 201.387 201.387;" xml:space="preserve">
+<g>
+	<g>
+		<path d="M129.413,24.885C127.389,10.699,115.041,0,100.692,0C91.464,0,82.7,4.453,77.251,11.916
+			c-1.113,1.522-0.78,3.657,0.742,4.77c1.517,1.109,3.657,0.78,4.768-0.744c4.171-5.707,10.873-9.115,17.93-9.115
+			c10.974,0,20.415,8.178,21.963,19.021c0.244,1.703,1.705,2.932,3.376,2.932c0.159,0,0.323-0.012,0.486-0.034
+			C128.382,28.479,129.679,26.75,129.413,24.885z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M178.712,63.096l-10.24-17.067c-0.616-1.029-1.727-1.657-2.927-1.657h-9.813c-1.884,0-3.413,1.529-3.413,3.413
+			s1.529,3.413,3.413,3.413h7.881l6.144,10.24H31.626l6.144-10.24h3.615c1.884,0,3.413-1.529,3.413-3.413s-1.529-3.413-3.413-3.413
+			h-5.547c-1.2,0-2.311,0.628-2.927,1.657l-10.24,17.067c-0.633,1.056-0.648,2.369-0.043,3.439s1.739,1.732,2.97,1.732h150.187
+			c1.231,0,2.364-0.662,2.97-1.732S179.345,64.15,178.712,63.096z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M161.698,31.623c-0.478-0.771-1.241-1.318-2.123-1.524l-46.531-10.883c-0.881-0.207-1.809-0.053-2.579,0.423
+			c-0.768,0.478-1.316,1.241-1.522,2.123l-3.509,15c-0.43,1.835,0.71,3.671,2.546,4.099c1.835,0.43,3.673-0.71,4.101-2.546
+			l2.732-11.675l39.883,9.329l-6.267,26.795c-0.43,1.835,0.71,3.671,2.546,4.099c0.263,0.061,0.524,0.09,0.782,0.09
+			c1.55,0,2.953-1.062,3.318-2.635l7.045-30.118C162.328,33.319,162.176,32.391,161.698,31.623z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M102.497,39.692l-3.11-26.305c-0.106-0.899-0.565-1.72-1.277-2.28c-0.712-0.56-1.611-0.816-2.514-0.71l-57.09,6.748
+			c-1.871,0.222-3.209,1.918-2.988,3.791l5.185,43.873c0.206,1.737,1.679,3.014,3.386,3.014c0.133,0,0.27-0.009,0.406-0.024
+			c1.87-0.222,3.208-1.918,2.988-3.791l-4.785-40.486l50.311-5.946l2.708,22.915c0.222,1.872,1.91,3.202,3.791,2.99
+			C101.379,43.261,102.717,41.564,102.497,39.692z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M129.492,63.556l-6.775-28.174c-0.212-0.879-0.765-1.64-1.536-2.113c-0.771-0.469-1.696-0.616-2.581-0.406L63.613,46.087
+			c-1.833,0.44-2.961,2.284-2.521,4.117l3.386,14.082c0.44,1.835,2.284,2.964,4.116,2.521c1.833-0.44,2.961-2.284,2.521-4.117
+			l-2.589-10.764l48.35-11.626l5.977,24.854c0.375,1.565,1.775,2.615,3.316,2.615c0.265,0,0.533-0.031,0.802-0.096
+			C128.804,67.232,129.932,65.389,129.492,63.556z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M179.197,64.679c-0.094-1.814-1.592-3.238-3.41-3.238H25.6c-1.818,0-3.316,1.423-3.41,3.238l-6.827,133.12
+			c-0.048,0.934,0.29,1.848,0.934,2.526c0.645,0.677,1.539,1.062,2.475,1.062h163.84c0.935,0,1.83-0.384,2.478-1.062
+			c0.643-0.678,0.981-1.591,0.934-2.526L179.197,64.679z M22.364,194.56l6.477-126.293h143.701l6.477,126.293H22.364z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M126.292,75.093c-5.647,0-10.24,4.593-10.24,10.24c0,5.647,4.593,10.24,10.24,10.24c5.647,0,10.24-4.593,10.24-10.24
+			C136.532,79.686,131.939,75.093,126.292,75.093z M126.292,88.747c-1.883,0-3.413-1.531-3.413-3.413s1.531-3.413,3.413-3.413
+			c1.882,0,3.413,1.531,3.413,3.413S128.174,88.747,126.292,88.747z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M75.092,75.093c-5.647,0-10.24,4.593-10.24,10.24c0,5.647,4.593,10.24,10.24,10.24c5.647,0,10.24-4.593,10.24-10.24
+			C85.332,79.686,80.739,75.093,75.092,75.093z M75.092,88.747c-1.882,0-3.413-1.531-3.413-3.413s1.531-3.413,3.413-3.413
+			s3.413,1.531,3.413,3.413S76.974,88.747,75.092,88.747z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M126.292,85.333h-0.263c-1.884,0-3.413,1.529-3.413,3.413c0,0.466,0.092,0.911,0.263,1.316v17.457
+			c0,12.233-9.953,22.187-22.187,22.187s-22.187-9.953-22.187-22.187V88.747c0-1.884-1.529-3.413-3.413-3.413
+			s-3.413,1.529-3.413,3.413v18.773c0,15.998,13.015,29.013,29.013,29.013s29.013-13.015,29.013-29.013V88.747
+			C129.705,86.863,128.176,85.333,126.292,85.333z"/>
+	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+					</div>
+				</div>
+			</div>
+				<div class="icon-box-text last-reset">
+									
+<h3>Facilidad</h3>
+<p>Podras comprar tus cosmeticos favoritos con tan solo unos clics.</p>
+		</div>
+	</div><!-- .icon-box -->
+	
+	
+</div></div>
+<div class="col medium-4 small-12 large-4"  ><div class="col-inner text-center"  >
+
+		<div class="icon-box featured-box icon-box-center text-center"  style="margin:px px px px;">
+					<div class="icon-box-img has-icon-bg" style="width: 90px">
+				<div class="icon">
+					<div class="icon-inner" style="border-width:3px;color:rgb(191, 165, 132);">
+						<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+	<g>
+		<path d="M479.42,249.29l-60-120c-2.905-5.098-6.983-8.29-13.42-8.29H106c-6.272,0-10.466,3.112-13.42,8.29l-60,120
+			c-2.778,5.9-1.827,11.829,2.11,16.56l210,241c2.85,3.27,6.97,5.15,11.31,5.15c4.34,0,8.46-1.88,11.31-5.15l210-241
+			C481.222,261.143,482.215,255.221,479.42,249.29z M381.73,151l-38.29,76.58L286,151H381.73z M316,241H196l60-80L316,241z M226,151
+			l-57.44,76.58L130.27,151H226z M106,169.54L141.73,241H70.27L106,169.54z M78.97,271h77.12l73.95,173.38L78.97,271z M256,428.77
+			L188.71,271h134.58L256,428.77z M281.96,444.38L355.91,271h77.12L281.96,444.38z M370.27,241L406,169.54L441.73,241H370.27z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M256,0c-8.284,0-15,6.716-15,15v31c0,8.284,6.716,15,15,15s15-6.716,15-15V15C271,6.716,264.284,0,256,0z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M192.36,66.147l-21.213-21.213c-5.857-5.858-15.355-5.858-21.213,0c-5.858,5.858-5.858,15.355,0,21.213l21.213,21.213
+			c5.857,5.858,15.356,5.859,21.213,0C198.218,81.502,198.218,72.005,192.36,66.147z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M362.065,44.934c-5.857-5.858-15.355-5.858-21.213,0l-21.213,21.213c-5.858,5.858-5.858,15.355,0,21.213
+			c5.857,5.858,15.356,5.859,21.213,0l21.213-21.213C367.923,60.289,367.923,50.792,362.065,44.934z"/>
+	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+					</div>
+				</div>
+			</div>
+				<div class="icon-box-text last-reset">
+									
+<h3>Excelente Calidad</h3>
+<p>Tenemos productos garantizados con la mejor calidad que puedas encontrar .</p>
+		</div>
+	</div><!-- .icon-box -->
+	
+	
+</div></div>
+
+<style scope="scope">
+
+</style>
+</div>
+		</div><!-- .section-content -->
+
+		
+<style scope="scope">
+
+#section_1407191013 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: rgb(255, 255, 255);
+}
+</style>
+	</section>
+	
+<div class="container section-title-container" style="margin-top:10px;"><h3 class="section-title section-title-bold-center"><b></b><span class="section-title-main" >Categorías</span><b></b></h3></div><!-- .section-title -->
+
+  
+    <div class="row large-columns-3 medium-columns- small-columns-1 row-normal slider row-slider slider-nav-simple slider-nav-outside"  data-flickity-options='{"imagesLoaded": true, "groupCells": "100%", "dragThreshold" : 5, "cellAlign": "left","wrapAround": true,"prevNextButtons": true,"percentPosition": true,"pageDots": false, "rightToLeft": false, "autoPlay" : 3000}'>
+
+          <div class="product-category col" >
+            <div class="col-inner">
+              <a href="http://local.holy.com/product-category/rostro/">                <div class="box box-category has-hover box-shade dark ">
+                <div class="box-image" style="border-radius:100%;">
+                  <div class="image-overlay-add" >
+                  <img src="http://local.holy.com/wp-content/uploads/2019/06/ROSTRO.jpg" alt="ROSTRO" width="300" height="300" />                  <div class="overlay" style="background-color: rgba(242, 223, 226, 0.66)"></div>                  <div class="shade"></div>                  </div>
+                </div><!-- box-image -->
+                <div class="box-text text-center is-large" >
+                  <div class="box-text-inner">
+                      <h5 class="uppercase header-title">
+                              ROSTRO                      </h5>
+                                            
+                  </div><!-- .box-text-inner -->
+                </div><!-- .box-text -->
+                </div><!-- .box -->
+            </a>            </div><!-- .col-inner -->
+            </div><!-- .col -->
+                <div class="product-category col" >
+            <div class="col-inner">
+              <a href="http://local.holy.com/product-category/ojos/">                <div class="box box-category has-hover box-shade dark ">
+                <div class="box-image" style="border-radius:100%;">
+                  <div class="image-overlay-add" >
+                  <img src="http://local.holy.com/wp-content/uploads/2019/06/OJOS.jpg" alt="OJOS" width="300" height="300" />                  <div class="overlay" style="background-color: rgba(242, 223, 226, 0.66)"></div>                  <div class="shade"></div>                  </div>
+                </div><!-- box-image -->
+                <div class="box-text text-center is-large" >
+                  <div class="box-text-inner">
+                      <h5 class="uppercase header-title">
+                              OJOS                      </h5>
+                                            
+                  </div><!-- .box-text-inner -->
+                </div><!-- .box-text -->
+                </div><!-- .box -->
+            </a>            </div><!-- .col-inner -->
+            </div><!-- .col -->
+                <div class="product-category col" >
+            <div class="col-inner">
+              <a href="http://local.holy.com/product-category/labios/">                <div class="box box-category has-hover box-shade dark ">
+                <div class="box-image" style="border-radius:100%;">
+                  <div class="image-overlay-add" >
+                  <img src="http://local.holy.com/wp-content/uploads/2019/07/LABIOS.jpg" alt="LABIOS" width="300" height="300" />                  <div class="overlay" style="background-color: rgba(242, 223, 226, 0.66)"></div>                  <div class="shade"></div>                  </div>
+                </div><!-- box-image -->
+                <div class="box-text text-center is-large" >
+                  <div class="box-text-inner">
+                      <h5 class="uppercase header-title">
+                              LABIOS                      </h5>
+                                            
+                  </div><!-- .box-text-inner -->
+                </div><!-- .box-text -->
+                </div><!-- .box -->
+            </a>            </div><!-- .col-inner -->
+            </div><!-- .col -->
+                <div class="product-category col" >
+            <div class="col-inner">
+              <a href="http://local.holy.com/product-category/accesorios/">                <div class="box box-category has-hover box-shade dark ">
+                <div class="box-image" style="border-radius:100%;">
+                  <div class="image-overlay-add" >
+                  <img src="http://local.holy.com/wp-content/uploads/2019/07/ACCESORIOS.jpg" alt="ACCESORIOS" width="300" height="300" />                  <div class="overlay" style="background-color: rgba(242, 223, 226, 0.66)"></div>                  <div class="shade"></div>                  </div>
+                </div><!-- box-image -->
+                <div class="box-text text-center is-large" >
+                  <div class="box-text-inner">
+                      <h5 class="uppercase header-title">
+                              ACCESORIOS                      </h5>
+                                            
+                  </div><!-- .box-text-inner -->
+                </div><!-- .box-text -->
+                </div><!-- .box -->
+            </a>            </div><!-- .col-inner -->
+            </div><!-- .col -->
+                <div class="product-category col" >
+            <div class="col-inner">
+              <a href="http://local.holy.com/product-category/combos/">                <div class="box box-category has-hover box-shade dark ">
+                <div class="box-image" style="border-radius:100%;">
+                  <div class="image-overlay-add" >
+                  <img src="http://local.holy.com/wp-content/uploads/2019/07/Untitled-1.jpg" alt="COMBOS" width="300" height="300" />                  <div class="overlay" style="background-color: rgba(242, 223, 226, 0.66)"></div>                  <div class="shade"></div>                  </div>
+                </div><!-- box-image -->
+                <div class="box-text text-center is-large" >
+                  <div class="box-text-inner">
+                      <h5 class="uppercase header-title">
+                              COMBOS                      </h5>
+                                            
+                  </div><!-- .box-text-inner -->
+                </div><!-- .box-text -->
+                </div><!-- .box -->
+            </a>            </div><!-- .col-inner -->
+            </div><!-- .col -->
+        </div>
+	<section class="section" id="section_174489155">
+		<div class="bg section-bg fill bg-fill bg-loaded bg-loaded" >
+
+			
+			
+			
+
+		</div><!-- .section-bg -->
+
+		<div class="section-content relative">
+			
+<div class="container section-title-container" style="margin-top:10px;"><h3 class="section-title section-title-bold-center"><b></b><span class="section-title-main" >Nuevos Productos</span><b></b></h3></div><!-- .section-title -->
+
+  
+    <div class="row large-columns-3 medium-columns-2 small-columns-1 row-small has-shadow row-box-shadow-2 slider row-slider slider-nav-simple slider-nav-outside slider-nav-push"  data-flickity-options='{"imagesLoaded": true, "groupCells": "100%", "dragThreshold" : 5, "cellAlign": "left","wrapAround": true,"prevNextButtons": true,"percentPosition": true,"pageDots": false, "rightToLeft": false, "autoPlay" : 5000}'>
+
+  	
+	     
+						            	
+	            	<div class="col" >
+						<div class="col-inner">
+						
+<div class="badge-container absolute left top z-1">
+<div class="badge callout badge-circle"><div class="badge-inner callout-new-bg is-small new-bubble">Nuevo</div></div></div>
+						<div class="product-small box has-hover box-bounce box-text-bottom">
+							<div class="box-image" >
+								<div class="image-cover" style="padding-top:100%;">
+									<a href="http://local.holy.com/tienda/brochas-rose-dreams/">
+										<img width="600" height="600" src="http://local.holy.com/wp-content/uploads/2019/07/brochas-rose-dreams-holy-cosmetics-web-.jpg" class="attachment-original size-original" alt="" />									</a>
+																		 								</div>
+								<div class="image-tools top right show-on-hover">
+											<div class="wishlist-icon">
+			<button class="wishlist-button button is-outline circle icon">
+				<i class="icon-heart" ></i>			</button>
+			<div class="wishlist-popup dark">
+				
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-128623">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/?add_to_wishlist=128623" rel="nofollow" data-product-id="128623" data-product-type="simple" class="add_to_wishlist" >
+        Añadir a la lista de deseos</a>
+<img src="http://local.holy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Producto añadido!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">El producto ya está en la lista de deseos!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>			</div>
+		</div>
+										</div>
+																	<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+																			</div>
+																							</div><!-- box-image -->
+
+							<div class="box-text text-center" >
+								<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			BROCHAS		</p>
+	<p class="name product-title"><a href="http://local.holy.com/tienda/brochas-rose-dreams/">BROCHAS ROSE DREAMS</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>30.000</span></span>
+</div><div class="add-to-cart-button"><a href="/?add-to-cart=128623" rel="nofollow" data-product_id="128623" class="ajax_add_to_cart add_to_cart_button product_type_simple button primary is-flat mb-0 is-small">Añadir al carrito</a></div>							</div><!-- box-text -->
+						</div><!-- box -->
+						</div><!-- .col-inner -->
+					</div><!-- col -->
+						            
+						            	
+	            	<div class="col" >
+						<div class="col-inner">
+						
+<div class="badge-container absolute left top z-1">
+<div class="badge callout badge-circle"><div class="badge-inner callout-new-bg is-small new-bubble">Nuevo</div></div></div>
+						<div class="product-small box has-hover box-bounce box-text-bottom">
+							<div class="box-image" >
+								<div class="image-cover" style="padding-top:100%;">
+									<a href="http://local.holy.com/tienda/plancha-remigton-color-protection/">
+										<img width="600" height="600" src="http://local.holy.com/wp-content/uploads/2019/07/COLOR-PROTECTION.jpg" class="attachment-original size-original" alt="" />									</a>
+																		 								</div>
+								<div class="image-tools top right show-on-hover">
+											<div class="wishlist-icon">
+			<button class="wishlist-button button is-outline circle icon">
+				<i class="icon-heart" ></i>			</button>
+			<div class="wishlist-popup dark">
+				
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-125817">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/?add_to_wishlist=125817" rel="nofollow" data-product-id="125817" data-product-type="simple" class="add_to_wishlist" >
+        Añadir a la lista de deseos</a>
+<img src="http://local.holy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Producto añadido!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">El producto ya está en la lista de deseos!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>			</div>
+		</div>
+										</div>
+																	<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+																			</div>
+																							</div><!-- box-image -->
+
+							<div class="box-text text-center" >
+								<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			ACCESORIOS		</p>
+	<p class="name product-title"><a href="http://local.holy.com/tienda/plancha-remigton-color-protection/">PLANCHA REMIGTON COLOR PROTECTION</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>140.000</span></span>
+</div><div class="add-to-cart-button"><a href="/?add-to-cart=125817" rel="nofollow" data-product_id="125817" class="ajax_add_to_cart add_to_cart_button product_type_simple button primary is-flat mb-0 is-small">Añadir al carrito</a></div>							</div><!-- box-text -->
+						</div><!-- box -->
+						</div><!-- .col-inner -->
+					</div><!-- col -->
+						            
+						            	
+	            	<div class="col" >
+						<div class="col-inner">
+						
+<div class="badge-container absolute left top z-1">
+<div class="badge callout badge-circle"><div class="badge-inner callout-new-bg is-small new-bubble">Nuevo</div></div></div>
+						<div class="product-small box has-hover box-bounce box-text-bottom">
+							<div class="box-image" >
+								<div class="image-cover" style="padding-top:100%;">
+									<a href="http://local.holy.com/tienda/plancha-remington-triple-infusion/">
+										<img width="600" height="600" src="http://local.holy.com/wp-content/uploads/2019/07/PLANCHA-REMINGTON-TRIPLE-INFUSION-HOLY-COSMETICS.jpg" class="attachment-original size-original" alt="" />									</a>
+																		 								</div>
+								<div class="image-tools top right show-on-hover">
+											<div class="wishlist-icon">
+			<button class="wishlist-button button is-outline circle icon">
+				<i class="icon-heart" ></i>			</button>
+			<div class="wishlist-popup dark">
+				
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-125798">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/?add_to_wishlist=125798" rel="nofollow" data-product-id="125798" data-product-type="simple" class="add_to_wishlist" >
+        Añadir a la lista de deseos</a>
+<img src="http://local.holy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Producto añadido!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">El producto ya está en la lista de deseos!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>			</div>
+		</div>
+										</div>
+																	<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+																			</div>
+																							</div><!-- box-image -->
+
+							<div class="box-text text-center" >
+								<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			ACCESORIOS		</p>
+	<p class="name product-title"><a href="http://local.holy.com/tienda/plancha-remington-triple-infusion/">PLANCHA REMINGTON TRIPLE INFUSION</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>170.000</span></span>
+</div><div class="add-to-cart-button"><a href="/?add-to-cart=125798" rel="nofollow" data-product_id="125798" class="ajax_add_to_cart add_to_cart_button product_type_simple button primary is-flat mb-0 is-small">Añadir al carrito</a></div>							</div><!-- box-text -->
+						</div><!-- box -->
+						</div><!-- .col-inner -->
+					</div><!-- col -->
+						            
+						            	
+	            	<div class="col" >
+						<div class="col-inner">
+						
+<div class="badge-container absolute left top z-1">
+<div class="badge callout badge-circle"><div class="badge-inner callout-new-bg is-small new-bubble">Nuevo</div></div></div>
+						<div class="product-small box has-hover box-bounce box-text-bottom">
+							<div class="box-image" >
+								<div class="image-cover" style="padding-top:100%;">
+									<a href="http://local.holy.com/tienda/pulpo-facial/">
+										<img width="600" height="600" src="http://local.holy.com/wp-content/uploads/2019/05/PULPO-FACIAL-.jpg" class="attachment-original size-original" alt="" srcset="http://local.holy.com/wp-content/uploads/2019/05/PULPO-FACIAL-.jpg 600w, http://local.holy.com/wp-content/uploads/2019/05/PULPO-FACIAL--small.jpg 300w, http://local.holy.com/wp-content/uploads/2019/05/PULPO-FACIAL--510x510.jpg 510w, http://local.holy.com/wp-content/uploads/2019/05/PULPO-FACIAL--100x100.jpg 100w" sizes="(max-width: 600px) 100vw, 600px" />									</a>
+																		 								</div>
+								<div class="image-tools top right show-on-hover">
+											<div class="wishlist-icon">
+			<button class="wishlist-button button is-outline circle icon">
+				<i class="icon-heart" ></i>			</button>
+			<div class="wishlist-popup dark">
+				
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-124951">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/?add_to_wishlist=124951" rel="nofollow" data-product-id="124951" data-product-type="simple" class="add_to_wishlist" >
+        Añadir a la lista de deseos</a>
+<img src="http://local.holy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Producto añadido!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">El producto ya está en la lista de deseos!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>			</div>
+		</div>
+										</div>
+																	<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+																			</div>
+																							</div><!-- box-image -->
+
+							<div class="box-text text-center" >
+								<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			ROSTRO		</p>
+	<p class="name product-title"><a href="http://local.holy.com/tienda/pulpo-facial/">PULPO FACIAL</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>7.000</span></span>
+</div><div class="add-to-cart-button"><a href="/?add-to-cart=124951" rel="nofollow" data-product_id="124951" class="ajax_add_to_cart add_to_cart_button product_type_simple button primary is-flat mb-0 is-small">Añadir al carrito</a></div>							</div><!-- box-text -->
+						</div><!-- box -->
+						</div><!-- .col-inner -->
+					</div><!-- col -->
+						            
+						            	
+	            	<div class="col" >
+						<div class="col-inner">
+						
+<div class="badge-container absolute left top z-1">
+<div class="badge callout badge-circle"><div class="badge-inner callout-new-bg is-small new-bubble">Nuevo</div></div></div>
+						<div class="product-small box has-hover box-bounce box-text-bottom">
+							<div class="box-image" >
+								<div class="image-cover" style="padding-top:100%;">
+									<a href="http://local.holy.com/tienda/pegante-para-pestanas-duo/">
+										<img width="600" height="600" src="http://local.holy.com/wp-content/uploads/2019/07/Pegante-para-pestañas-duo-holy-cosmetics.jpg" class="attachment-original size-original" alt="" />									</a>
+																		 								</div>
+								<div class="image-tools top right show-on-hover">
+											<div class="wishlist-icon">
+			<button class="wishlist-button button is-outline circle icon">
+				<i class="icon-heart" ></i>			</button>
+			<div class="wishlist-popup dark">
+				
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-124783">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/?add_to_wishlist=124783" rel="nofollow" data-product-id="124783" data-product-type="simple" class="add_to_wishlist" >
+        Añadir a la lista de deseos</a>
+<img src="http://local.holy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Producto añadido!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">El producto ya está en la lista de deseos!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>			</div>
+		</div>
+										</div>
+																	<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+																			</div>
+																<div class="out-of-stock-label">Agotado</div>							</div><!-- box-image -->
+
+							<div class="box-text text-center" >
+								<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			OJOS		</p>
+	<p class="name product-title"><a href="http://local.holy.com/tienda/pegante-para-pestanas-duo/">PEGANTE PARA PESTAÑAS DUO</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>25.000</span></span>
+</div><div class="add-to-cart-button"><a href="http://local.holy.com/tienda/pegante-para-pestanas-duo/" rel="nofollow" data-product_id="124783" class="ajax_add_to_cart  product_type_simple button primary is-flat mb-0 is-small">Leer más</a></div>							</div><!-- box-text -->
+						</div><!-- box -->
+						</div><!-- .col-inner -->
+					</div><!-- col -->
+						            
+						            	
+	            	<div class="col" >
+						<div class="col-inner">
+						
+<div class="badge-container absolute left top z-1">
+<div class="badge callout badge-circle"><div class="badge-inner callout-new-bg is-small new-bubble">Nuevo</div></div></div>
+						<div class="product-small box has-hover box-bounce box-text-bottom">
+							<div class="box-image" >
+								<div class="image-cover" style="padding-top:100%;">
+									<a href="http://local.holy.com/tienda/sombra-cryptic/">
+										<img width="600" height="600" src="http://local.holy.com/wp-content/uploads/2019/07/cryptic.jpg" class="attachment-original size-original" alt="" />									</a>
+																		 								</div>
+								<div class="image-tools top right show-on-hover">
+											<div class="wishlist-icon">
+			<button class="wishlist-button button is-outline circle icon">
+				<i class="icon-heart" ></i>			</button>
+			<div class="wishlist-popup dark">
+				
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-124707">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/?add_to_wishlist=124707" rel="nofollow" data-product-id="124707" data-product-type="simple" class="add_to_wishlist" >
+        Añadir a la lista de deseos</a>
+<img src="http://local.holy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Producto añadido!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">El producto ya está en la lista de deseos!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>			</div>
+		</div>
+										</div>
+																	<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+																			</div>
+																							</div><!-- box-image -->
+
+							<div class="box-text text-center" >
+								<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			OJOS		</p>
+	<p class="name product-title"><a href="http://local.holy.com/tienda/sombra-cryptic/">SOMBRA CRYPTIC</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>48.000</span></span>
+</div><div class="add-to-cart-button"><a href="/?add-to-cart=124707" rel="nofollow" data-product_id="124707" class="ajax_add_to_cart add_to_cart_button product_type_simple button primary is-flat mb-0 is-small">Añadir al carrito</a></div>							</div><!-- box-text -->
+						</div><!-- box -->
+						</div><!-- .col-inner -->
+					</div><!-- col -->
+						            
+						            	
+	            	<div class="col" >
+						<div class="col-inner">
+						
+<div class="badge-container absolute left top z-1">
+<div class="badge callout badge-circle"><div class="badge-inner callout-new-bg is-small new-bubble">Nuevo</div></div></div>
+						<div class="product-small box has-hover box-bounce box-text-bottom">
+							<div class="box-image" >
+								<div class="image-cover" style="padding-top:100%;">
+									<a href="http://local.holy.com/tienda/iluminadores-island-paradise/">
+										<img width="600" height="600" src="http://local.holy.com/wp-content/uploads/2019/07/ISLAND-PARADISE-KARA-BEAUTY-HOLY-COSMETICS.jpg" class="attachment-original size-original" alt="" />									</a>
+																		 								</div>
+								<div class="image-tools top right show-on-hover">
+											<div class="wishlist-icon">
+			<button class="wishlist-button button is-outline circle icon">
+				<i class="icon-heart" ></i>			</button>
+			<div class="wishlist-popup dark">
+				
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-124687">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/?add_to_wishlist=124687" rel="nofollow" data-product-id="124687" data-product-type="simple" class="add_to_wishlist" >
+        Añadir a la lista de deseos</a>
+<img src="http://local.holy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Producto añadido!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">El producto ya está en la lista de deseos!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>			</div>
+		</div>
+										</div>
+																	<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+																			</div>
+																							</div><!-- box-image -->
+
+							<div class="box-text text-center" >
+								<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			ROSTRO		</p>
+	<p class="name product-title"><a href="http://local.holy.com/tienda/iluminadores-island-paradise/">ILUMINADORES ISLAND PARADISE</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>60.000</span></span>
+</div><div class="add-to-cart-button"><a href="/?add-to-cart=124687" rel="nofollow" data-product_id="124687" class="ajax_add_to_cart add_to_cart_button product_type_simple button primary is-flat mb-0 is-small">Añadir al carrito</a></div>							</div><!-- box-text -->
+						</div><!-- box -->
+						</div><!-- .col-inner -->
+					</div><!-- col -->
+						            
+						            	
+	            	<div class="col" >
+						<div class="col-inner">
+						
+<div class="badge-container absolute left top z-1">
+<div class="badge callout badge-circle"><div class="badge-inner callout-new-bg is-small new-bubble">Nuevo</div></div></div>
+						<div class="product-small box has-hover box-bounce box-text-bottom">
+							<div class="box-image" >
+								<div class="image-cover" style="padding-top:100%;">
+									<a href="http://local.holy.com/tienda/crystal-lip-glaze/">
+										<img width="600" height="600" src="http://local.holy.com/wp-content/uploads/2019/07/CRYSTAL-LIP-GLAZE-HOLY-COSMETICS-WEB.jpg" class="attachment-original size-original" alt="" />									</a>
+																		 								</div>
+								<div class="image-tools top right show-on-hover">
+											<div class="wishlist-icon">
+			<button class="wishlist-button button is-outline circle icon">
+				<i class="icon-heart" ></i>			</button>
+			<div class="wishlist-popup dark">
+				
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-124685">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/?add_to_wishlist=124685" rel="nofollow" data-product-id="124685" data-product-type="simple" class="add_to_wishlist" >
+        Añadir a la lista de deseos</a>
+<img src="http://local.holy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Producto añadido!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">El producto ya está en la lista de deseos!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>			</div>
+		</div>
+										</div>
+																	<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+																			</div>
+																							</div><!-- box-image -->
+
+							<div class="box-text text-center" >
+								<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			LABIOS		</p>
+	<p class="name product-title"><a href="http://local.holy.com/tienda/crystal-lip-glaze/">CRYSTAL LIP GLAZE (gloss)</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>7.000</span></span>
+</div><div class="add-to-cart-button"><a href="/?add-to-cart=124685" rel="nofollow" data-product_id="124685" class="ajax_add_to_cart add_to_cart_button product_type_simple button primary is-flat mb-0 is-small">Añadir al carrito</a></div>							</div><!-- box-text -->
+						</div><!-- box -->
+						</div><!-- .col-inner -->
+					</div><!-- col -->
+						            
+						            	
+	            	<div class="col" >
+						<div class="col-inner">
+						
+<div class="badge-container absolute left top z-1">
+<div class="badge callout badge-circle"><div class="badge-inner callout-new-bg is-small new-bubble">Nuevo</div></div></div>
+						<div class="product-small box has-hover box-bounce box-text-bottom">
+							<div class="box-image" >
+								<div class="image-cover" style="padding-top:100%;">
+									<a href="http://local.holy.com/tienda/coconut-lip-mask/">
+										<img width="600" height="600" src="http://local.holy.com/wp-content/uploads/2019/07/COCONUT-LIP-MASK-HOLY-COSMETICS-WEB.jpg" class="attachment-original size-original" alt="" />									</a>
+																		 								</div>
+								<div class="image-tools top right show-on-hover">
+											<div class="wishlist-icon">
+			<button class="wishlist-button button is-outline circle icon">
+				<i class="icon-heart" ></i>			</button>
+			<div class="wishlist-popup dark">
+				
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-124670">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/?add_to_wishlist=124670" rel="nofollow" data-product-id="124670" data-product-type="simple" class="add_to_wishlist" >
+        Añadir a la lista de deseos</a>
+<img src="http://local.holy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Producto añadido!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">El producto ya está en la lista de deseos!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>			</div>
+		</div>
+										</div>
+																	<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+																			</div>
+																							</div><!-- box-image -->
+
+							<div class="box-text text-center" >
+								<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			LABIOS		</p>
+	<p class="name product-title"><a href="http://local.holy.com/tienda/coconut-lip-mask/">COCONUT LIP MASK (balsamo para labios)</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>12.000</span></span>
+</div><div class="add-to-cart-button"><a href="/?add-to-cart=124670" rel="nofollow" data-product_id="124670" class="ajax_add_to_cart add_to_cart_button product_type_simple button primary is-flat mb-0 is-small">Añadir al carrito</a></div>							</div><!-- box-text -->
+						</div><!-- box -->
+						</div><!-- .col-inner -->
+					</div><!-- col -->
+						            
+						            	
+	            	<div class="col" >
+						<div class="col-inner">
+						
+<div class="badge-container absolute left top z-1">
+<div class="badge callout badge-circle"><div class="badge-inner callout-new-bg is-small new-bubble">Nuevo</div></div></div>
+						<div class="product-small box has-hover box-bounce box-text-bottom">
+							<div class="box-image" >
+								<div class="image-cover" style="padding-top:100%;">
+									<a href="http://local.holy.com/tienda/sombra-giltter-unicorn-dream/">
+										<img width="600" height="600" src="http://local.holy.com/wp-content/uploads/2019/07/UNICORN-DREAM-.jpg" class="attachment-original size-original" alt="" />									</a>
+																		 								</div>
+								<div class="image-tools top right show-on-hover">
+											<div class="wishlist-icon">
+			<button class="wishlist-button button is-outline circle icon">
+				<i class="icon-heart" ></i>			</button>
+			<div class="wishlist-popup dark">
+				
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-124665">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/?add_to_wishlist=124665" rel="nofollow" data-product-id="124665" data-product-type="simple" class="add_to_wishlist" >
+        Añadir a la lista de deseos</a>
+<img src="http://local.holy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Producto añadido!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">El producto ya está en la lista de deseos!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>			</div>
+		</div>
+										</div>
+																	<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+																			</div>
+																							</div><!-- box-image -->
+
+							<div class="box-text text-center" >
+								<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			OJOS		</p>
+	<p class="name product-title"><a href="http://local.holy.com/tienda/sombra-giltter-unicorn-dream/">SOMBRA GILTTER UNICORN DREAM</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>45.000</span></span>
+</div><div class="add-to-cart-button"><a href="/?add-to-cart=124665" rel="nofollow" data-product_id="124665" class="ajax_add_to_cart add_to_cart_button product_type_simple button primary is-flat mb-0 is-small">Añadir al carrito</a></div>							</div><!-- box-text -->
+						</div><!-- box -->
+						</div><!-- .col-inner -->
+					</div><!-- col -->
+						            
+						            	
+	            	<div class="col" >
+						<div class="col-inner">
+						
+<div class="badge-container absolute left top z-1">
+<div class="badge callout badge-circle"><div class="badge-inner callout-new-bg is-small new-bubble">Nuevo</div></div></div>
+						<div class="product-small box has-hover box-bounce box-text-bottom">
+							<div class="box-image" >
+								<div class="image-cover" style="padding-top:100%;">
+									<a href="http://local.holy.com/tienda/sombras-ceste-la-vie/">
+										<img width="600" height="600" src="http://local.holy.com/wp-content/uploads/2019/07/C’-este-lavie-holy-cosmetics.jpg" class="attachment-original size-original" alt="" />									</a>
+																		 								</div>
+								<div class="image-tools top right show-on-hover">
+											<div class="wishlist-icon">
+			<button class="wishlist-button button is-outline circle icon">
+				<i class="icon-heart" ></i>			</button>
+			<div class="wishlist-popup dark">
+				
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-124592">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/?add_to_wishlist=124592" rel="nofollow" data-product-id="124592" data-product-type="simple" class="add_to_wishlist" >
+        Añadir a la lista de deseos</a>
+<img src="http://local.holy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Producto añadido!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">El producto ya está en la lista de deseos!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>			</div>
+		</div>
+										</div>
+																	<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+																			</div>
+																							</div><!-- box-image -->
+
+							<div class="box-text text-center" >
+								<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			OJOS		</p>
+	<p class="name product-title"><a href="http://local.holy.com/tienda/sombras-ceste-la-vie/">SOMBRA C’ESTE LA VIE</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>70.000</span></span>
+</div><div class="add-to-cart-button"><a href="/?add-to-cart=124592" rel="nofollow" data-product_id="124592" class="ajax_add_to_cart add_to_cart_button product_type_simple button primary is-flat mb-0 is-small">Añadir al carrito</a></div>							</div><!-- box-text -->
+						</div><!-- box -->
+						</div><!-- .col-inner -->
+					</div><!-- col -->
+						            
+						            	
+	            	<div class="col" >
+						<div class="col-inner">
+						
+<div class="badge-container absolute left top z-1">
+<div class="badge callout badge-circle"><div class="badge-inner callout-new-bg is-small new-bubble">Nuevo</div></div></div>
+						<div class="product-small box has-hover box-bounce box-text-bottom">
+							<div class="box-image" >
+								<div class="image-cover" style="padding-top:100%;">
+									<a href="http://local.holy.com/tienda/wishes-do-come-tru-glow-primer-oil/">
+										<img width="600" height="600" src="http://local.holy.com/wp-content/uploads/2019/07/PRIMER-EN-ACEITE-RUDE-COSMETICS-ROSE-GOLD-.jpg" class="attachment-original size-original" alt="" />									</a>
+																		 								</div>
+								<div class="image-tools top right show-on-hover">
+											<div class="wishlist-icon">
+			<button class="wishlist-button button is-outline circle icon">
+				<i class="icon-heart" ></i>			</button>
+			<div class="wishlist-popup dark">
+				
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-122761">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/?add_to_wishlist=122761" rel="nofollow" data-product-id="122761" data-product-type="simple" class="add_to_wishlist" >
+        Añadir a la lista de deseos</a>
+<img src="http://local.holy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Producto añadido!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">El producto ya está en la lista de deseos!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>			</div>
+		</div>
+										</div>
+																	<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+																			</div>
+																							</div><!-- box-image -->
+
+							<div class="box-text text-center" >
+								<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			ROSTRO		</p>
+	<p class="name product-title"><a href="http://local.holy.com/tienda/wishes-do-come-tru-glow-primer-oil/">WISHES DO COME TRU GLOW (PRIMER OIL)</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>35.000</span></span>
+</div><div class="add-to-cart-button"><a href="/?add-to-cart=122761" rel="nofollow" data-product_id="122761" class="ajax_add_to_cart add_to_cart_button product_type_simple button primary is-flat mb-0 is-small">Añadir al carrito</a></div>							</div><!-- box-text -->
+						</div><!-- box -->
+						</div><!-- .col-inner -->
+					</div><!-- col -->
+						            
+						            	
+	            	<div class="col" >
+						<div class="col-inner">
+						
+<div class="badge-container absolute left top z-1">
+<div class="badge callout badge-circle"><div class="badge-inner callout-new-bg is-small new-bubble">Nuevo</div></div></div>
+						<div class="product-small box has-hover box-bounce box-text-bottom">
+							<div class="box-image" >
+								<div class="image-cover" style="padding-top:100%;">
+									<a href="http://local.holy.com/tienda/bubblelicious-exfoliante-para-labios/">
+										<img width="600" height="600" src="http://local.holy.com/wp-content/uploads/2019/07/exfoliante-de-labios-rude-comsetics-holy-cosmetics-.jpg" class="attachment-original size-original" alt="" />									</a>
+																		 								</div>
+								<div class="image-tools top right show-on-hover">
+											<div class="wishlist-icon">
+			<button class="wishlist-button button is-outline circle icon">
+				<i class="icon-heart" ></i>			</button>
+			<div class="wishlist-popup dark">
+				
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-122756">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/?add_to_wishlist=122756" rel="nofollow" data-product-id="122756" data-product-type="simple" class="add_to_wishlist" >
+        Añadir a la lista de deseos</a>
+<img src="http://local.holy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Producto añadido!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">El producto ya está en la lista de deseos!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>			</div>
+		</div>
+										</div>
+																	<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+																			</div>
+																							</div><!-- box-image -->
+
+							<div class="box-text text-center" >
+								<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			LABIOS		</p>
+	<p class="name product-title"><a href="http://local.holy.com/tienda/bubblelicious-exfoliante-para-labios/">Bubblelicious (EXFOLIANTE PARA LABIOS)</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>25.000</span></span>
+</div><div class="add-to-cart-button"><a href="/?add-to-cart=122756" rel="nofollow" data-product_id="122756" class="ajax_add_to_cart add_to_cart_button product_type_simple button primary is-flat mb-0 is-small">Añadir al carrito</a></div>							</div><!-- box-text -->
+						</div><!-- box -->
+						</div><!-- .col-inner -->
+					</div><!-- col -->
+						            
+						            	
+	            	<div class="col" >
+						<div class="col-inner">
+						
+<div class="badge-container absolute left top z-1">
+		<div class="callout badge badge-circle"><div class="badge-inner secondary on-sale"><span class="onsale">-30%</span></div></div>
+<div class="badge callout badge-circle"><div class="badge-inner callout-new-bg is-small new-bubble">Nuevo</div></div></div>
+						<div class="product-small box has-hover box-bounce box-text-bottom">
+							<div class="box-image" >
+								<div class="image-cover" style="padding-top:100%;">
+									<a href="http://local.holy.com/tienda/sombra-irresistible/">
+										<img width="1800" height="1800" src="http://local.holy.com/wp-content/uploads/2019/07/Irresistible-1_1800x.jpg" class="attachment-original size-original" alt="" />									</a>
+																		 								</div>
+								<div class="image-tools top right show-on-hover">
+											<div class="wishlist-icon">
+			<button class="wishlist-button button is-outline circle icon">
+				<i class="icon-heart" ></i>			</button>
+			<div class="wishlist-popup dark">
+				
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-122746">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/?add_to_wishlist=122746" rel="nofollow" data-product-id="122746" data-product-type="simple" class="add_to_wishlist" >
+        Añadir a la lista de deseos</a>
+<img src="http://local.holy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Producto añadido!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">El producto ya está en la lista de deseos!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>			</div>
+		</div>
+										</div>
+																	<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+																			</div>
+																							</div><!-- box-image -->
+
+							<div class="box-text text-center" >
+								<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			OJOS		</p>
+	<p class="name product-title"><a href="http://local.holy.com/tienda/sombra-irresistible/">SOMBRA IRRESISTIBLE</a></p></div><div class="price-wrapper">
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>40.000</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>28.000</span></ins></span>
+</div><div class="add-to-cart-button"><a href="/?add-to-cart=122746" rel="nofollow" data-product_id="122746" class="ajax_add_to_cart add_to_cart_button product_type_simple button primary is-flat mb-0 is-small">Añadir al carrito</a></div>							</div><!-- box-text -->
+						</div><!-- box -->
+						</div><!-- .col-inner -->
+					</div><!-- col -->
+						            
+						            	
+	            	<div class="col" >
+						<div class="col-inner">
+						
+<div class="badge-container absolute left top z-1">
+<div class="badge callout badge-circle"><div class="badge-inner callout-new-bg is-small new-bubble">Nuevo</div></div></div>
+						<div class="product-small box has-hover box-bounce box-text-bottom">
+							<div class="box-image" >
+								<div class="image-cover" style="padding-top:100%;">
+									<a href="http://local.holy.com/tienda/sombra-sweet-paradise/">
+										<img width="600" height="600" src="http://local.holy.com/wp-content/uploads/2019/07/moira-swete-paradise-holy-cosmetics.jpg" class="attachment-original size-original" alt="" />									</a>
+																		 								</div>
+								<div class="image-tools top right show-on-hover">
+											<div class="wishlist-icon">
+			<button class="wishlist-button button is-outline circle icon">
+				<i class="icon-heart" ></i>			</button>
+			<div class="wishlist-popup dark">
+				
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-122740">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/?add_to_wishlist=122740" rel="nofollow" data-product-id="122740" data-product-type="simple" class="add_to_wishlist" >
+        Añadir a la lista de deseos</a>
+<img src="http://local.holy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Producto añadido!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">El producto ya está en la lista de deseos!</span>
+	        <a href="/" rel="nofollow">
+	            Navegar por Lista de Deseos	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>			</div>
+		</div>
+										</div>
+																	<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+																			</div>
+																							</div><!-- box-image -->
+
+							<div class="box-text text-center" >
+								<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			OJOS		</p>
+	<p class="name product-title"><a href="http://local.holy.com/tienda/sombra-sweet-paradise/">SOMBRA SWEET PARADISE</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>80.000</span></span>
+</div><div class="add-to-cart-button"><a href="/?add-to-cart=122740" rel="nofollow" data-product_id="122740" class="ajax_add_to_cart add_to_cart_button product_type_simple button primary is-flat mb-0 is-small">Añadir al carrito</a></div>							</div><!-- box-text -->
+						</div><!-- box -->
+						</div><!-- .col-inner -->
+					</div><!-- col -->
+						            
+	        </div>
+<div class="row row-collapse align-middle align-center"  id="row-1031942768">
+<div class="col small-12 large-12"  ><div class="col-inner text-center"  >
+<a href="/tienda" target="_self" class="button primary"  style="border-radius:30px;">
+    <span>VER TODOS LOS PRODUCTOS</span>
+  </a>
+
+</div></div>
+
+<style scope="scope">
+
+</style>
+</div>
+		</div><!-- .section-content -->
+
+		
+<style scope="scope">
+
+#section_174489155 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+</style>
+	</section>
+	
+	<section class="section" id="section_1394819249">
+		<div class="bg section-bg fill bg-fill bg-loaded bg-loaded" >
+
+			
+			
+			
+
+		</div><!-- .section-bg -->
+
+		<div class="section-content relative">
+			
+<div class="container section-title-container" style="margin-top:10px;"><h3 class="section-title section-title-bold-center"><b></b><span class="section-title-main" >Reseñas</span><b></b></h3></div><!-- .section-title -->
+<div class="row"  id="row-328840789">
+<div class="col small-12 large-12"  ><div class="col-inner"  >
+<div class="slider-wrapper relative " id="slider-1474038140" >
+    <div class="slider slider-nav-circle slider-nav-large slider-nav-dark slider-nav-outside slider-style-normal slider-show-nav"
+        data-flickity-options='{
+            "cellAlign": "center",
+            "imagesLoaded": true,
+            "lazyLoad": 1,
+            "freeScroll": false,
+            "wrapAround": true,
+            "autoPlay": 6000,
+            "pauseAutoPlayOnHover" : true,
+            "prevNextButtons": true,
+            "contain" : true,
+            "adaptiveHeight" : true,
+            "dragThreshold" : 10,
+            "percentPosition": true,
+            "pageDots": true,
+            "rightToLeft": false,
+            "draggable": true,
+            "selectedAttraction": 0.1,
+            "parallax" : 0,
+            "friction": 0.6        }'
+        >
+        
+<div class="row"  id="row-919607729">
+<div class="col medium-4 small-12 large-4"  ><div class="col-inner"  >
+  <div class="icon-box testimonial-box icon-box-center text-center is-large">
+                <div class="icon-box-img testimonial-image circle" style="width: 121px">
+                      </div>
+                <div class="icon-box-text p-last-0">
+          <div class="star-rating"><span style="width:100%"><strong class="rating"></strong></span></div>  				<div class="testimonial-text line-height-small italic test_text first-reset last-reset is-italic">
+            
+<p>Muchas gracias por su servicio,<br />
+me llegó justo a tiempo todos los productos ¡Me encantaron!</p>
+          </div>
+          <div class="testimonial-meta pt-half">
+             <strong class="testimonial-name test_name">María Camila</strong>
+             <span class="testimonial-name-divider"> / </span>             <span class="testimonial-company test_company">Santander</span>
+          </div>
+        </div>
+  </div><!-- .icon-box -->
+
+  
+</div></div>
+<div class="col medium-4 small-12 large-4"  ><div class="col-inner"  >
+  <div class="icon-box testimonial-box icon-box-center text-center is-large">
+                <div class="icon-box-img testimonial-image circle" style="width: 121px">
+                      </div>
+                <div class="icon-box-text p-last-0">
+          <div class="star-rating"><span style="width:100%"><strong class="rating"></strong></span></div>  				<div class="testimonial-text line-height-small italic test_text first-reset last-reset is-italic">
+            
+<p>Me encantó el maquillaje, voy a volver a comprar ya que son muy serios y seguros, espero más promociones.</p>
+          </div>
+          <div class="testimonial-meta pt-half">
+             <strong class="testimonial-name test_name">Sofia</strong>
+             <span class="testimonial-name-divider"> / </span>             <span class="testimonial-company test_company">Putumayo</span>
+          </div>
+        </div>
+  </div><!-- .icon-box -->
+
+  
+</div></div>
+<div class="col medium-4 small-12 large-4"  ><div class="col-inner"  >
+  <div class="icon-box testimonial-box icon-box-center text-center is-large">
+                <div class="icon-box-img testimonial-image circle" style="width: 121px">
+                      </div>
+                <div class="icon-box-text p-last-0">
+          <div class="star-rating"><span style="width:100%"><strong class="rating"></strong></span></div>  				<div class="testimonial-text line-height-small italic test_text first-reset last-reset is-italic">
+            
+<p>Gracias me gusto muchisimo todo lo que compré, estuvo todo rápido seguro, se lo recomendaré a todas mis amigas.</p>
+          </div>
+          <div class="testimonial-meta pt-half">
+             <strong class="testimonial-name test_name">Angelica</strong>
+             <span class="testimonial-name-divider"> / </span>             <span class="testimonial-company test_company">Valle del Cauca</span>
+          </div>
+        </div>
+  </div><!-- .icon-box -->
+
+  
+</div></div>
+</div>
+<div class="row"  id="row-105870930">
+<div class="col medium-4 small-12 large-4"  ><div class="col-inner"  >
+  <div class="icon-box testimonial-box icon-box-center text-center is-large">
+                <div class="icon-box-img testimonial-image circle" style="width: 121px">
+                      </div>
+                <div class="icon-box-text p-last-0">
+          <div class="star-rating"><span style="width:100%"><strong class="rating"></strong></span></div>  				<div class="testimonial-text line-height-small italic test_text first-reset last-reset is-italic">
+            
+<p>Me encantaron todos los productos tienen unos excelentes precios y son super seguros, gracias!</p>
+          </div>
+          <div class="testimonial-meta pt-half">
+             <strong class="testimonial-name test_name">Carla</strong>
+             <span class="testimonial-name-divider"> / </span>             <span class="testimonial-company test_company">Bogóta</span>
+          </div>
+        </div>
+  </div><!-- .icon-box -->
+
+  
+</div></div>
+<div class="col medium-4 small-12 large-4"  ><div class="col-inner"  >
+  <div class="icon-box testimonial-box icon-box-center text-center is-large">
+                <div class="icon-box-img testimonial-image circle" style="width: 121px">
+                      </div>
+                <div class="icon-box-text p-last-0">
+          <div class="star-rating"><span style="width:100%"><strong class="rating"></strong></span></div>  				<div class="testimonial-text line-height-small italic test_text first-reset last-reset is-italic">
+            
+<p>Son la mejor página de cosméticos que he encontrado,<br />
+los he recomendado a todas mis amigas.</p>
+          </div>
+          <div class="testimonial-meta pt-half">
+             <strong class="testimonial-name test_name">Juliana</strong>
+             <span class="testimonial-name-divider"> / </span>             <span class="testimonial-company test_company">Cartagena</span>
+          </div>
+        </div>
+  </div><!-- .icon-box -->
+
+  
+</div></div>
+<div class="col medium-4 small-12 large-4"  ><div class="col-inner"  >
+  <div class="icon-box testimonial-box icon-box-center text-center is-large">
+                <div class="icon-box-img testimonial-image circle" style="width: 121px">
+                      </div>
+                <div class="icon-box-text p-last-0">
+          <div class="star-rating"><span style="width:100%"><strong class="rating"></strong></span></div>  				<div class="testimonial-text line-height-small italic test_text first-reset last-reset is-italic">
+            
+<p>Lo que más me gusto fue el servicio al cliente, me atendieron muy bien y el producto me llegó rápido a mi casa, totalmente recomendado!!!</p>
+          </div>
+          <div class="testimonial-meta pt-half">
+             <strong class="testimonial-name test_name">Viviana</strong>
+             <span class="testimonial-name-divider"> / </span>             <span class="testimonial-company test_company">Pasto</span>
+          </div>
+        </div>
+  </div><!-- .icon-box -->
+
+  
+</div></div>
+</div>
+     </div>
+
+     <div class="loading-spin dark large centered"></div>
+
+     <style scope="scope">
+             </style>
+</div><!-- .ux-slider-wrapper -->
+
+
+</div></div>
+</div>
+		</div><!-- .section-content -->
+
+		
+<style scope="scope">
+
+#section_1394819249 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+</style>
+	</section>
+	
+<div class="container section-title-container" style="margin-top:10px;"><h3 class="section-title section-title-bold-center"><b></b><span class="section-title-main" >Síguenos en Instagram</span><b></b></h3></div><!-- .section-title -->
+
+  
+    <div class="row large-columns-6 medium-columns-3 small-columns-2 row-collapse row-full-width slider row-slider slider-nav-light"  data-flickity-options='{"imagesLoaded": true, "groupCells": "100%", "dragThreshold" : 5, "cellAlign": "left","wrapAround": true,"prevNextButtons": true,"percentPosition": true,"pageDots": false, "rightToLeft": false, "autoPlay" : false}'>
+
+  <div class="col"><div class="col-inner">				<div class="img has-hover no-overflow" id="instagram-989273766">
+					<div class="dark instagram-image-container image-overlay-remove">
+						<a href="//instagram.com/p/B0olXyzgE9V/" target="_blank" rel="noopener noreferrer" class="plain">
+							<img src="https://scontent-iad3-1.cdninstagram.com/vp/d2994fc9b03a9f883ae5045a1eed3e8a/5DD870A7/t51.2885-15/e35/s320x320/66639491_729980630766633_7480206761157115735_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com" alt="🚨GRATIS🚨
+POR COMPRAS IGUALES O MAYORES A $100.000 TE REGALAMOS ESTAS BROCHAS (01/08-08/19)
+#holycosmetics" />																						<div class="caption">🚨GRATIS🚨
+POR COMPRAS IGUALES O MAYORES A $100.000 TE REGALAMOS ESTAS BROCHAS (01/08-08/19)
+#holycosmetics</div>
+													</a>
+					</div>
+				</div>
+				</div></div><div class="col"><div class="col-inner">				<div class="img has-hover no-overflow" id="instagram-989273766">
+					<div class="dark instagram-image-container image-overlay-remove">
+						<a href="//instagram.com/p/B0oA4QaAQ5J/" target="_blank" rel="noopener noreferrer" class="plain">
+							<img src="https://scontent-iad3-1.cdninstagram.com/vp/9d16853fba18fb27485aaaff1f3bf629/5DD7122C/t51.2885-15/e35/s320x320/66607942_917647628573212_2174173787825457432_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com" alt="CELEBRA CON NOSOTROS ✨ SOMOS 100K 🎉📣
+20% de descuento en todas nuestras Mascarillas (01-08/08/19) 💕
+WWW.HOLYCOSMETICS.COM.CO 💻 
+#holycosmetics" />																						<div class="caption">CELEBRA CON NOSOTROS ✨ SOMOS 100K 🎉📣
+20% de descuento en todas nuestras Mascarillas (01-08/08/19) 💕
+WWW.HOLYCOSMETICS.COM.CO 💻 
+#holycosmetics</div>
+													</a>
+					</div>
+				</div>
+				</div></div><div class="col"><div class="col-inner">				<div class="img has-hover no-overflow" id="instagram-989273766">
+					<div class="dark instagram-image-container image-overlay-remove">
+						<a href="//instagram.com/p/B0mCM7NAeko/" target="_blank" rel="noopener noreferrer" class="plain">
+							<img src="https://scontent-iad3-1.cdninstagram.com/vp/50834b20d7d014ac9c381d09e8c8b915/5DDA2383/t51.2885-15/e35/s320x320/65861296_161581878226941_7829129614657479641_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com" alt="🚨PROMO DEL DÍA 🚨LLEVA ESTA PALETA EN $28.000 📣✨
+Sombra Irresistible 💕
+By: Beauty Creations 🤩
+15 tonos que no pueden faltar en tus opciones.
+———————————————————
+Libre de crueldad 🐰 
+Full pigmentación 👌🏼
+———————————————————
+Envíos a todo Colombia 🇨🇴
+Puedes pedirlo por:
+- www.holycosmetics.com.co 👩🏻‍💻
+- WhatsApp 3013156284 🤳
+- DM📲
+#holycosmetics" />																						<div class="caption">🚨PROMO DEL DÍA 🚨LLEVA ESTA PALETA EN $28.000 📣✨
+Sombra Irresistible 💕
+By: Beauty Creations 🤩
+15 tonos que no pueden faltar en tus opciones.
+———————————————————
+Libre de crueldad 🐰 
+Full pigmentación 👌🏼
+———————————————————
+Envíos a todo Colombia 🇨🇴
+Puedes pedirlo por:
+- www.holycosmetics.com.co 👩🏻‍💻
+- WhatsApp 3013156284 🤳
+- DM📲
+#holycosmetics</div>
+													</a>
+					</div>
+				</div>
+				</div></div><div class="col"><div class="col-inner">				<div class="img has-hover no-overflow" id="instagram-989273766">
+					<div class="dark instagram-image-container image-overlay-remove">
+						<a href="//instagram.com/p/B0mAIRDg-SK/" target="_blank" rel="noopener noreferrer" class="plain">
+							<img src="https://scontent-iad3-1.cdninstagram.com/vp/8c78e2fc19c11f20fa7dcb7fb7b48602/5DEC88C9/t51.2885-15/e35/s320x320/66261144_371318953580912_5304734332861512122_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com" alt="POLVO BANANA🍌🍌 matificante
+City color 100% ORIGINAL 🇺🇸 ✅ ⚡️Este polvo es suelto⚡️
+💛Sella productos líquidos.
+💛 Brinda una sensación sedosa y ligera.
+💛Matificante.
+💛Borra imperfecciones.
+💛Translucido.
+Libre de crueldad 🐰 💥NOS SIRVE A TODAS💥
+ENVÍOS A TODO COLOMBIA 🇨🇴
+DOMICILIO EN CALI 👌🏼.
+Puedes pedirlo por:
+- www.holycosmetics.com.co 👩🏻‍💻
+- WhatsApp 3013156284 🤳
+- DM📲
+#holycosmetics" />																						<div class="caption">POLVO BANANA🍌🍌 matificante
+City color 100% ORIGINAL 🇺🇸 ✅ ⚡️Este polvo es suelto⚡️
+💛Sella productos líquidos.
+💛 Brinda una sensación sedosa y ligera.
+💛Matificante.
+💛Borra imperfecciones.
+💛Translucido.
+Libre de crueldad 🐰 💥NOS SIRVE A TODAS💥
+ENVÍOS A TODO COLOMBIA 🇨🇴
+DOMICILIO EN CALI 👌🏼.
+Puedes pedirlo por:
+- www.holycosmetics.com.co 👩🏻‍💻
+- WhatsApp 3013156284 🤳
+- DM📲
+#holycosmetics</div>
+													</a>
+					</div>
+				</div>
+				</div></div><div class="col"><div class="col-inner">				<div class="img has-hover no-overflow" id="instagram-989273766">
+					<div class="dark instagram-image-container image-overlay-remove">
+						<a href="//instagram.com/p/B0lN7EMgXKA/" target="_blank" rel="noopener noreferrer" class="plain">
+							<img src="https://scontent-iad3-1.cdninstagram.com/vp/f25e095e0076b6844ba827d0dcf48725/5DD4C4E9/t51.2885-15/e35/s320x320/66026369_339863273590748_6618028437169426081_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com" alt="UNA PALETA QUE ENAMORA❄️ 35 TONOS.
+Puedes hacer unos looks increíbles 😍
+Libre de crueldad 🐰
+ENVÍOS A TODO COLOMBIA 🇨🇴
+Puedes pedirla por:
+- www.holycosmetics.com.co👩🏻‍💻
+- WhatsApp 3013156284 🤳
+- DM📲
+#holycosmetics" />																						<div class="caption">UNA PALETA QUE ENAMORA❄️ 35 TONOS.
+Puedes hacer unos looks increíbles 😍
+Libre de crueldad 🐰
+ENVÍOS A TODO COLOMBIA 🇨🇴
+Puedes pedirla por:
+- www.holycosmetics.com.co👩🏻‍💻
+- WhatsApp 3013156284 🤳
+- DM📲
+#holycosmetics</div>
+													</a>
+					</div>
+				</div>
+				</div></div><div class="col"><div class="col-inner">				<div class="img has-hover no-overflow" id="instagram-989273766">
+					<div class="dark instagram-image-container image-overlay-remove">
+						<a href="//instagram.com/p/B0joHvoAJfd/" target="_blank" rel="noopener noreferrer" class="plain">
+							<img src="https://scontent-iad3-1.cdninstagram.com/vp/7ec1cc7cdf1e83b56e487608d104898c/5DE8C64E/t51.2885-15/e35/s320x320/67672066_100824597893994_4441700920827322478_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com" alt="Brochas Basic rose 🌸
+
+Están hechas de fibra sintética de alta calidad super suaves y lisas, las cerdas son super cómodas al tacto, tienen la densidad perfecta para aplicar productos sin absorber.
+Mango de madera.
+
+Brochas 100% libre de crueldad animal🐰. Envíos a todo Colombia 🇨🇴
+Puedes pedirlas por:
+- www.holycosmetics.com.co👩🏻‍💻
+- WhatsApp 3013156284 🤳
+- DM📲
+#holycosmetics" />																						<div class="caption">Brochas Basic rose 🌸
+
+Están hechas de fibra sintética de alta calidad super suaves y lisas, las cerdas son super cómodas al tacto, tienen la densidad perfecta para aplicar productos sin absorber.
+Mango de madera.
+
+Brochas 100% libre de crueldad animal🐰. Envíos a todo Colombia 🇨🇴
+Puedes pedirlas por:
+- www.holycosmetics.com.co👩🏻‍💻
+- WhatsApp 3013156284 🤳
+- DM📲
+#holycosmetics</div>
+													</a>
+					</div>
+				</div>
+				</div></div><div class="col"><div class="col-inner">				<div class="img has-hover no-overflow" id="instagram-989273766">
+					<div class="dark instagram-image-container image-overlay-remove">
+						<a href="//instagram.com/p/B0jB27Tg2tM/" target="_blank" rel="noopener noreferrer" class="plain">
+							<img src="https://scontent-iad3-1.cdninstagram.com/vp/e854102f3befd64d9ad4a413f0dfc7a1/5DDCF06D/t51.2885-15/e35/s320x320/67276821_517907058951023_4214247336034336083_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com" alt="📣𝐍𝐔𝐄𝐕𝐀 𝐌𝐀𝐑𝐂𝐀 📣
+
+Ha llegado MOIRA a nuestra tienda, paletas de alta pigmentación 😍 con iluminadores como complemento 🤩, enamorate de esta marca como nosotros 🙆🏻‍♀️.
+——————————————————
+Libre de crueldad 🐰
+Clic sobre la imagen para ver su precio✨
+——————————————————
+Envíos a todo Colombia 🇨🇴
+Puedes pedirla por:
+- www.holycosmetics.com.co 👩🏻‍💻
+- WhatsApp 3013156284 🤳
+- DM📲
+#holycosmetics" />																						<div class="caption">📣𝐍𝐔𝐄𝐕𝐀 𝐌𝐀𝐑𝐂𝐀 📣
+
+Ha llegado MOIRA a nuestra tienda, paletas de alta pigmentación 😍 con iluminadores como complemento 🤩, enamorate de esta marca como nosotros 🙆🏻‍♀️.
+——————————————————
+Libre de crueldad 🐰
+Clic sobre la imagen para ver su precio✨
+——————————————————
+Envíos a todo Colombia 🇨🇴
+Puedes pedirla por:
+- www.holycosmetics.com.co 👩🏻‍💻
+- WhatsApp 3013156284 🤳
+- DM📲
+#holycosmetics</div>
+													</a>
+					</div>
+				</div>
+				</div></div><div class="col"><div class="col-inner">				<div class="img has-hover no-overflow" id="instagram-989273766">
+					<div class="dark instagram-image-container image-overlay-remove">
+						<a href="//instagram.com/p/B0izDPaA3sc/" target="_blank" rel="noopener noreferrer" class="plain">
+							<img src="https://scontent-iad3-1.cdninstagram.com/vp/e57b04efc82e362a1003553b46d45cd0/5DEA9755/t51.2885-15/e35/s320x320/67286203_486458678591112_7260309391123478027_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com" alt="NOS ENCANTA PODER CUMPLIRLES ✨📣
+Gracias por confiar en nosotros y hacer parte de la familia Holy 💜
+Envíos 100% SEGUROS A TODO COLOMBIA 🇨🇴 🚛 
+#holycosmetics" />																						<div class="caption">NOS ENCANTA PODER CUMPLIRLES ✨📣
+Gracias por confiar en nosotros y hacer parte de la familia Holy 💜
+Envíos 100% SEGUROS A TODO COLOMBIA 🇨🇴 🚛 
+#holycosmetics</div>
+													</a>
+					</div>
+				</div>
+				</div></div><div class="col"><div class="col-inner">				<div class="img has-hover no-overflow" id="instagram-989273766">
+					<div class="dark instagram-image-container image-overlay-remove">
+						<a href="//instagram.com/p/B0ivqbxg4WS/" target="_blank" rel="noopener noreferrer" class="plain">
+							<img src="https://scontent-iad3-1.cdninstagram.com/vp/acb0b888472abc5b213a1158e6110f68/5DE4AFF0/t51.2885-15/e35/s320x320/67420847_2212796972344199_1216116202533621323_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com" alt="Sabemos que también las amas como nosotros 🙆🏻‍♀️ Brochas Sirena 🧜🏼‍♀️
+✨Pelo de fibra de lana.
+✨Mango de plástico.
+✨Libre de crueldad 🐰.
+Envíos a todo Colombia 🇨🇴
+Puedes pedirlo por:
+- www.holycosmetics.com.co 👩🏻‍💻
+- WhatsApp 3013156284 🤳
+- DM📲
+#holycosmetics" />																						<div class="caption">Sabemos que también las amas como nosotros 🙆🏻‍♀️ Brochas Sirena 🧜🏼‍♀️
+✨Pelo de fibra de lana.
+✨Mango de plástico.
+✨Libre de crueldad 🐰.
+Envíos a todo Colombia 🇨🇴
+Puedes pedirlo por:
+- www.holycosmetics.com.co 👩🏻‍💻
+- WhatsApp 3013156284 🤳
+- DM📲
+#holycosmetics</div>
+													</a>
+					</div>
+				</div>
+				</div></div><div class="col"><div class="col-inner">				<div class="img has-hover no-overflow" id="instagram-989273766">
+					<div class="dark instagram-image-container image-overlay-remove">
+						<a href="//instagram.com/p/B0hQAyxAlQT/" target="_blank" rel="noopener noreferrer" class="plain">
+							<img src="https://scontent-iad3-1.cdninstagram.com/vp/3280013ad0f3294b0674184d75e988d7/5D45B722/t51.2885-15/e35/s320x320/66110213_467566883821546_6634817349181042369_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com" alt="HACEMOS ENVIOS CON MUCHO AMOR 💜💜💜A TODO COLOMBIA 🇨🇴 🚛 para nosotros es muy importante que siempre tengas toda la información sobre tu paquete por eso te llega un correo con tu número de guía el mismo día de la compra o máximo dos días después ( si es fds)⚠️
+Recuerda que los rastreos los puedes realizar por medio de la app o web de servientrega ✅ 
+GRACIAS POR CONFIAR EN NOSOTROS ✨
+#holycosmetics" />																						<div class="caption">HACEMOS ENVIOS CON MUCHO AMOR 💜💜💜A TODO COLOMBIA 🇨🇴 🚛 para nosotros es muy importante que siempre tengas toda la información sobre tu paquete por eso te llega un correo con tu número de guía el mismo día de la compra o máximo dos días después ( si es fds)⚠️
+Recuerda que los rastreos los puedes realizar por medio de la app o web de servientrega ✅ 
+GRACIAS POR CONFIAR EN NOSOTROS ✨
+#holycosmetics</div>
+													</a>
+					</div>
+				</div>
+				</div></div></div>
+		
+				
+</div>
+
+
+
+</main><!-- #main -->
+
+<footer id="footer" class="footer-wrapper">
+
+	
+<!-- FOOTER 1 -->
+
+
+<!-- FOOTER 2 -->
+<div class="footer-widgets footer footer-2 dark">
+		<div class="row dark large-columns-2 mb-0">
+	   		
+		<div id="block_widget-2" class="col pb-0 widget block_widget">
+		<span class="widget-title">Acerca de Nosotros</span><div class="is-divider small"></div>		
+		<p><img src="/wp-content/uploads/2018/11/Holy_Cosmetics_Stroke-1-01.png" width="210"></img></p>
+<p align="justify">Iniciamos operaciones el 19 de Septiembre de 2017 como tienda de maquillaje Online gracias al espíritu emprendedor de una pareja de visionarios. A pocos meses de su operación Holy Cosmetics identifica la falta de Tiendas Online para la Compra de maquillaje, así que enfatizamos en que toda mujer desde la comodidad de su casa obtenga por medio de nosotros el mejor precio y calidad del mercado con la seguridad rapidez que nuestros clientes se merecen.</p>
+<div class="social-icons follow-icons " ><a href="https://www.facebook.com/cosmeticsholy" target="_blank" data-label="Facebook"  rel="noopener noreferrer nofollow" class="icon button circle is-outline facebook tooltip" title="Síguenos en Facebook"><i class="icon-facebook" ></i></a><a href="https://www.instagram.com/holycosmetics" target="_blank" rel="noopener noreferrer nofollow" data-label="Instagram" class="icon button circle is-outline  instagram tooltip" title="Síguenos en Instagram"><i class="icon-instagram" ></i></a><a href="mailto:mailto:cosmeticsholy@gmail.com" data-label="E-mail"  rel="nofollow" class="icon button circle is-outline  email tooltip" title="Envíanos un email"><i class="icon-envelop" ></i></a><a href="tel:+573013156284" target="_blank"  data-label="Phone"  rel="noopener noreferrer nofollow" class="icon button circle is-outline  phone tooltip" title="Call us"><i class="icon-phone" ></i></a></div>
+		</div>		
+		        
+		</div><!-- end row -->
+</div><!-- end footer 2 -->
+
+
+
+<div class="absolute-footer dark medium-text-center text-center">
+  <div class="container clearfix">
+
+          <div class="footer-secondary pull-right">
+                <div class="payment-icons inline-block"><img src="https://www.holycosmetics.co/wp-content/uploads/2018/08/Metodos-de-pago-PayU-Holy-Cosmetics-La-mejor-página-de-cosmeticos-de-Colombia-1.png" alt="bg_image" /></div>      </div><!-- -right -->
+    
+    <div class="footer-primary pull-left">
+              <div class="menu-secondary-container"><ul id="menu-secondary-1" class="links footer-nav uppercase"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-867"><a href="http://local.holy.com/nosotros/">Nosotros</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-548"><a href="http://local.holy.com/datos-personales/">Datos Personales</a></li>
+</ul></div>            <div class="copyright-footer">
+        Copyright 2019 © <strong>Holy Cosmetics</strong>      </div>
+          </div><!-- .left -->
+  </div><!-- .container -->
+</div><!-- .absolute-footer -->
+
+</footer><!-- .footer-wrapper -->
+
+</div><!-- #wrapper -->
+
+<!-- Mobile Sidebar -->
+<div id="main-menu" class="mobile-sidebar no-scrollbar mfp-hide">
+    <div class="sidebar-menu no-scrollbar text-center">
+        <ul class="nav nav-sidebar nav-anim nav-vertical nav-uppercase">
+              <li class="header-search-form search-form html relative has-icon">
+	<div class="header-search-form-wrapper">
+		<div class="searchform-wrapper ux-search-box relative form-flat is-normal"><form role="search" method="get" class="searchform" action="http://local.holy.com/">
+		<div class="flex-row relative">
+									<div class="flex-col flex-grow">
+			  <input type="search" class="search-field mb-0" name="s" value="" placeholder="Busca Aquí..." />
+		    <input type="hidden" name="post_type" value="product" />
+        			</div><!-- .flex-col -->
+			<div class="flex-col">
+				<button type="submit" class="ux-search-submit submit-button secondary button icon mb-0">
+					<i class="icon-search" ></i>				</button>
+			</div><!-- .flex-col -->
+		</div><!-- .flex-row -->
+	 <div class="live-search-results text-left z-top"></div>
+</form>
+</div>	</div>
+</li><li class="account-item has-icon menu-item">
+<a href="http://local.holy.com/mi-cuenta/"
+    class="nav-top-link nav-top-not-logged-in">
+    <span class="header-account-title">
+    Acceder  </span>
+</a><!-- .account-login-link -->
+
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-871"><a href="http://local.holy.com/product-category/labios/" class="nav-top-link">LABIOS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-872"><a href="http://local.holy.com/product-category/rostro/" class="nav-top-link">ROSTRO</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-870"><a href="http://local.holy.com/product-category/ojos/" class="nav-top-link">OJOS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-132674"><a href="http://local.holy.com/product-category/mascarilllas/" class="nav-top-link">MASCARILLLAS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-36126"><a href="http://local.holy.com/product-category/brochas/" class="nav-top-link">BROCHAS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-36007"><a href="http://local.holy.com/product-category/combos/" class="nav-top-link">COMBOS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-869"><a href="http://local.holy.com/product-category/accesorios/" class="nav-top-link">ACCESORIOS</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-264"><a href="http://local.holy.com/contacto/" class="nav-top-link">Contacto</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-867"><a href="http://local.holy.com/nosotros/" class="nav-top-link">Nosotros</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-548"><a href="http://local.holy.com/datos-personales/" class="nav-top-link">Datos Personales</a></li>
+        </ul>
+    </div><!-- inner -->
+</div><!-- #mobile-menu -->
+<div class="wa__btn_popup">
+    <div class="wa__btn_popup_txt">¿Necesitas ayuda? <strong>Habla con nosotros</strong></div>
+    <div class="wa__btn_popup_icon"></div>
+</div>
+<div class="wa__popup_chat_box">
+    <div class="wa__popup_heading">
+        <div class="wa__popup_title">Habla con nosotros</div>
+        <div class="wa__popup_intro">¡Hola! Haz click en Servicio al Cliente Para comunicarte con nosotros via <strong>Whatsapp</strong></a></div>
+    </div>
+    <!-- /.wa__popup_heading -->
+    <div class="wa__popup_content wa__popup_content_left">
+        <div class="wa__popup_notice">Hola, Para nosotros es un gusto poder atenderte, ¿En qué te podemos ayudar?</div>
+        <div class="wa__popup_content_list">
+
+                                            <div class="wa__popup_content_item">
+                    <a target="_blank" href="https://web.whatsapp.com/send?phone=573013156284" class="wa__stt wa__stt_offline">
+                                                    <div class="wa__popup_avatar nta-default-avt">   
+                                <svg width="48px" height="48px" class="nta-whatsapp-default-avatar" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+    <path style="fill:#EDEDED;" d="M0,512l35.31-128C12.359,344.276,0,300.138,0,254.234C0,114.759,114.759,0,255.117,0
+    S512,114.759,512,254.234S395.476,512,255.117,512c-44.138,0-86.51-14.124-124.469-35.31L0,512z"/>
+    <path style="fill:#55CD6C;" d="M137.71,430.786l7.945,4.414c32.662,20.303,70.621,32.662,110.345,32.662
+    c115.641,0,211.862-96.221,211.862-213.628S371.641,44.138,255.117,44.138S44.138,137.71,44.138,254.234
+    c0,40.607,11.476,80.331,32.662,113.876l5.297,7.945l-20.303,74.152L137.71,430.786z"/>
+    <path style="fill:#FEFEFE;" d="M187.145,135.945l-16.772-0.883c-5.297,0-10.593,1.766-14.124,5.297
+    c-7.945,7.062-21.186,20.303-24.717,37.959c-6.179,26.483,3.531,58.262,26.483,90.041s67.09,82.979,144.772,105.048
+    c24.717,7.062,44.138,2.648,60.028-7.062c12.359-7.945,20.303-20.303,22.952-33.545l2.648-12.359
+    c0.883-3.531-0.883-7.945-4.414-9.71l-55.614-25.6c-3.531-1.766-7.945-0.883-10.593,2.648l-22.069,28.248
+    c-1.766,1.766-4.414,2.648-7.062,1.766c-15.007-5.297-65.324-26.483-92.69-79.448c-0.883-2.648-0.883-5.297,0.883-7.062
+    l21.186-23.834c1.766-2.648,2.648-6.179,1.766-8.828l-25.6-57.379C193.324,138.593,190.676,135.945,187.145,135.945"/>
+</svg>                            </div>
+                        
+                        <div class="wa__popup_txt">
+                            <div class="wa__member_name"></div>
+                            <!-- /.wa__member_name -->
+                            <div class="wa__member_duty">Servicio al Cliente</div>
+                            <!-- /.wa__member_duty -->
+                                                        <div class="wa__member_status">
+                                Hola! en este momento no estamos disponibles para responder tu mensaje, volvemos pronto!                            </div>
+                                                    </div>
+                        <!-- /.wa__popup_txt -->
+                    </a>
+                </div>
+            
+        </div>
+        <!-- /.wa__popup_content_list -->
+    </div>
+    <!-- /.wa__popup_content -->
+</div>
+<!-- /.wa__popup_chat_box -->
+
+
+    <div id="wpfront-scroll-top-container">
+        <img src="/wp-content/uploads/2018/08/top_to_btm.png" alt="" />    </div>
+    <script type="text/javascript">function wpfront_scroll_top_init() {if(typeof wpfront_scroll_top == "function" && typeof jQuery !== "undefined") {wpfront_scroll_top({"scroll_offset":50,"button_width":0,"button_height":0,"button_opacity":0.8,"button_fade_duration":200,"scroll_duration":400,"location":1,"marginX":40,"marginY":40,"hide_iframe":false,"auto_hide":false,"auto_hide_after":2,"button_action":"top","button_action_element_selector":"","button_action_container_selector":"html, body","button_action_element_offset":0});} else {setTimeout(wpfront_scroll_top_init, 100);}}wpfront_scroll_top_init();</script>	<div style="display:none">
+	</div>
+    <div id="login-form-popup" class="lightbox-content mfp-hide">
+            <div class="woocommerce-notices-wrapper"></div>
+<div class="account-container lightbox-inner">
+
+	
+		<div class="account-login-inner">
+
+			<h3 class="uppercase">Acceder</h3>
+
+			<form class="woocommerce-form woocommerce-form-login login" method="post">
+
+				
+				<p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+					<label for="username">Nombre de usuario o correo electrónico&nbsp;<span class="required">*</span></label>
+					<input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="" />				</p>
+				<p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+					<label for="password">Contraseña&nbsp;<span class="required">*</span></label>
+					<input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password" />
+				</p>
+
+				
+				<p class="form-row">
+					<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="4669f779e8" /><input type="hidden" name="_wp_http_referer" value="/" />					<button type="submit" class="woocommerce-Button button" name="login" value="Acceder">Acceder</button>
+					<label class="woocommerce-form__label woocommerce-form__label-for-checkbox inline">
+						<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever" /> <span>Recuérdame</span>
+					</label>
+				</p>
+				<p class="woocommerce-LostPassword lost_password">
+					<a href="http://local.holy.com/mi-cuenta/lost-password/">¿Olvidaste la contraseña?</a>
+				</p>
+
+				
+			</form>
+		</div><!-- .login-inner -->
+
+
+</div><!-- .account-login-container -->
+
+          </div>
+  
+<!-- Facebook Pixel Code -->
+<noscript>
+<img height="1" width="1" style="display:none" alt="fbpx"
+src="https://www.facebook.com/tr?id=330662087669646&ev=PageView&noscript=1"/>
+</noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+    	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+			<script type="text/javascript">
+			var wc_product_block_data = JSON.parse( decodeURIComponent( '%7B%22min_columns%22%3A1%2C%22max_columns%22%3A6%2C%22default_columns%22%3A3%2C%22min_rows%22%3A1%2C%22max_rows%22%3A6%2C%22default_rows%22%3A1%2C%22thumbnail_size%22%3A300%2C%22placeholderImgSrc%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fwp-content%5C%2Fuploads%5C%2Fwoocommerce-placeholder-247x296.png%22%2C%22min_height%22%3A500%2C%22default_height%22%3A500%2C%22isLargeCatalog%22%3Afalse%2C%22productCategories%22%3A%5B%7B%22term_id%22%3A333%2C%22name%22%3A%22Bases%20Liquidas%22%2C%22slug%22%3A%22bases-liquidas%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A333%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22Bases%20Liquidas%22%2C%22parent%22%3A74%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Frostro%5C%2Fbases-liquidas%5C%2F%22%7D%2C%7B%22term_id%22%3A324%2C%22name%22%3A%22CABELLO%22%2C%22slug%22%3A%22cabello%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A324%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A18%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Fcabello%5C%2F%22%7D%2C%7B%22term_id%22%3A343%2C%22name%22%3A%22Contorno%22%2C%22slug%22%3A%22contorno%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A343%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22Contorno%22%2C%22parent%22%3A74%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Frostro%5C%2Fcontorno%5C%2F%22%7D%2C%7B%22term_id%22%3A341%2C%22name%22%3A%22Correctores%22%2C%22slug%22%3A%22correctores%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A341%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22Correctores%22%2C%22parent%22%3A74%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Frostro%5C%2Fcorrectores%5C%2F%22%7D%2C%7B%22term_id%22%3A346%2C%22name%22%3A%22CUIADADO%20DE%20PIEL%22%2C%22slug%22%3A%22cuiadado-de-piel%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A346%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22CUIADADO%20DE%20PIEL%22%2C%22parent%22%3A0%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Fcuiadado-de-piel%5C%2F%22%7D%2C%7B%22term_id%22%3A310%2C%22name%22%3A%22ESPEJOS%22%2C%22slug%22%3A%22espejos%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A310%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A3%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Fespejos%5C%2F%22%7D%2C%7B%22term_id%22%3A345%2C%22name%22%3A%22Iluminadores%22%2C%22slug%22%3A%22iluminadores%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A345%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22Iluminadores%22%2C%22parent%22%3A74%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Frostro%5C%2Filuminadores%5C%2F%22%7D%2C%7B%22term_id%22%3A347%2C%22name%22%3A%22Limpiadoras%20y%20Desmaquillantes%22%2C%22slug%22%3A%22limpiadoras-y-desmaquillantes%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A347%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22Limpiadoras%20y%20Desmaquillantes%22%2C%22parent%22%3A346%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Fcuiadado-de-piel%5C%2Flimpiadoras-y-desmaquillantes%5C%2F%22%7D%2C%7B%22term_id%22%3A334%2C%22name%22%3A%22Polvos%22%2C%22slug%22%3A%22polvos%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A334%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22Polvos%22%2C%22parent%22%3A74%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Frostro%5C%2Fpolvos%5C%2F%22%7D%2C%7B%22term_id%22%3A342%2C%22name%22%3A%22Primers%20y%20Fijadores%22%2C%22slug%22%3A%22primers-y-fijadores%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A342%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22primers-y-fijadores%22%2C%22parent%22%3A74%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Frostro%5C%2Fprimers-y-fijadores%5C%2F%22%7D%2C%7B%22term_id%22%3A344%2C%22name%22%3A%22Rubores%22%2C%22slug%22%3A%22rubores%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A344%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22Rubores%22%2C%22parent%22%3A74%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Frostro%5C%2Frubores%5C%2F%22%7D%2C%7B%22term_id%22%3A348%2C%22name%22%3A%22T%5Cu00f3nicos%22%2C%22slug%22%3A%22tonicos-8%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A348%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22T%5Cu00f3nicos%22%2C%22parent%22%3A346%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Fcuiadado-de-piel%5C%2Ftonicos-8%5C%2F%22%7D%2C%7B%22term_id%22%3A289%2C%22name%22%3A%22PROMOCIONES%22%2C%22slug%22%3A%22promociones%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A289%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A5%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Fpromociones%5C%2F%22%7D%2C%7B%22term_id%22%3A290%2C%22name%22%3A%22COMBOS%22%2C%22slug%22%3A%22combos%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A290%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A3%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Fcombos%5C%2F%22%7D%2C%7B%22term_id%22%3A74%2C%22name%22%3A%22ROSTRO%22%2C%22slug%22%3A%22rostro%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A74%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A53%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Frostro%5C%2F%22%7D%2C%7B%22term_id%22%3A73%2C%22name%22%3A%22OJOS%22%2C%22slug%22%3A%22ojos%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A73%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A39%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Fojos%5C%2F%22%7D%2C%7B%22term_id%22%3A70%2C%22name%22%3A%22LABIOS%22%2C%22slug%22%3A%22labios%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A70%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A5%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Flabios%5C%2F%22%7D%2C%7B%22term_id%22%3A189%2C%22name%22%3A%22BROCHAS%22%2C%22slug%22%3A%22brochas%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A189%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A30%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Fbrochas%5C%2F%22%7D%2C%7B%22term_id%22%3A202%2C%22name%22%3A%22MASCARILLLAS%22%2C%22slug%22%3A%22mascarilllas%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A202%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A14%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Fmascarilllas%5C%2F%22%7D%2C%7B%22term_id%22%3A231%2C%22name%22%3A%22CUIDADO%20FACIAL%22%2C%22slug%22%3A%22cuidado-facial%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A231%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A33%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Fcuidado-facial%5C%2F%22%7D%2C%7B%22term_id%22%3A297%2C%22name%22%3A%22CUIDADO%20PERSONAL%22%2C%22slug%22%3A%22cuidado-personal%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A297%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A27%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Fcuidado-personal%5C%2F%22%7D%2C%7B%22term_id%22%3A75%2C%22name%22%3A%22ACCESORIOS%22%2C%22slug%22%3A%22accesorios%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A75%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A64%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Faccesorios%5C%2F%22%7D%2C%7B%22term_id%22%3A69%2C%22name%22%3A%22Sin%20categor%5Cu00eda%22%2C%22slug%22%3A%22sin-categoria%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A69%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2Fproduct-category%5C%2Fsin-categoria%5C%2F%22%7D%5D%2C%22homeUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.holycosmetics.com.co%5C%2F%22%7D' ) );
+		</script>
+		<link rel='stylesheet' id='metaslider-responsive-slider-css'  href='http://local.holy.com/wp-content/plugins/ml-slider/assets/sliders/responsiveslides/responsiveslides.css?ver=3.13.1' type='text/css' media='all' property='stylesheet' />
+<link rel='stylesheet' id='metaslider-public-css'  href='http://local.holy.com/wp-content/plugins/ml-slider/assets/metaslider/public.css?ver=3.13.1' type='text/css' media='all' property='stylesheet' />
+<link rel='stylesheet' id='metaslider_highway_theme_styles-css'  href='http://local.holy.com/wp-content/plugins/ml-slider/themes/highway/v1.0.0/style.css?ver=1.0.0' type='text/css' media='all' property='stylesheet' />
+<script type='text/javascript' src='http://local.holy.com/wp-content/plugins/mgwoocommercebrands/js/mgwoocommercebrands.js?ver=5.1.1'></script>
+<script type='text/javascript' src='http://local.holy.com/wp-content/plugins/mgwoocommercebrands/js/owl-carousel/owl.carousel.min.js?ver=1.3.3'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/dist/vendor/lodash.min.js'></script>
+<script type='text/javascript'>
+window.lodash = _.noConflict();
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/dist/vendor/moment.min.js'></script>
+<script type='text/javascript'>
+moment.locale( 'es_ES', {"months":["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"monthsShort":["Ene","Feb","Mar","Abr","May","Jun","Jul","Ago","Sep","Oct","Nov","Dic"],"weekdays":["domingo","lunes","martes","mi\u00e9rcoles","jueves","viernes","s\u00e1bado"],"weekdaysShort":["dom","lun","mar","mi\u00e9","jue","vie","s\u00e1b"],"week":{"dow":1},"longDateFormat":{"LT":"g:i A","LTS":null,"L":null,"LL":"d\/m\/Y","LLL":"j F, Y g:i a","LLLL":null}} );
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/wp-a11y.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/dist/vendor/wp-polyfill.min.js'></script>
+<script type='text/javascript'>
+( 'fetch' in window ) || document.write( '<script src="http://local.holy.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="http://local.holy.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.26.0-0"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="http://local.holy.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="http://local.holy.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/dist/hooks.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/dist/i18n.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/dist/url.min.js'></script>
+<script type='text/javascript'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2019-04-24 08:02:32+0000","generator":"GlotPress\/2.4.0-alpha","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es"},"An unknown error occurred.":["Ocurri\u00f3 un error desconocido."],"The response is not a valid JSON response.":["Las respuesta no es una respuesta JSON v\u00e1lida."]}},"comment":{"reference":"wp-includes\/js\/dist\/api-fetch.js"}} );
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/dist/api-fetch.min.js'></script>
+<script type='text/javascript'>
+wp.apiFetch.use( wp.apiFetch.createNonceMiddleware( "825e4a61b0" ) );
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "http://local.holy.com/wp-json/" ) );
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/dist/vendor/react.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/dist/vendor/react-dom.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/dist/escape-html.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/dist/element.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/dist/is-shallow-equal.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/dist/compose.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/dist/dom.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/dist/html-entities.min.js'></script>
+<script type='text/javascript'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2019-04-24 08:02:32+0000","generator":"GlotPress\/2.4.0-alpha","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es"},"Backtick":["Acento grave"],"Period":["Punto"],"Comma":["Coma"]}},"comment":{"reference":"wp-includes\/js\/dist\/keycodes.js"}} );
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/dist/keycodes.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/dist/redux-routine.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/dist/data.min.js'></script>
+<script type='text/javascript'>
+( function() {
+	var userId = 0;
+	var storageKey = "WP_DATA_USER_" + userId;
+	wp.data
+		.use( wp.data.plugins.persistence, { storageKey: storageKey } )
+		.use( wp.data.plugins.controls );
+} )();
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/dist/rich-text.min.js'></script>
+<script type='text/javascript'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2019-04-24 08:02:32+0000","generator":"GlotPress\/2.4.0-alpha","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es"},"Error loading block: %s":["Error al cargar el bloque: %s"],"Number of items":["N\u00famero de elementos"],"All":["Todo"],"Category":["Categor\u00eda"],"Z \u2192 A":["Z \t A"],"A \u2192 Z":["A \t Z"],"Oldest to Newest":["De antiguas a nuevas"],"Newest to Oldest":["De nuevas a antiguas"],"Order by":["Ordenar por"],"Dismiss this notice":["Descartar este aviso"],"Remove item":["Quitar elemento"],"Item removed.":["Elemento quitado."],"Item added.":["Elemento a\u00f1adido."],"Separate with commas":["Separar con comas"],"Add item":["A\u00f1adir elemento."],"%1$s (%2$s of %3$s)":["%1$s (%2$s de %3$s)"],"Custom font size":["Tama\u00f1o de fuente personalizado"],"Font size: %s":["Tama\u00f1o de fuente: %s"],"Font Size":["Tama\u00f1o de fuente"],"font size name\u0004Custom":["Personalizado"],"font size name\u0004Normal":["Normal"],"Reset":["Restablecer"],"Calendar Help":["Ayuda del calendario"],"Go to the first (home) or last (end) day of a week.":["Ve al primer (inicio) o \u00faltimo (fin) d\u00eda de una semana."],"Home\/End":["Inicio\/Fin"],"Home and End":["Inicio y fin"],"Move backward (PgUp) or forward (PgDn) by one month.":["Moverse hacia atr\u00e1s (PgUp) o hacia delante (PgDn) un mes."],"PgUp\/PgDn":["Av P\u00e1g\/Re P\u00e1g"],"Page Up and Page Down":["Avanzar p\u00e1gina y retroceder p\u00e1gina"],"Move backward (up) or forward (down) by one week.":["Moverse hacia atr\u00e1s (arriba) o hacia delante (abajo) una semana."],"Up and Down Arrows":["Flechas arriba y abajo"],"Move backward (left) or forward (right) by one day.":["Moverse hacia atr\u00e1s (izquierda) o hacia delante (derecha) un d\u00eda."],"Left and Right Arrows":["Flechas izquierda y derecha"],"Select the date in focus.":["Seleccionar la fecha con foco."],"keyboard button\u0004Enter":["Intro"],"Navigating with a keyboard":["Navegaci\u00f3n con teclado"],"Click the desired day to select it.":["Clic en el d\u00eda deseado para seleccionarlo."],"Click the right or left arrows to select other months in the past or the future.":["Haz clic en las flechas izquierda y derecha para seleccionar otros meses en el pasado o en el futuro."],"Click to Select":["Clic para seleccionar"],"Minutes":["Minutos"],"Hours":["Horas"],"Color: %s":["Color: %s"],"Color code: %s":["C\u00f3digo de color: %s"],"Custom color picker":["Selector de color personalizado"],"Use your arrow keys to change the base color. Move up to lighten the color, down to darken, left to increase saturation, and right to decrease saturation.":["Utiliza las teclas de flechas para cambiar el color base. Arriba para aclarar el color, abajo para oscurecerlo, izquierda para aumentar la saturaci\u00f3n y derecha para reducir la saturaci\u00f3n."],"Choose a shade":["Elige una sombra"],"Change color format":["Cambia el formato de color"],"Color value in HSL":["Valor del color en HSL"],"Color value in RGB":["Valor del color en RGB"],"Color value in hexadecimal":["Valor del color en hexadecimal"],"Hex color mode active":["Modo de color hex activo"],"Hue\/saturation\/lightness mode active":["Modo de tono\/saturaci\u00f3n\/brillo activo"],"RGB mode active":["Modo RGB activo"],"Move the arrow left or right to change hue.":["Mueve la flecha izquierda o derecha para cambiar el tono."],"Hue value in degrees, from 0 to 359.":["Valor del tono en grados, de 0 a 359."],"Alpha value, from 0 (transparent) to 1 (fully opaque).":["Valor alfa, de 0 (transparente) a 1 (completamente opaco)."],"No results.":["No hay resultados."],"%d result found, use up and down arrow keys to navigate.":["%d resultado encontrado, utiliza las teclas arriba y abajo para navegar.","%d resultados encontrados, utiliza las teclas arriba y abajo para navegar."],"Close dialog":["Cerrar di\u00e1logo"],"Time":["Hora"],"Day":["D\u00eda"],"Month":["Mes"],"Date":["Fecha"],"PM":["PM"],"AM":["AM"],"December":["diciembre"],"November":["noviembre"],"October":["octubre"],"September":["septiembre"],"August":["agosto"],"July":["julio"],"June":["junio"],"May":["mayo"],"April":["abril"],"March":["marzo"],"February":["febrero"],"January":["enero"],"Year":["A\u00f1o"],"Custom Size":["Tama\u00f1o personalizado"],"Drop files to upload":["Arrastra archivos para subirlos"],"(opens in a new tab)":["(abre en una nueva pesta\u00f1a)"],"Clear":["Borrar"],"Close":["Cerrar"],"No results found.":["Sin resultados."]}},"comment":{"reference":"wp-includes\/js\/dist\/components.js"}} );
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/dist/components.min.js'></script>
+<script type='text/javascript' src='http://local.holy.com/wp-content/plugins/woo-gutenberg-products-block/build/vendors.js?ver=2.2.1'></script>
+<script type='text/javascript'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "woo-gutenberg-products-block", {"translation-revision-date":"2019-06-29 08:15:43+0000","generator":"GlotPress\/2.4.0-alpha","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es"},"Select a category":["Selecciona una categor\u00eda"],"Go to category":["Ir a la categor\u00eda"]}},"comment":{"reference":"build\/frontend.js"}} );
+</script>
+<script type='text/javascript' src='http://local.holy.com/wp-content/plugins/woo-gutenberg-products-block/build/frontend.js?ver=2.2.1'></script>
+<script type='text/javascript' src='http://local.holy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min.js?ver=1.2.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var yith_wcwl_l10n = {"ajax_url":"\/wp-admin\/admin-ajax.php","redirect_to_cart":"no","multi_wishlist":"","hide_add_button":"1","is_user_logged_in":"","ajax_loader_url":"https:\/\/www.holycosmetics.com.co\/wp-content\/plugins\/yith-woocommerce-wishlist\/assets\/images\/ajax-loader.gif","remove_from_wishlist_after_add_to_cart":"yes","labels":{"cookie_disabled":"Lo sentimos pero esta caracter\u00edstica solo est\u00e1 disponible si est\u00e1n activas las cookies en tu navegador.","added_to_cart_message":"<div class=\"woocommerce-message\">Producto correctamente a\u00f1adido al carrito<\/div>"},"actions":{"add_to_wishlist_action":"add_to_wishlist","remove_from_wishlist_action":"remove_from_wishlist","move_to_another_wishlist_action":"move_to_another_wishlsit","reload_wishlist_and_adding_elem_action":"reload_wishlist_and_adding_elem"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://local.holy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.js?ver=2.2.11'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.holycosmetics.com.co\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://local.holy.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201931'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/3.6.3/assets/js/jquery-blockui/jquery.blockUI.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Ver carrito","cart_url":"https:\/\/www.holycosmetics.com.co\/carrito-de-compras\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/3.6.3/assets/js/frontend/add-to-cart.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/3.6.3/assets/js/js-cookie/js.cookie.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/3.6.3/assets/js/frontend/woocommerce.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_ed4da7d62b6b3eba7e1d6f970643ff00","fragment_name":"wc_fragments_ed4da7d62b6b3eba7e1d6f970643ff00","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/3.6.3/assets/js/frontend/cart-fragments.min.js'></script>
+<script type='text/javascript'>
+		jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {
+			jQuery( 'body' ).trigger( 'jetpack-lazy-images-load' );
+		} );
+	
+</script>
+<script type='text/javascript' src='http://local.holy.com/wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.min.js?ver=2.0.1'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2019Augaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/7.5.3/modules/wpgroho.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/hoverIntent.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var flatsomeVars = {"ajaxurl":"https:\/\/www.holycosmetics.com.co\/wp-admin\/admin-ajax.php","rtl":"","sticky_height":"70","user":{"can_edit_pages":false}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://local.holy.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.7.2'></script>
+<script type='text/javascript' src='http://local.holy.com/wp-content/themes/flatsome/inc/integrations/wc-yith-wishlist/wishlist.js?ver=3.4'></script>
+<script type='text/javascript' src='http://local.holy.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.7.2'></script>
+<script type='text/javascript' src='http://local.holy.com/wp-content/themes/flatsome/assets/libs/infinite-scroll.pkgd.min.js?ver=3.0.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var flatsome_infinite_scroll = {"scroll_threshold":"400","fade_in_duration":"300","type":"spinner","list_style":"grid","history":"push"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://local.holy.com/wp-content/themes/flatsome/inc/extensions/flatsome-infinite-scroll/flatsome-infinite-scroll.js?ver=1.5'></script>
+<script type='text/javascript' src='http://local.holy.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.7.2'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='http://local.holy.com/wp-content/plugins/ml-slider/assets/sliders/responsiveslides/responsiveslides.min.js?ver=3.13.1'></script>
+<script type='text/javascript'>
+var metaslider_104659 = function($) {
+            $('#metaslider_104659').responsiveSlides({ 
+                timeout:3000,
+                pager:false,
+                nav:false,
+                pause:true,
+                speed:600,
+                prevText:'<i class="left"></i>',
+                nextText:'<i class="right"></i>',
+                auto:true
+            });
+            $(document).trigger('metaslider/initialized', '#metaslider_104659');
+        };
+        var timer_metaslider_104659 = function() {
+            var slider = !window.jQuery ? window.setTimeout(timer_metaslider_104659, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_104659, 1) : metaslider_104659(window.jQuery);
+        };
+        timer_metaslider_104659();
+</script>
+<script type='text/javascript' src='http://local.holy.com/wp-content/plugins/ml-slider/themes/highway/v1.0.0/script.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _zxcvbnSettings = {"src":"https:\/\/www.holycosmetics.com.co\/wp-includes\/js\/zxcvbn.min.js"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-includes/js/zxcvbn-async.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pwsL10n = {"unknown":"Fortaleza de contrase\u00f1a desconocida","short":"Muy d\u00e9bil","bad":"D\u00e9bil","good":"Medio","strong":"Fuerte","mismatch":"No coinciden"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1.1/wp-admin/js/password-strength-meter.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_password_strength_meter_params = {"min_password_strength":"3","i18n_password_error":"Por favor, introduce una contrase\u00f1a m\u00e1s fuerte.","i18n_password_hint":"Truco: La contrase\u00f1a debe ser de al menos doce caracteres. Para hacerla m\u00e1s fuerte usa may\u00fasculas y min\u00fasculas, n\u00fameros y s\u00edmbolos como ! \" ? $ % ^ y )."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/3.6.3/assets/js/frontend/password-strength-meter.min.js'></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) { 
+jQuery( 'div.woocommerce' ).on( 'click', 'a.remove', function() {
+				var productID = jQuery( this ).data( 'product_id' );
+				var quantity = jQuery( this ).parent().parent().find( '.qty' ).val()
+				var productDetails = {
+					'id': productID,
+					'quantity': quantity ? quantity : '1',
+				};
+				_wca.push( {
+					'_en': 'woocommerceanalytics_remove_from_cart',
+					'blog_id': '157018595',
+					'pi': productDetails.id,
+					'pq': productDetails.quantity,
+					'ui': 'null',
+				} );
+			} );
+ });
+</script>
+<script type='text/javascript' src='https://stats.wp.com/e-201931.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.5.3',blog:'157018595',post:'35983',tz:'-5',srv:'www.holycosmetics.com.co'} ]);
+	_stq.push([ 'clickTrackerInit', '157018595', '35983' ]);
+</script>
+
+</body>
+</html>

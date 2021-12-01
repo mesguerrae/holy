@@ -1,6 +1,6 @@
 [2019-09-24 04:24:38 : INFO] - 
  
-[2019-09-24 04:24:38 : INFO] - Header for logs at time:  Tue, 24 Sep 2019 04:24:38 +0000 on https://www.holycosmetics.com.co 
+[2019-09-24 04:24:38 : INFO] - Header for logs at time:  Tue, 24 Sep 2019 04:24:38 +0000 on http://local.holy.com 
 [2019-09-24 04:24:38 : INFO] - WP: 5.2.3 
 [2019-09-24 04:24:38 : INFO] - PHP: 7.0.33 (cgi-fcgi, Linux giowm4.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) 
 [2019-09-24 04:24:38 : INFO] - MySQL: 5.6.40 
@@ -174,7 +174,7 @@
 [2019-09-24 04:25:40 : INFO] - 95 
 [2019-09-24 04:34:46 : INFO] - 
  
-[2019-09-24 04:34:46 : INFO] - Header for logs at time:  Tue, 24 Sep 2019 04:34:46 +0000 on https://www.holycosmetics.com.co 
+[2019-09-24 04:34:46 : INFO] - Header for logs at time:  Tue, 24 Sep 2019 04:34:46 +0000 on http://local.holy.com 
 [2019-09-24 04:34:46 : INFO] - WP: 5.2.3 
 [2019-09-24 04:34:46 : INFO] - PHP: 7.0.33 (cgi-fcgi, Linux giowm4.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) 
 [2019-09-24 04:34:46 : INFO] - MySQL: 5.6.40 
@@ -302,7 +302,7 @@
 [2019-09-24 04:35:47 : INFO] - 95 
 [2019-09-24 04:45:00 : INFO] - 
  
-[2019-09-24 04:45:00 : INFO] - Header for logs at time:  Tue, 24 Sep 2019 04:45:00 +0000 on https://www.holycosmetics.com.co 
+[2019-09-24 04:45:00 : INFO] - Header for logs at time:  Tue, 24 Sep 2019 04:45:00 +0000 on http://local.holy.com 
 [2019-09-24 04:45:00 : INFO] - WP: 5.2.3 
 [2019-09-24 04:45:00 : INFO] - PHP: 7.0.33 (cgi-fcgi, Linux giowm4.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) 
 [2019-09-24 04:45:00 : INFO] - MySQL: 5.6.40 
@@ -456,7 +456,7 @@
 [2019-09-24 04:46:02 : INFO] - 95 
 [2019-09-24 04:55:34 : INFO] - 
  
-[2019-09-24 04:55:34 : INFO] - Header for logs at time:  Tue, 24 Sep 2019 04:55:34 +0000 on https://www.holycosmetics.com.co 
+[2019-09-24 04:55:34 : INFO] - Header for logs at time:  Tue, 24 Sep 2019 04:55:34 +0000 on http://local.holy.com 
 [2019-09-24 04:55:34 : INFO] - WP: 5.2.3 
 [2019-09-24 04:55:34 : INFO] - PHP: 7.0.33 (cgi-fcgi, Linux giowm4.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) 
 [2019-09-24 04:55:34 : INFO] - MySQL: 5.6.40 
@@ -616,7 +616,7 @@
 [2019-09-24 04:56:36 : INFO] - 95 
 [2019-09-24 05:05:46 : INFO] - 
  
-[2019-09-24 05:05:46 : INFO] - Header for logs at time:  Tue, 24 Sep 2019 05:05:46 +0000 on https://www.holycosmetics.com.co 
+[2019-09-24 05:05:46 : INFO] - Header for logs at time:  Tue, 24 Sep 2019 05:05:46 +0000 on http://local.holy.com 
 [2019-09-24 05:05:46 : INFO] - WP: 5.2.3 
 [2019-09-24 05:05:46 : INFO] - PHP: 7.0.33 (cgi-fcgi, Linux giowm4.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) 
 [2019-09-24 05:05:46 : INFO] - MySQL: 5.6.40 
@@ -784,7 +784,7 @@
 [2019-09-24 05:06:48 : INFO] - 95 
 [2019-09-24 05:16:53 : INFO] - 
  
-[2019-09-24 05:16:53 : INFO] - Header for logs at time:  Tue, 24 Sep 2019 05:16:53 +0000 on https://www.holycosmetics.com.co 
+[2019-09-24 05:16:53 : INFO] - Header for logs at time:  Tue, 24 Sep 2019 05:16:53 +0000 on http://local.holy.com 
 [2019-09-24 05:16:53 : INFO] - WP: 5.2.3 
 [2019-09-24 05:16:53 : INFO] - PHP: 7.0.33 (cgi-fcgi, Linux giowm4.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) 
 [2019-09-24 05:16:53 : INFO] - MySQL: 5.6.40 
@@ -936,7 +936,7 @@
 [2019-09-24 05:17:54 : INFO] - 95 
 [2019-09-24 05:26:58 : INFO] - 
  
-[2019-09-24 05:26:58 : INFO] - Header for logs at time:  Tue, 24 Sep 2019 05:26:58 +0000 on https://www.holycosmetics.com.co 
+[2019-09-24 05:26:58 : INFO] - Header for logs at time:  Tue, 24 Sep 2019 05:26:58 +0000 on http://local.holy.com 
 [2019-09-24 05:26:58 : INFO] - WP: 5.2.3 
 [2019-09-24 05:26:58 : INFO] - PHP: 7.0.33 (cgi-fcgi, Linux giowm4.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) 
 [2019-09-24 05:26:58 : INFO] - MySQL: 5.6.40 
@@ -1041,7 +1041,7 @@
 [2019-09-24 05:27:59 : INFO] - 95 
 [2019-09-24 05:38:05 : INFO] - 
  
-[2019-09-24 05:38:05 : INFO] - Header for logs at time:  Tue, 24 Sep 2019 05:38:05 +0000 on https://www.holycosmetics.com.co 
+[2019-09-24 05:38:05 : INFO] - Header for logs at time:  Tue, 24 Sep 2019 05:38:05 +0000 on http://local.holy.com 
 [2019-09-24 05:38:05 : INFO] - WP: 5.2.3 
 [2019-09-24 05:38:05 : INFO] - PHP: 7.0.33 (cgi-fcgi, Linux giowm4.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) 
 [2019-09-24 05:38:05 : INFO] - MySQL: 5.6.40 
@@ -1148,7 +1148,7 @@
 [2019-09-24 05:39:04 : INFO] - Cleaning up tasks of type (smush). A total of 503 tasks will be deleted. 
 [2019-09-24 05:48:06 : INFO] - 
  
-[2019-09-24 05:48:06 : INFO] - Header for logs at time:  Tue, 24 Sep 2019 05:48:06 +0000 on https://www.holycosmetics.com.co 
+[2019-09-24 05:48:06 : INFO] - Header for logs at time:  Tue, 24 Sep 2019 05:48:06 +0000 on http://local.holy.com 
 [2019-09-24 05:48:06 : INFO] - WP: 5.2.3 
 [2019-09-24 05:48:06 : INFO] - PHP: 7.0.33 (cgi-fcgi, Linux giowm4.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) 
 [2019-09-24 05:48:06 : INFO] - MySQL: 5.6.40 
@@ -1164,7 +1164,7 @@
 [2019-09-26 16:20:55 : INFO] - Re_Smush_It_Task with attachment ID : 153783, autocreated on : September 26, 2019 04:20:55 
 [2019-09-26 16:26:04 : INFO] - 
  
-[2019-09-26 16:26:04 : INFO] - Header for logs at time:  Thu, 26 Sep 2019 16:26:04 +0000 on https://www.holycosmetics.com.co 
+[2019-09-26 16:26:04 : INFO] - Header for logs at time:  Thu, 26 Sep 2019 16:26:04 +0000 on http://local.holy.com 
 [2019-09-26 16:26:04 : INFO] - WP: 5.2.3 
 [2019-09-26 16:26:04 : INFO] - PHP: 7.0.33 (cgi-fcgi, Linux giowm4.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) 
 [2019-09-26 16:26:04 : INFO] - MySQL: 5.6.40 
@@ -1206,7 +1206,7 @@
 [2019-09-26 16:26:11 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
 [2019-09-26 16:36:09 : INFO] - 
  
-[2019-09-26 16:36:09 : INFO] - Header for logs at time:  Thu, 26 Sep 2019 16:36:09 +0000 on https://www.holycosmetics.com.co 
+[2019-09-26 16:36:09 : INFO] - Header for logs at time:  Thu, 26 Sep 2019 16:36:09 +0000 on http://local.holy.com 
 [2019-09-26 16:36:09 : INFO] - WP: 5.2.3 
 [2019-09-26 16:36:09 : INFO] - PHP: 7.0.33 (cgi-fcgi, Linux giowm4.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) 
 [2019-09-26 16:36:09 : INFO] - MySQL: 5.6.40 
@@ -1222,7 +1222,7 @@
 [2019-09-26 17:18:17 : INFO] - Re_Smush_It_Task with attachment ID : 153786, autocreated on : September 26, 2019 05:18:17 
 [2019-09-26 17:23:19 : INFO] - 
  
-[2019-09-26 17:23:19 : INFO] - Header for logs at time:  Thu, 26 Sep 2019 17:23:19 +0000 on https://www.holycosmetics.com.co 
+[2019-09-26 17:23:19 : INFO] - Header for logs at time:  Thu, 26 Sep 2019 17:23:19 +0000 on http://local.holy.com 
 [2019-09-26 17:23:19 : INFO] - WP: 5.2.3 
 [2019-09-26 17:23:19 : INFO] - PHP: 7.0.33 (cgi-fcgi, Linux giowm4.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) 
 [2019-09-26 17:23:19 : INFO] - MySQL: 5.6.40 
@@ -1264,7 +1264,7 @@
 [2019-09-26 17:23:32 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
 [2019-09-26 17:33:56 : INFO] - 
  
-[2019-09-26 17:33:56 : INFO] - Header for logs at time:  Thu, 26 Sep 2019 17:33:56 +0000 on https://www.holycosmetics.com.co 
+[2019-09-26 17:33:56 : INFO] - Header for logs at time:  Thu, 26 Sep 2019 17:33:56 +0000 on http://local.holy.com 
 [2019-09-26 17:33:56 : INFO] - WP: 5.2.3 
 [2019-09-26 17:33:56 : INFO] - PHP: 7.0.33 (cgi-fcgi, Linux giowm4.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) 
 [2019-09-26 17:33:56 : INFO] - MySQL: 5.6.40 
@@ -1280,7 +1280,7 @@
 [2019-09-26 17:45:33 : INFO] - Re_Smush_It_Task with attachment ID : 153795, autocreated on : September 26, 2019 05:45:32 
 [2019-09-26 17:50:37 : INFO] - 
  
-[2019-09-26 17:50:37 : INFO] - Header for logs at time:  Thu, 26 Sep 2019 17:50:37 +0000 on https://www.holycosmetics.com.co 
+[2019-09-26 17:50:37 : INFO] - Header for logs at time:  Thu, 26 Sep 2019 17:50:37 +0000 on http://local.holy.com 
 [2019-09-26 17:50:37 : INFO] - WP: 5.2.3 
 [2019-09-26 17:50:37 : INFO] - PHP: 7.0.33 (cgi-fcgi, Linux giowm4.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) 
 [2019-09-26 17:50:37 : INFO] - MySQL: 5.6.40 
@@ -1322,7 +1322,7 @@
 [2019-09-26 17:50:50 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
 [2019-09-26 18:00:42 : INFO] - 
  
-[2019-09-26 18:00:42 : INFO] - Header for logs at time:  Thu, 26 Sep 2019 18:00:42 +0000 on https://www.holycosmetics.com.co 
+[2019-09-26 18:00:42 : INFO] - Header for logs at time:  Thu, 26 Sep 2019 18:00:42 +0000 on http://local.holy.com 
 [2019-09-26 18:00:42 : INFO] - WP: 5.2.3 
 [2019-09-26 18:00:42 : INFO] - PHP: 7.0.33 (cgi-fcgi, Linux giowm4.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) 
 [2019-09-26 18:00:42 : INFO] - MySQL: 5.6.40 
@@ -1339,7 +1339,7 @@
 [2019-09-27 22:57:36 : INFO] - Re_Smush_It_Task with attachment ID : 154008, autocreated on : September 27, 2019 10:57:36 
 [2019-09-27 22:59:28 : INFO] - 
  
-[2019-09-27 22:59:28 : INFO] - Header for logs at time:  Fri, 27 Sep 2019 22:59:28 +0000 on https://www.holycosmetics.com.co 
+[2019-09-27 22:59:28 : INFO] - Header for logs at time:  Fri, 27 Sep 2019 22:59:28 +0000 on http://local.holy.com 
 [2019-09-27 22:59:28 : INFO] - WP: 5.2.3 
 [2019-09-27 22:59:28 : INFO] - PHP: 7.0.33 (cgi-fcgi, Linux giowm4.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) 
 [2019-09-27 22:59:28 : INFO] - MySQL: 5.6.40 
@@ -1405,7 +1405,7 @@
 [2019-09-27 23:07:43 : INFO] - Re_Smush_It_Task with attachment ID : 154020, autocreated on : September 27, 2019 11:07:43 
 [2019-09-27 23:09:41 : INFO] - 
  
-[2019-09-27 23:09:41 : INFO] - Header for logs at time:  Fri, 27 Sep 2019 23:09:41 +0000 on https://www.holycosmetics.com.co 
+[2019-09-27 23:09:41 : INFO] - Header for logs at time:  Fri, 27 Sep 2019 23:09:41 +0000 on http://local.holy.com 
 [2019-09-27 23:09:41 : INFO] - WP: 5.2.3 
 [2019-09-27 23:09:41 : INFO] - PHP: 7.0.33 (cgi-fcgi, Linux giowm4.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) 
 [2019-09-27 23:09:41 : INFO] - MySQL: 5.6.40 
@@ -1508,7 +1508,7 @@
 [2019-09-27 23:10:09 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
 [2019-09-27 23:20:32 : INFO] - 
  
-[2019-09-27 23:20:32 : INFO] - Header for logs at time:  Fri, 27 Sep 2019 23:20:32 +0000 on https://www.holycosmetics.com.co 
+[2019-09-27 23:20:32 : INFO] - Header for logs at time:  Fri, 27 Sep 2019 23:20:32 +0000 on http://local.holy.com 
 [2019-09-27 23:20:32 : INFO] - WP: 5.2.3 
 [2019-09-27 23:20:32 : INFO] - PHP: 7.0.33 (cgi-fcgi, Linux giowm4.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) 
 [2019-09-27 23:20:32 : INFO] - MySQL: 5.6.40 
@@ -1525,7 +1525,7 @@
 [2019-10-07 17:46:45 : INFO] - Re_Smush_It_Task with attachment ID : 156593, autocreated on : October 07, 2019 05:46:45 
 [2019-10-07 17:51:31 : INFO] - 
  
-[2019-10-07 17:51:31 : INFO] - Header for logs at time:  Mon, 07 Oct 2019 17:51:31 +0000 on https://www.holycosmetics.com.co 
+[2019-10-07 17:51:31 : INFO] - Header for logs at time:  Mon, 07 Oct 2019 17:51:31 +0000 on http://local.holy.com 
 [2019-10-07 17:51:31 : INFO] - WP: 5.2.3 
 [2019-10-07 17:51:31 : INFO] - PHP: 7.0.33 (cgi-fcgi, Linux giowm4.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) 
 [2019-10-07 17:51:31 : INFO] - MySQL: 5.6.40 
@@ -1588,7 +1588,7 @@
 [2019-10-07 17:51:51 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
 [2019-10-07 18:01:31 : INFO] - 
  
-[2019-10-07 18:01:31 : INFO] - Header for logs at time:  Mon, 07 Oct 2019 18:01:31 +0000 on https://www.holycosmetics.com.co 
+[2019-10-07 18:01:31 : INFO] - Header for logs at time:  Mon, 07 Oct 2019 18:01:31 +0000 on http://local.holy.com 
 [2019-10-07 18:01:31 : INFO] - WP: 5.2.3 
 [2019-10-07 18:01:31 : INFO] - PHP: 7.0.33 (cgi-fcgi, Linux giowm4.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) 
 [2019-10-07 18:01:31 : INFO] - MySQL: 5.6.40 

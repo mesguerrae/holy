@@ -466,7 +466,7 @@ class WC_GC_Cart {
 				wc_add_notice( $e->getMessage(), 'error' );
 			}
 
-			wp_safe_redirect( $base_url );
+			wp_safe_redirect( $base_url ); 
 			exit;
 		}
 	}

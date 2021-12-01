@@ -1,0 +1,6 @@
+﻿ID;SKU;Nombre;Publicado;Visibilidad en el catálogo;Nombre del atributo 1;Valor(es) del atributo 1;Atributo visible 1;Atributo global 1;Nombre del atributo 2;Valor(es) del atributo 2;Atributo visible 2;Atributo global 2;Atributo por defecto 2
+313112;1231243;ACEITE DE ALMENDRAS;1;visible;MARCA;PILI;1;1;;;;;
+313787;432423;ACEITE PARA UÑAS;1;visible;MARCA;OPI;1;0;EDAD;35-45, 45 en adelante;1;1;
+306847;4433;ÁCIDO HIALURÓNICO - TRATAMIENTO DE MANCHAS Y ARRUGAS;1;visible;MARCA;DOLCE BELLA;1;0;EDAD;35-45, 45 en adelante;1;1;
+63823;42342;AGUA DE HAMAMELIS PILI;1;visible;MARCA;PILI;1;0;;;;;
+214093;3434;AGUA DE ROSAS PILI;1;visible;MARCA;PILI;1;0;EDAD;15-25, 25-35, 35-45, 45 en adelante;1;1;

@@ -60,14 +60,14 @@ function tag_manager_function(){
 
 function mode_maintenance(){
     if(!current_user_can('edit_themes') || !is_user_logged_in()){
-        wp_die('<div style="text-align:center;"><img src="https://www.holycosmetics.com.co/wp-content/uploads/2018/11/Holy_Cosmetics_Stroke-1-01.png" width="230" style="text-align:center;" height="100"></img><div style="border:solid 1px grey;"><h1 style="color:#e7c5a8; text-align:center; text-transform:uppercase;">Sitio en Mantenimiento</h1><p style="text-align:center; font-size:18px;">Estamos trabajando para mejorar ¡en breve estaremos online!</p></div>', 'Sitio en Mantenimiento</div>', array( ‘response’ => 503 ));
+        wp_die('<div style="text-align:center;"><img src="http://local.holy.com/wp-content/uploads/2018/11/Holy_Cosmetics_Stroke-1-01.png" width="230" style="text-align:center;" height="100"></img><div style="border:solid 1px grey;"><h1 style="color:#e7c5a8; text-align:center; text-transform:uppercase;">Sitio en Mantenimiento</h1><p style="text-align:center; font-size:18px;">Estamos trabajando para mejorar ¡en breve estaremos online!</p></div>', 'Sitio en Mantenimiento</div>', array( ‘response’ => 503 ));
     }
 }
 //add_action('init', 'mode_maintenance');
 
 function add_meta_tags() {
 ?>
-  <link rel="shortcut icon" href="https://www.holycosmetics.com.co/wp-content/uploads/2020/06/cropped-LOGO-HOLY-COSMETICS-32x32.png" sizes="32x32" />
+  <link rel="shortcut icon" href="http://local.holy.com/wp-content/uploads/2020/06/cropped-LOGO-HOLY-COSMETICS-32x32.png" sizes="32x32" />
 <?php }
 add_action('wp_head', 'add_meta_tags');
 
